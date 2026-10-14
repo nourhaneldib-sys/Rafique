@@ -5,10 +5,13 @@
    "ayah": "5:32",
    "title_en": "Floods in Nepal: rescuers reach the stranded",
    "title_fr": "Inondations au Népal : les secours rejoignent les personnes bloquées",
+   "title_ar": "فيضانات في نيبال: فرق الإنقاذ تصل إلى العالقين",
    "summary_en": "A landslide blocked a river in Nepal's Gorkha district on Sunday, and the flood that followed swept away homes and part of a trekking trail. Rescuers have brought 96 people to safety, while more than 100 foreign trekkers waited for routes to reopen. No deaths were reported, but five villagers were still out of contact.",
    "summary_fr": "Dimanche, un glissement de terrain a bloqué une rivière dans le district de Gorkha, au Népal, et la crue qui a suivi a emporté des maisons et une partie d'un sentier de randonnée. Les secours ont mis 96 personnes à l'abri, tandis que plus de 100 randonneurs étrangers attendaient la réouverture des chemins. Aucun décès n'a été signalé, mais cinq villageois restaient injoignables.",
+   "summary_ar": "يوم الأحد، سدّ انهيار أرضي نهرًا في منطقة غوركا بنيبال، فجرف الفيضان الذي تلاه منازل وجزءًا من مسار للمشي الجبلي. أنقذت فرق الإنقاذ 96 شخصًا، بينما انتظر أكثر من 100 متنزه أجنبي إعادة فتح الطرق. لم تُسجَّل وفيات، لكن خمسة من القرويين ظلوا منقطعي الاتصال.",
    "why_en": "Al-Mukhtasar explains that whoever holds a single life sacred is as if he had given life to all people, because the safety of everyone lies in that. The ayah is not about Nepal; it asks how much one life is worth, and the ayah's own wording, 'whoso saveth the life of one', is what rescuers are doing this week.",
    "why_fr": "Al-Mukhtasar explique que celui qui tient une seule vie pour sacrée est comme s'il avait donné la vie à tous les hommes, car la sécurité de tous en dépend. Le verset ne parle pas du Népal ; il demande ce que vaut une seule vie, et ses propres mots, « quiconque lui fait don de la vie », décrivent ce que font les sauveteurs cette semaine.",
+   "why_ar": "يبيّن المختصر أن من امتنع عن قتل نفس حرّمها الله «فكأنما أحيا الناس جميعًا؛ لأن صنيعه فيه سلامتهم جميعًا». الآية ليست عن نيبال؛ إنها تسأل عن قيمة نفس واحدة، وقولها ﴿وَمَنۡ أَحۡيَاهَا﴾ يصف ما يفعله المنقذون هذا الأسبوع.",
    "prompts_en": [
     "When did someone last 'give life' to you in a small way: help that came when you could not help yourself?",
     "Whose safety, comfort or dignity depends partly on you this week, at home, at work or in your street?",
@@ -19,8 +22,14 @@
     "La sécurité, le confort ou la dignité de qui dépend en partie de vous cette semaine, à la maison, au travail ou dans votre rue ?",
     "Le verset met en balance une vie et toute l'humanité. Qu'est-ce qui changerait si vous voyiez ainsi chaque personne rencontrée aujourd'hui ?"
    ],
+   "prompts_ar": [
+    "متى «أحياني» أحدٌ آخر مرة ولو بشيء صغير: عونٌ جاء حين لم أستطع أن أعين نفسي؟",
+    "سلامة مَن، أو راحته، أو كرامته، تتوقف عليّ جزئيًا هذا الأسبوع، في البيت أو العمل أو الحي؟",
+    "توازن الآية بين نفس واحدة والناس جميعًا. ماذا يتغير لو نظرتُ هكذا إلى كل من ألقاه اليوم؟"
+   ],
    "step_en": "Read the ayah, put the phone down for one minute, then make du'a for the people affected by the floods and for those working to reach them.",
    "step_fr": "Lisez le verset, posez le téléphone une minute, puis faites une invocation pour les personnes touchées par les inondations et pour celles qui travaillent à les rejoindre.",
+   "step_ar": "قراءة الآية، ثم وضع الهاتف جانبًا دقيقة واحدة، ثم الدعاء للمتضررين من الفيضانات وللعاملين على الوصول إليهم.",
    "sources": [
     {
      "name": "Reuters (via The Star)",
