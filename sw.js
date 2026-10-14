@@ -1,5 +1,5 @@
 /* Rafiq service worker: works offline after the first visit. Bump VERSION when you publish changes. */
-const VERSION = "rafiq-v5";
+const VERSION = "rafiq-v6";
 const QURAN_CACHE = "rafiq-quran-1";   // Quran files never change: kept across app versions
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });
@@ -18,6 +18,7 @@ self.addEventListener("fetch", e => {
   }
   if (url.origin !== location.origin) return;
   if (url.pathname.endsWith("/reflections.json")) { e.respondWith(networkFirst(req, "reflections.json")); return; }   // today's reflection
+  if (/\/seerah\/\d+\.json$/.test(url.pathname)) { e.respondWith(networkFirst(req, url.pathname)); return; }          // path lessons: newest translation when online
   if (/\/quran\/\d+\.json$/.test(url.pathname)) {                                                                // a surah: once loaded, always offline
     e.respondWith(caches.open(QURAN_CACHE).then(c => c.match(req).then(hit => hit || fetch(req).then(res => { if (res.ok) c.put(req, res.clone()); return res; }))));
     return;
