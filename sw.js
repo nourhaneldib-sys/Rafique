@@ -1,5 +1,5 @@
 /* Rafiq service worker: works offline after the first visit. Bump VERSION when you publish changes. */
-const VERSION = "rafiq-v7";
+const VERSION = "rafiq-v8";
 const QURAN_CACHE = "rafiq-quran-2";   // Quran files: kept across app versions (bump when their content changes: v2 added the Arabic tafsir)
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });
