@@ -1,6 +1,47 @@
 {
  "items": [
   {
+   "date": "2026-10-15",
+   "ayah": "2:155",
+   "title_en": "Ebola in Congo passes 9,000 confirmed cases",
+   "title_fr": "Ebola en RD Congo : plus de 9 000 cas confirmés",
+   "title_ar": "الإيبولا في الكونغو الديمقراطية تتجاوز تسعة آلاف إصابة مؤكدة",
+   "summary_en": "Congo's Health Ministry reports 9,066 confirmed Ebola cases and 4,381 deaths across seven provinces, making it the largest of the country's 17 outbreaks. It is caused by the rare Bundibugyo virus, for which there is no approved vaccine or treatment. Officials say confirmed cases are only about a third of the total, and many deaths happen outside treatment centres.",
+   "summary_fr": "Le ministère congolais de la Santé recense 9 066 cas confirmés d'Ebola et 4 381 décès dans sept provinces : c'est la plus grande des 17 épidémies qu'a connues le pays. Elle est due au rare virus Bundibugyo, contre lequel il n'existe ni vaccin ni traitement homologué. Selon les autorités, les cas confirmés ne représentent qu'environ un tiers du total, et de nombreux décès surviennent hors des centres de traitement.",
+   "summary_ar": "أعلنت وزارة الصحة في الكونغو الديمقراطية تسجيل 9066 إصابة مؤكدة بالإيبولا و4381 وفاة في سبع مقاطعات، لتصبح هذه الموجة الأكبر بين 17 موجة عرفها البلد. ويسببها فيروس بونديبوجيو النادر، ولا يوجد له لقاح أو علاج معتمد. ويقول المسؤولون إن الإصابات المؤكدة لا تمثل إلا نحو ثلث العدد الحقيقي، وإن كثيرًا من الوفيات يقع خارج مراكز العلاج.",
+   "why_en": "Al-Mukhtasar explains that Allah tests people with hardships, among them fear, hunger, loss of wealth, and loss of lives through diseases and tragedies, and that the Prophet is told to give good news to those who stay patient through them. This ayah is not about this outbreak. It raises a question for each of us: how do I hold on to patience when loss comes close?",
+   "why_fr": "Selon Al-Mukhtasar, Allah éprouve les gens par des épreuves, dont la peur, la faim, la perte de biens et la perte de vies par les maladies et les catastrophes, et Il demande au Prophète d'annoncer une bonne nouvelle à ceux qui restent patients face à elles. Ce verset ne parle pas de cette épidémie. Il pose une question à chacun : comment garder patience quand la perte se rapproche ?",
+   "why_ar": "يبيّن المختصر أن الله يبتلي الناس، فيقول: «ولنَمْتحِننّكم بأنواع من المصائب»، ومنها «وبنقص في الأنفس بسبب الآفات التي تهلك الناس»، ثم قال: «وبشّر - أيها النبي - الصابرين على تلك المصائب بما يسرهم في الدنيا والآخرة»، وهو معنى ﴿وَبَشِّرِ ٱلصَّـٰبِرِينَ﴾. والآية لا تتحدث عن هذا الوباء، لكنها تثير سؤالًا: كيف أثبت على الصبر حين تقترب المصيبة؟",
+   "prompts_en": [
+    "When I hear of loss on this scale, what do I feel, and what do I do with that feeling?",
+    "What has helped me stay patient in a hardship I have lived through?",
+    "Who around me is carrying a loss right now, and how could I stand by them?"
+   ],
+   "prompts_fr": [
+    "Quand j'apprends une perte d'une telle ampleur, qu'est-ce que je ressens, et qu'est-ce que j'en fais ?",
+    "Qu'est-ce qui m'a aidé à rester patient dans une épreuve que j'ai traversée ?",
+    "Qui, autour de moi, porte une perte en ce moment, et comment pourrais-je être à ses côtés ?"
+   ],
+   "prompts_ar": [
+    "ماذا أشعر حين أسمع عن فقدٍ بهذا الحجم، وماذا أفعل بهذا الشعور؟",
+    "ما الذي أعانني على الصبر في محنة مررتُ بها؟",
+    "مَن في حياتي يحمل فقدًا الآن، وكيف أقف إلى جانبه؟"
+   ],
+   "step_en": "Read Al-Baqarah 2:155-157, then make du'a for the sick, for those who care for them, and for every family in mourning.",
+   "step_fr": "Lisez les versets 155 à 157 de la sourate Al-Baqara, puis faites une invocation pour les malades, pour ceux qui les soignent et pour chaque famille en deuil.",
+   "step_ar": "قراءة الآيات 155 إلى 157 من سورة البقرة، ثم الدعاء للمرضى ولمن يعتنون بهم ولكل أسرة فقدت عزيزًا.",
+   "sources": [
+    {
+     "name": "AP via PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/health/congos-confirmed-ebola-cases-surpass-9000-as-containment-efforts-falter"
+    },
+    {
+     "name": "World Health Organization",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619"
+    }
+   ]
+  },
+  {
    "date": "2026-10-14",
    "ayah": "5:32",
    "title_en": "Floods in Nepal: rescuers reach the stranded",
