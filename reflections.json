@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-10-16",
+   "ayah": "76:8",
+   "title_en": "Yemen: fighting cuts off food aid to 800,000 people",
+   "title_fr": "Yémen : les combats privent 800 000 personnes d'aide alimentaire",
+   "title_ar": "اليمن: القتال يقطع المساعدات الغذائية عن 800 ألف شخص",
+   "summary_en": "The UN World Food Programme says escalating fighting in Yemen has cut off life-saving aid to 800,000 people, more than 600,000 of them in Taiz, where wheat flour stocks are nearly exhausted. The Red Cross says some front-line hospitals admitted more than 700 wounded in a single week, and the UN migration agency says more than 200,000 people have been displaced in recent weeks.",
+   "summary_fr": "Le Programme alimentaire mondial de l'ONU indique que l'intensification des combats au Yémen a privé 800 000 personnes d'une aide vitale, dont plus de 600 000 à Taëz, où les stocks de farine de blé sont presque épuisés. Selon la Croix-Rouge, certains hôpitaux proches des lignes de front ont accueilli plus de 700 blessés en une seule semaine, et l'agence de l'ONU pour les migrations fait état de plus de 200 000 déplacés ces dernières semaines.",
+   "summary_ar": "أعلن برنامج الأغذية العالمي التابع للأمم المتحدة أن تصاعد القتال في اليمن قطع المساعدات المنقذة للحياة عن 800 ألف شخص، منهم أكثر من 600 ألف في تعز، حيث أوشك مخزون دقيق القمح على النفاد. ويقول الصليب الأحمر إن بعض المستشفيات القريبة من خطوط القتال استقبلت أكثر من 700 جريح في أسبوع واحد، وتقول منظمة الهجرة التابعة للأمم المتحدة إن أكثر من 200 ألف شخص نزحوا في الأسابيع الأخيرة.",
+   "why_en": "Al-Mukhtasar explains that among the qualities of Allah's obedient servants is that they feed others even while they love that food, because they need it and desire it themselves, and they give it to the needy: the poor, orphans and captives. This ayah is not about Yemen. It raises a question for each of us: can I give from what I myself love and need?",
+   "why_fr": "Selon Al-Mukhtasar, parmi les qualités des serviteurs obéissants d'Allah, il y a qu'ils offrent de la nourriture alors même qu'ils l'aiment, parce qu'ils en ont eux-mêmes besoin et la désirent, et qu'ils la donnent aux nécessiteux : les pauvres, les orphelins et les prisonniers. Ce verset ne parle pas du Yémen. Il pose une question à chacun : suis-je capable de donner de ce que j'aime et de ce dont j'ai moi-même besoin ?",
+   "why_ar": "يذكر المختصر من صفات عباد الله المطيعين أنهم «يطعمون الطعام مع كونهم في حال يحبونه لحاجتهم إليه واشتهائهم له، يطعمونه المحتاجين من الفقراء واليتامى والأسارى»، وهو معنى ﴿وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ﴾. والآية لا تتحدث عن اليمن، لكنها تثير سؤالًا: هل أستطيع أن أعطي مما أحبه وأحتاج إليه؟",
+   "prompts_en": [
+    "When I read that hundreds of thousands of people cannot reach food, what stirs in me, and what do I do with it?",
+    "What do I hold on to most tightly, and what would it mean for me to share some of it?",
+    "Who near me is going without, and how could I share a meal with them this week?"
+   ],
+   "prompts_fr": [
+    "Quand je lis que des centaines de milliers de personnes ne peuvent plus accéder à la nourriture, qu'est-ce qui se passe en moi, et qu'est-ce que j'en fais ?",
+    "À quoi est-ce que je tiens le plus, et que signifierait pour moi d'en partager une part ?",
+    "Qui, près de moi, manque de quelque chose, et comment pourrais-je partager un repas avec lui cette semaine ?"
+   ],
+   "prompts_ar": [
+    "ماذا يتحرك في داخلي حين أقرأ أن مئات الآلاف لا يصل إليهم الطعام، وماذا أفعل بذلك؟",
+    "ما أكثر ما أتمسك به، وماذا يعني لي أن أشارك غيري بعضه؟",
+    "مَن حولي يعيش في حاجة، وكيف أشاركه طعامي هذا الأسبوع؟"
+   ],
+   "step_en": "Read Al-Insan 76:7-10, then quietly share a meal or give food to someone in need today, and make du'a for everyone in Yemen who is hungry or wounded.",
+   "step_fr": "Lisez les versets 7 à 10 de la sourate Al-Insân, puis partagez discrètement un repas ou offrez de la nourriture à une personne dans le besoin aujourd'hui, et invoquez Allah pour tous ceux qui, au Yémen, ont faim ou sont blessés.",
+   "step_ar": "قراءة الآيات 7 إلى 10 من سورة الإنسان، ثم مشاركة وجبة أو تقديم طعام لمحتاج اليوم في السر، والدعاء لكل جائع وجريح في اليمن.",
+   "title_eg": "اليمن: القتال قطع المساعدات الغذائية عن 800 ألف شخص",
+   "summary_eg": "برنامج الأغذية العالمي التابع للأمم المتحدة بيقول إن القتال اللي زاد في اليمن قطع المساعدات اللي بتنقذ حياة الناس عن 800 ألف شخص، منهم أكتر من 600 ألف في تعز، واللي فيها مخزون دقيق القمح قرّب يخلص. والصليب الأحمر بيقول إن في مستشفيات قريبة من خطوط القتال استقبلت أكتر من 700 جريح في أسبوع واحد، ومنظمة الهجرة التابعة للأمم المتحدة بتقول إن أكتر من 200 ألف شخص نزحوا في الأسابيع اللي فاتت.",
+   "why_eg": "المختصر بيقول إن من صفات عباد ربنا المطيعين إنهم «يطعمون الطعام مع كونهم في حال يحبونه لحاجتهم إليه واشتهائهم له، يطعمونه المحتاجين من الفقراء واليتامى والأسارى»، وده معنى ﴿وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ﴾. الآية مش بتتكلم عن اليمن، بس بتفتح سؤال: أقدر أدّي من الحاجة اللي بحبها وأنا نفسي محتاجها؟",
+   "prompts_eg": [
+    "بحسّ بإيه لما أقرا إن مئات الآلاف الأكل مش بيوصلهم، وبعمل إيه بالإحساس ده؟",
+    [
+     "إيه أكتر حاجة أنا ماسك فيها، ويعني إيه بالنسبالي إني أشارك حد في جزء منها؟",
+     "إيه أكتر حاجة أنا ماسكة فيها، ويعني إيه بالنسبالي إني أشارك حد في جزء منها؟"
+    ],
+    "مين حواليا محتاج، وأقدر أشاركه أكلة إزاي الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 7 لـ 10 من سورة الإنسان، وبعدين شارك أكلة أو ادّي أكل لحد محتاج النهارده في السر، وادعي لكل جعان ومجروح في اليمن.",
+    "اقري الآيات من 7 لـ 10 من سورة الإنسان، وبعدين شاركي أكلة أو ادّي أكل لحد محتاج النهارده في السر، وادعي لكل جعان ومجروح في اليمن."
+   ],
+   "sources": [
+    {
+     "name": "Reuters via ThePrint",
+     "url": "https://theprint.in/world/yemen-fighting-overwhelms-hospitals-cuts-aid-to-800000-people-relief-agencies-say/3071873/"
+    },
+    {
+     "name": "World Food Programme",
+     "url": "https://wfp.org/news/wfp-warns-escalating-yemen-conflict-cutting-life-saving-assistance-city-taiz"
+    }
+   ]
+  },
+  {
    "date": "2026-10-15",
    "ayah": "2:155",
    "title_en": "Ebola in Congo passes 9,000 confirmed cases",
