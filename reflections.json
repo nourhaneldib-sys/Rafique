@@ -1,6 +1,63 @@
 {
  "items": [
   {
+   "date": "2026-10-17",
+   "ayah": "12:86",
+   "title_en": "Pakistan: school roof collapse in Peshawar kills at least 34 children",
+   "title_fr": "Pakistan : l'effondrement du toit d'une école à Peshawar tue au moins 34 enfants",
+   "title_ar": "باكستان: انهيار سقف مدرسة في بيشاور يودي بحياة 34 طفلًا على الأقل",
+   "summary_en": "On Thursday, a roof at a private school in Peshawar, Pakistan, fell onto the classrooms below, killing at least 34 children and a teacher, according to police and rescue officials cited by Reuters. About 110 pupils were in three classrooms; most of the victims were under 13, and at least 45 children were injured. Parents and rescuers dug through the rubble by hand, and an investigation has been opened.",
+   "summary_fr": "Jeudi, le toit d'une école privée de Peshawar, au Pakistan, s'est effondré sur les salles de classe situées en dessous, tuant au moins 34 enfants et une enseignante, selon la police et les secours cités par Reuters. Environ 110 élèves se trouvaient dans trois salles ; la plupart des victimes avaient moins de 13 ans, et au moins 45 enfants ont été blessés. Parents et secouristes ont fouillé les décombres à mains nues, et une enquête a été ouverte.",
+   "summary_ar": "انهار يوم الخميس سقف في مدرسة خاصة بمدينة بيشاور في باكستان على الفصول التي تحته، فقُتل 34 طفلًا على الأقل ومعلمة، بحسب الشرطة وفرق الإنقاذ كما نقلت رويترز. وكان نحو 110 تلاميذ في ثلاثة فصول، وكان معظم الضحايا دون الثالثة عشرة، وأصيب 45 طفلًا على الأقل. وحفر الآباء والمسعفون بين الأنقاض بأيديهم، وفُتح تحقيق في الحادث.",
+   "why_en": "Al-Mukhtasar explains that Ya'qub, grieving for his lost son, told his sons that he complained of his worry and sorrow to Allah alone, and that he knew of Allah's kindness, His goodness, His answer to those in distress and His reward for the afflicted what they did not know. This ayah is not about Peshawar. It raises a question: where do I take my grief?",
+   "why_fr": "Selon Al-Mukhtasar, Ya'qûb, éprouvé par la perte de son fils, dit à ses fils qu'il ne se plaignait de son souci et de sa tristesse qu'à Allah seul, et qu'il savait de la douceur d'Allah, de Sa bonté, de Sa réponse à celui qui est dans la détresse et de Sa récompense pour l'éprouvé ce qu'eux ne savaient pas. Ce verset ne parle pas de Peshawar. Il pose une question : à qui est-ce que je confie ma peine ?",
+   "why_ar": "يذكر المختصر أن يعقوب عليه السلام قال لأبنائه وهو يحزن على ابنه: «ما أشكو ما أصابني من الهم والحزن إلا إلى الله وحده»، وأنه يعلم «من لطف الله وإحسانه وإجابته للمضطر وجزائه للمصاب ما لا تعلمونه أنتم»، وهو معنى ﴿إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ﴾. والآية لا تتحدث عن بيشاور، لكنها تثير سؤالًا: إلى من أحمل حزني؟",
+   "prompts_en": [
+    "When I hear of parents losing their children in a single morning, what do I feel, and what do I do with that feeling?",
+    "When I am sad, to whom do I turn first, and what would it look like to turn to Allah first?",
+    "Who in my life is grieving right now, and how could I simply be present with them this week?"
+   ],
+   "prompts_fr": [
+    "Quand j'apprends que des parents ont perdu leurs enfants en une seule matinée, qu'est-ce que je ressens, et qu'est-ce que je fais de ce sentiment ?",
+    "Quand je suis triste, vers qui est-ce que je me tourne d'abord, et à quoi ressemblerait le fait de me tourner d'abord vers Allah ?",
+    "Qui, dans ma vie, traverse un deuil en ce moment, et comment pourrais-je simplement être là pour cette personne cette semaine ?"
+   ],
+   "prompts_ar": [
+    "ماذا أشعر حين أسمع أن آباءً وأمهات فقدوا أطفالهم في صباح واحد، وماذا أفعل بهذا الشعور؟",
+    "حين أحزن، إلى من ألجأ أولًا، وكيف يكون لجوئي إلى الله قبل غيره؟",
+    "مَن في حياتي يمرّ بحزن الآن، وكيف أكون إلى جانبه هذا الأسبوع ولو بالحضور فقط؟"
+   ],
+   "step_en": "Read Yusuf 12:83-87, make du'a for the children of Peshawar, their families and the injured, and hold or call a child you love today.",
+   "step_fr": "Lisez les versets 83 à 87 de la sourate Yûsuf, invoquez Allah pour les enfants de Peshawar, leurs familles et les blessés, et prenez dans vos bras ou appelez aujourd'hui un enfant que vous aimez.",
+   "step_ar": "قراءة الآيات 83 إلى 87 من سورة يوسف، والدعاء لأطفال بيشاور وأسرهم والمصابين، ثم احتضان طفل عزيز أو الاتصال به اليوم.",
+   "title_eg": "باكستان: سقف مدرسة في بيشاور وقع ومات 34 طفل على الأقل",
+   "summary_eg": "يوم الخميس سقف في مدرسة خاصة في بيشاور في باكستان وقع على الفصول اللي تحته، ومات 34 طفل على الأقل ومُدرّسة، حسب الشرطة وفرق الإنقاذ زي ما نقلت رويترز. كان في حوالي 110 تلميذ في تلات فصول، وأغلب الضحايا كانوا أصغر من 13 سنة، وفي 45 طفل على الأقل اتصابوا. الأهالي والمسعفين حفروا في الأنقاض بإيديهم، واتفتح تحقيق في اللي حصل.",
+   "why_eg": "المختصر بيقول إن سيدنا يعقوب قال لولاده وهو حزين على ابنه: «ما أشكو ما أصابني من الهم والحزن إلا إلى الله وحده»، وإنه عارف «من لطف الله وإحسانه وإجابته للمضطر وجزائه للمصاب ما لا تعلمونه أنتم»، وده معنى ﴿إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ﴾. الآية مش بتتكلم عن بيشاور، بس بتفتح سؤال: أنا بشيل حزني لمين؟",
+   "prompts_eg": [
+    "بحسّ بإيه لما أسمع إن أهالي خسروا ولادهم في صباحية واحدة، وبعمل إيه بالإحساس ده؟",
+    "لما بزعل، بروح لمين الأول، وإزاي ممكن أخلّي ربنا هو أول حد ألجأ له؟",
+    "مين في حياتي حزين دلوقتي، وإزاي أقدر أكون جنبه الأسبوع ده ولو بس بوجودي؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 83 لـ 87 من سورة يوسف، وادعي لأطفال بيشاور وأهاليهم والمصابين، وخُد طفل بتحبه في حضنك أو كلّمه النهارده.",
+    "اقري الآيات من 83 لـ 87 من سورة يوسف، وادعي لأطفال بيشاور وأهاليهم والمصابين، وخُدي طفل بتحبيه في حضنك أو كلّميه النهارده."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people"
+    },
+    {
+     "name": "Reuters via The Star",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/thirty-four-children-and-a-teacher-killed-in-pakistan-school-roof-collapse"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/asia/2026/10/16/at-least-34-children-killed-in-pakistan-school-roof-collapse/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-16",
    "ayah": "76:8",
    "title_en": "Yemen: fighting cuts off food aid to 800,000 people",
