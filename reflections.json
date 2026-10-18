@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-18",
+   "ayah": "6:165",
+   "title_en": "Study: Antarctica's Thwaites Glacier is melting faster than thought",
+   "title_fr": "Étude : le glacier Thwaites, en Antarctique, fond plus vite que prévu",
+   "title_ar": "دراسة: نهر ثويتس الجليدي في القارة القطبية الجنوبية يذوب أسرع مما كان متوقعًا",
+   "summary_en": "A study in Nature Communications by researchers at the University of California and NASA's Jet Propulsion Laboratory finds that Antarctica's Thwaites Glacier, roughly the size of Senegal, is melting faster than thought as warm seawater reaches beneath it. It could add up to 30 mm to sea levels by 2100, double earlier estimates. Thwaites already accounts for about 4% of global sea-level rise.",
+   "summary_fr": "Une étude publiée dans Nature Communications par des chercheurs de l'université de Californie et du Jet Propulsion Laboratory de la NASA montre que le glacier Thwaites, en Antarctique, à peu près grand comme le Sénégal, fond plus vite que prévu, car de l'eau de mer chaude s'infiltre sous lui. Il pourrait faire monter le niveau des mers de 30 mm d'ici 2100, soit le double des estimations antérieures. Il représente déjà environ 4 % de la hausse mondiale du niveau des mers.",
+   "summary_ar": "خلصت دراسة نشرتها مجلة «نيتشر كوميونيكيشنز»، أجراها باحثون من جامعة كاليفورنيا ومختبر الدفع النفاث التابع لناسا، إلى أن نهر ثويتس الجليدي في القارة القطبية الجنوبية، الذي تقارب مساحته مساحة السنغال، يذوب أسرع مما كان يُعتقد، إذ تصل مياه البحر الدافئة إلى ما تحته. وقد يرفع مستوى سطح البحر حتى 30 ملم بحلول عام 2100، أي ضعف التقديرات السابقة. ويُسهم ثويتس حاليًا بنحو 4% من ارتفاع مستوى سطح البحر عالميًا.",
+   "why_en": "Al-Mukhtasar explains that Allah made people successors of those before them on earth, to live in it after them and build it up, and raised some above others in livelihood and more, to test them through what He has given them. The ayah is not about this glacier; it raises a question: what are we doing with what we were given, and what will we hand on?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah a fait des hommes les successeurs de ceux qui les ont précédés sur terre, pour la peupler et la bâtir après eux, et qu'Il a élevé certains au-dessus d'autres afin de les éprouver par ce qu'Il leur a donné. Le verset ne parle pas de ce glacier ; il pose une question : que faisons-nous de ce que nous avons reçu, et que laisserons-nous après nous ?",
+   "why_ar": "يبيّن المختصر أن الله جعل الناس يخلُفون مَن سبقهم في الأرض «للقيام بعمارتها»، ورفع بعضهم فوق بعض في الخلق والرزق وغيرهما «ليختبركم فيما آتاكم من ذلك». الآية ليست عن هذا النهر الجليدي؛ لكن قولها ﴿جَعَلَكُمۡ خَلَـٰٓئِفَ ٱلۡأَرۡضِ﴾ يطرح سؤالًا: ماذا نصنع بما أُعطينا، وماذا نترك لمن يأتي بعدنا؟",
+   "prompts_en": [
+    "What have you been given (time, health, skills, a home) that you treat as if it will always be there?",
+    "What do you hope those who come after you will find in what you leave behind?",
+    "What small habit in how you use water, food or energy could you change this week?"
+   ],
+   "prompts_fr": [
+    "Qu'avez-vous reçu (du temps, la santé, un savoir-faire, un foyer) que vous traitez comme si cela devait toujours durer ?",
+    "Qu'espérez-vous que ceux qui viendront après vous trouveront dans ce que vous laisserez ?",
+    "Quelle petite habitude dans votre usage de l'eau, de la nourriture ou de l'énergie pourriez-vous changer cette semaine ?"
+   ],
+   "prompts_ar": [
+    "ما النعم التي أُعطيتُها، من وقت أو صحة أو مهارة أو بيت، وأتعامل معها كأنها باقية دائمًا؟",
+    "ماذا أرجو أن يجد مَن يأتون بعدي فيما أتركه ورائي؟",
+    "ما العادة الصغيرة في استعمالي للماء أو الطعام أو الكهرباء التي يمكنني تغييرها هذا الأسبوع؟"
+   ],
+   "step_en": "Read the last ayat of Surat al-An'am (6:162-165), then pick one thing you often waste, such as water, food or electricity, and use less of it today.",
+   "step_fr": "Lisez les derniers versets de la sourate Al-An'âm (6:162-165), puis choisissez une chose que vous gaspillez souvent, l'eau, la nourriture ou l'électricité, et utilisez-en moins aujourd'hui.",
+   "step_ar": "قراءة الآيات الأخيرة من سورة الأنعام (162–165)، ثم اختيار شيء واحد يُهدَر كل يوم، كالماء أو الطعام أو الكهرباء، والتقليل من هدره اليوم.",
+   "title_eg": "دراسة: نهر ثويتس الجليدي في أنتاركتيكا بيدوب أسرع من المتوقع",
+   "summary_eg": "دراسة نشرتها مجلة «نيتشر كوميونيكيشنز»، عملها باحثين من جامعة كاليفورنيا ومختبر الدفع النفاث بتاع ناسا، لقت إن نهر ثويتس الجليدي في القارة القطبية الجنوبية، اللي مساحته قريبة من مساحة السنغال، بيدوب أسرع من اللي كان متوقع، عشان مية البحر الدافية بتوصل لتحته. ممكن يرفع مستوى البحر لحد 30 ملّي بحلول 2100، يعني ضعف التقديرات اللي قبل كده. وثويتس دلوقتي مسؤول عن حوالي 4% من ارتفاع مستوى البحر في العالم.",
+   "why_eg": "المختصر بيوضّح إن ربنا خلّى الناس يخلُفوا اللي قبلهم في الأرض «للقيام بعمارتها»، ورفع بعضهم فوق بعض في الخلق والرزق وغيرهم «ليختبركم فيما آتاكم من ذلك». الآية مش عن النهر الجليدي ده؛ بس قولها ﴿جَعَلَكُمۡ خَلَـٰٓئِفَ ٱلۡأَرۡضِ﴾ بيطرح سؤال: إحنا بنعمل إيه باللي اتدّالنا، وهنسيب إيه للي جايين بعدنا؟",
+   "prompts_eg": [
+    "إيه النعم اللي ربنا إدّاهالي، وقت أو صحة أو مهارة أو بيت، وأنا بتعامل معاها كأنها هتفضل موجودة على طول؟",
+    "نفسي اللي هييجوا بعدي يلاقوا إيه في اللي هسيبه ورايا؟",
+    "إيه العادة الصغيرة في استعمالي للمية أو الأكل أو الكهربا اللي ممكن أغيّرها الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "اقرا آخر آيات سورة الأنعام (162–165)، واختار حاجة واحدة بتضيع منك كل يوم، زي المية أو الأكل أو الكهربا، وقلّل منها النهارده.",
+    "اقري آخر آيات سورة الأنعام (162–165)، واختاري حاجة واحدة بتضيع منك كل يوم، زي المية أو الأكل أو الكهربا، وقلّلي منها النهارده."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters"
+    },
+    {
+     "name": "CNN (via ABC17 News)",
+     "url": "https://abc17news.com/cnn-other/2026/10/15/scientists-find-doomsday-glacier-is-melting-more-aggressively-than-thought-with-big-impacts-for-sea-level-rise/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-17",
    "ayah": "12:86",
    "title_en": "Pakistan: school roof collapse in Peshawar kills at least 34 children",
