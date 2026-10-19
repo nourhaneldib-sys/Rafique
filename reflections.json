@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-19",
+   "ayah": "94:5",
+   "title_en": "Rising living costs bring hundreds of thousands onto streets across Europe",
+   "title_fr": "Coût de la vie : des centaines de milliers de manifestants dans les rues d'Europe",
+   "title_ar": "غلاء المعيشة يدفع مئات الآلاف إلى الشوارع في أنحاء أوروبا",
+   "summary_en": "On Saturday, hundreds of thousands of people marched in France, Belgium, Italy and Portugal over rising living costs, low wages, housing and university fees. In France, authorities counted about 550,000 demonstrators, and some marches turned into clashes and looting. In Portugal, house prices have more than doubled since 2017.",
+   "summary_fr": "Samedi, des centaines de milliers de personnes ont manifesté en France, en Belgique, en Italie et au Portugal contre la hausse du coût de la vie, les bas salaires, le logement et les frais universitaires. En France, les autorités ont compté environ 550 000 manifestants, et certains cortèges ont dégénéré en affrontements et en pillages. Au Portugal, les prix des logements ont plus que doublé depuis 2017.",
+   "summary_ar": "خرج مئات الآلاف يوم السبت في مسيرات بفرنسا وبلجيكا وإيطاليا والبرتغال احتجاجًا على ارتفاع تكاليف المعيشة وتدنّي الأجور وأزمة السكن والرسوم الجامعية. وفي فرنسا قدّرت السلطات عدد المتظاهرين بنحو 550 ألفًا، وتحوّل بعض المسيرات إلى اشتباكات وأعمال نهب. وفي البرتغال تضاعفت أسعار المساكن أكثر من مرتين منذ عام 2017.",
+   "why_en": "Al-Mukhtasar explains that with difficulty and constraint comes ease and options: hardship does not stand alone, and relief accompanies it. This ayah is not about these protests or any country's economy. It raises a question many face when money is tight: how do I carry worry about tomorrow without losing hope that ease comes with hardship?",
+   "why_fr": "Al-Mukhtasar explique qu'avec la difficulté et la gêne viennent la facilité et l'ouverture : l'épreuve ne vient pas seule, le soulagement l'accompagne. Ce verset ne parle pas de ces manifestations ni de l'économie d'un pays. Il pose une question que beaucoup se posent quand l'argent manque : comment porter l'inquiétude du lendemain sans perdre l'espoir que la facilité accompagne la difficulté ?",
+   "why_ar": "يبيّن المختصر معنى قوله تعالى ﴿فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا﴾ بأنه: «فإن مع الشدّة والضيق سهولة واتساعًا وفرجًا»؛ فالشدة لا تأتي وحدها، بل يصحبها الفرج. وليست الآية عن هذه الاحتجاجات ولا عن اقتصاد أي بلد، لكنها تثير سؤالًا يواجهه كثيرون حين يضيق الحال: كيف أحمل همّ الغد دون أن أفقد الرجاء في أن الفرج يصحب الشدة؟",
+   "prompts_en": [
+    "When money or time feels tight, what worry weighs on me most, and what would it mean to hand it to Allah?",
+    "Looking back at a hard period in my life, where can I now see the ease that came with it?",
+    "Who around me is quietly struggling to make ends meet, and how could I lighten their load without embarrassing them?"
+   ],
+   "prompts_fr": [
+    "Quand l'argent ou le temps manquent, quelle inquiétude pèse le plus sur moi, et que signifierait la confier à Allah ?",
+    "En repensant à une période difficile de ma vie, où puis-je voir aujourd'hui la facilité qui l'accompagnait ?",
+    "Qui, autour de moi, peine en silence à joindre les deux bouts, et comment pourrais-je alléger sa charge sans le mettre mal à l'aise ?"
+   ],
+   "prompts_ar": [
+    "حين يضيق بي المال أو الوقت، ما الهمّ الذي يثقلني أكثر من غيره، وماذا يعني أن أفوّضه إلى الله؟",
+    "حين أتذكّر مرحلة صعبة مررت بها، أين أرى اليوم اليُسر الذي كان معها؟",
+    "مَن حولي يكافح في صمت ليؤمّن حاجاته، وكيف أخفّف عنه دون أن أُحرجه؟"
+   ],
+   "step_en": "Read Surah Ash-Sharh (94) slowly, then make du'a for everyone worried about their livelihood, and quietly help one person with a small cost today.",
+   "step_fr": "Lisez lentement la sourate Ash-Sharh (94), puis faites une invocation pour tous ceux qui s'inquiètent pour leur subsistance, et aidez discrètement une personne à couvrir une petite dépense aujourd'hui.",
+   "step_ar": "قراءة سورة الشرح بتأنٍّ، ثم الدعاء لكل من أهمّه رزقه، والمساعدة في صمت لشخص واحد في نفقة صغيرة اليوم.",
+   "title_eg": "غلا المعيشة نزّل مئات الآلاف للشوارع في أوروبا",
+   "summary_eg": "يوم السبت، مئات الآلاف نزلوا في مسيرات في فرنسا وبلجيكا وإيطاليا والبرتغال بسبب غلا المعيشة والمرتبات الضعيفة وأزمة السكن ومصاريف الجامعة. في فرنسا السلطات قالت إن عدد المتظاهرين حوالي 550 ألف، وفيه مسيرات اتحوّلت لاشتباكات ونهب. وفي البرتغال أسعار البيوت زادت لأكتر من الضعف من 2017.",
+   "why_eg": "المختصر بيشرح ﴿فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا﴾ إن معناها: «فإن مع الشدّة والضيق سهولة واتساعًا وفرجًا»؛ يعني الشدة مش بتيجي لوحدها، الفرج بيكون معاها. الآية مش عن المظاهرات دي ولا عن اقتصاد أي بلد، بس بتفتح سؤال ناس كتير بتعيشه لما الحال يضيق: إزاي أشيل همّ بكرة من غير ما أفقد الأمل إن الفرج بييجي مع الشدة؟",
+   "prompts_eg": [
+    "لما الفلوس أو الوقت يضيقوا عليّا، إيه أكتر همّ بيتقل عليّا، ويعني إيه إني أسيبه على ربنا؟",
+    "لما أفتكر فترة صعبة عديت بيها، فين أقدر أشوف دلوقتي اليسر اللي كان معاها؟",
+    "مين حواليّا بيتعب في صمت عشان يكفّي مصاريفه، وإزاي أقدر أخفف عنه من غير ما أحرجه؟"
+   ],
+   "step_eg": [
+    "اقرا سورة الشرح على مهلك، وبعدين ادعي لكل واحد شايل همّ رزقه، وساعد حد واحد النهارده في مصروف صغير من غير ما حد يعرف.",
+    "اقري سورة الشرح على مهلك، وبعدين ادعي لكل واحد شايل همّ رزقه، وساعدي حد واحد النهارده في مصروف صغير من غير ما حد يعرف."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france"
+    },
+    {
+     "name": "CBS News / AP",
+     "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-18",
    "ayah": "6:165",
    "title_en": "Study: Antarctica's Thwaites Glacier is melting faster than thought",
