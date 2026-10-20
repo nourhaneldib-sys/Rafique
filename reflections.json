@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "date": "2026-10-20",
+   "ayah": "3:92",
+   "title_en": "Gaza: food aid cut for 500,000 people as funding runs short",
+   "title_fr": "Gaza : l'aide alimentaire supprimée pour 500 000 personnes faute de financement",
+   "title_ar": "غزة: وقف المساعدات الغذائية عن نحو 500 ألف شخص بسبب نقص التمويل",
+   "summary_en": "The UN World Food Programme says a funding shortage is forcing it to cut its monthly food assistance in Gaza from 1.6 million to 1.1 million people, leaving about 500,000 without that support. Rations are being halved and daily hot meals cut from 250,000 to 150,000. About 1.4 million people, two-thirds of Gaza's population, face crisis-level food insecurity or worse.",
+   "summary_fr": "Le Programme alimentaire mondial de l'ONU annonce qu'un manque de financement l'oblige à réduire son aide alimentaire mensuelle à Gaza de 1,6 million à 1,1 million de personnes : environ 500 000 personnes en seront privées. Les rations sont réduites de moitié et les repas chauds quotidiens passent de 250 000 à 150 000. Environ 1,4 million de personnes, soit les deux tiers de la population de Gaza, connaissent une insécurité alimentaire de niveau crise ou pire.",
+   "summary_ar": "أعلن برنامج الأغذية العالمي التابع للأمم المتحدة أن نقص التمويل يضطره إلى خفض عدد من يتلقون مساعداته الغذائية الشهرية في غزة من 1.6 مليون إلى 1.1 مليون شخص، فيبقى نحو 500 ألف شخص دون هذا الدعم. وتُخفَّض الحصص إلى النصف، وتتراجع الوجبات الساخنة اليومية من 250 ألفًا إلى 150 ألفًا. ويواجه نحو 1.4 مليون شخص، أي ثلثا سكان غزة، انعدامًا للأمن الغذائي بمستوى الأزمة أو أسوأ.",
+   "why_en": "Al-Mukhtasar explains that believers will not reach the reward and rank of the people of goodness until they spend, in Allah's way, from the wealth they love; and whatever they spend, small or large, Allah knows their intentions and deeds and will reward each one. This ayah is not about this event, but it raises a question: what do I hold dear, and am I willing to give from it?",
+   "why_fr": "Al-Mukhtasar explique que les croyants n'atteindront pas la récompense et le rang des gens de bien tant qu'ils ne dépenseront pas, dans le sentier d'Allah, des biens qu'ils aiment ; et que tout ce qu'ils dépensent, peu ou beaucoup, Allah connaît leurs intentions et leurs actes, et Il rétribuera chacun. Ce verset ne parle pas de cet événement, mais il pose une question : à quoi suis-je attaché, et suis-je prêt à en donner ?",
+   "why_ar": "يبيّن المختصر أن المؤمنين لن يدركوا ثواب أهل البر ومنزلتهم حتى ينفقوا في سبيل الله من أموالهم التي يحبونها: ﴿لَن تَنَالُواْ ٱلۡبِرَّ حَتَّىٰ تُنفِقُواْ مِمَّا تُحِبُّونَ﴾، ويقول: «وما تنفقوا من شيء قليلًا كان أو كثيرًا فإن الله عليم بنياتكم وأعمالكم». والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: ما الذي أحبه وأتمسك به، وهل أبذل منه؟",
+   "prompts_en": [
+    "What do I hold onto most tightly, and what would it mean to share some of it?",
+    "When I give, do I give only what I can spare, or sometimes something I truly value?",
+    "Which small act of giving have I been putting off because it felt too little to matter?"
+   ],
+   "prompts_fr": [
+    "À quoi est-ce que je tiens le plus, et que signifierait pour moi d'en partager une part ?",
+    "Quand je donne, est-ce seulement ce dont je n'ai pas besoin, ou parfois quelque chose qui compte vraiment pour moi ?",
+    "Quel petit geste de don est-ce que je repousse parce qu'il me semble trop modeste pour compter ?"
+   ],
+   "prompts_ar": [
+    "ما أكثر ما أتمسك به، وماذا يعني لي أن أشارك بعضه؟",
+    "حين أعطي، هل أعطي مما يفيض عن حاجتي فقط، أم أعطي أحيانًا مما أحبه حقًّا؟",
+    "ما العطاء الصغير الذي أؤجله لأنني أظنه أقل من أن يُحدث فرقًا؟"
+   ],
+   "step_en": "Read Surah Al Imran 3:92 and the ayat around it, then give something today, however small, toward feeding someone in need, and make du'a for all who are hungry.",
+   "step_fr": "Lisez le verset 92 de la sourate Al Imran et ceux qui l'entourent, puis donnez aujourd'hui quelque chose, même peu, pour nourrir une personne dans le besoin, et faites une invocation pour tous ceux qui ont faim.",
+   "step_ar": "قراءة الآية 92 من سورة آل عمران وما حولها، ثم التصدق اليوم بشيء ولو قليل لإطعام محتاج، والدعاء لكل جائع.",
+   "title_eg": "غزة: المساعدات الغذائية هتتقطع عن 500 ألف شخص عشان التمويل ناقص",
+   "summary_eg": "برنامج الأغذية العالمي بتاع الأمم المتحدة قال إن نقص التمويل مخليه يقلل عدد اللي بياخدوا مساعداته الغذائية كل شهر في غزة من 1.6 مليون لـ1.1 مليون شخص، يعني حوالي 500 ألف هيفضلوا من غير الدعم ده. الحصص هتتقسم على اتنين، والوجبات السخنة اليومية هتنزل من 250 ألف لـ150 ألف. وحوالي 1.4 مليون شخص، يعني تلتين سكان غزة، بيواجهوا انعدام أمن غذائي بمستوى أزمة أو أسوأ.",
+   "why_eg": [
+    "المختصر بيوضح إن المؤمنين مش هيوصلوا لثواب أهل البر ومنزلتهم غير لما ينفقوا في سبيل الله من أموالهم اللي بيحبوها: ﴿لَن تَنَالُواْ ٱلۡبِرَّ حَتَّىٰ تُنفِقُواْ مِمَّا تُحِبُّونَ﴾، وبيقول: «وما تنفقوا من شيء قليلًا كان أو كثيرًا فإن الله عليم بنياتكم وأعمالكم». الآية مش عن الحدث ده، بس بتسأل: إيه اللي بحبه وماسك فيه، وهل أقدر أدي منه؟",
+    "المختصر بيوضح إن المؤمنين مش هيوصلوا لثواب أهل البر ومنزلتهم غير لما ينفقوا في سبيل الله من أموالهم اللي بيحبوها: ﴿لَن تَنَالُواْ ٱلۡبِرَّ حَتَّىٰ تُنفِقُواْ مِمَّا تُحِبُّونَ﴾، وبيقول: «وما تنفقوا من شيء قليلًا كان أو كثيرًا فإن الله عليم بنياتكم وأعمالكم». الآية مش عن الحدث ده، بس بتسأل: إيه اللي بحبه وماسكة فيه، وهل أقدر أدي منه؟"
+   ],
+   "prompts_eg": [
+    [
+     "إيه أكتر حاجة ماسك فيها، ويعني إيه بالنسبالي إني أشارك بحتة منها؟",
+     "إيه أكتر حاجة ماسكة فيها، ويعني إيه بالنسبالي إني أشارك بحتة منها؟"
+    ],
+    "لما بدي، بدي من اللي زايد عني بس، ولا ساعات بدي من حاجة بحبها بجد؟",
+    [
+     "إيه العطاء الصغير اللي مأجله عشان فاكر إنه مش هيفرق؟",
+     "إيه العطاء الصغير اللي مأجلاه عشان فاكرة إنه مش هيفرق؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآية 92 من سورة آل عمران واللي حواليها، واتصدق النهارده بأي حاجة ولو قليلة عشان تأكّل حد محتاج، وادعي لكل جعان.",
+    "اقري الآية 92 من سورة آل عمران واللي حواليها، واتصدقي النهارده بأي حاجة ولو قليلة عشان تأكّلي حد محتاج، وادعي لكل جعان."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages"
+    },
+    {
+     "name": "The Irish Times (Reuters)",
+     "url": "https://www.irishtimes.com/world/middle-east/2026/10/19/world-food-programme-cuts-aid-to-500000-palestinians-in-gaza-due-to-funding-shortages/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-19",
    "ayah": "94:5",
    "title_en": "Rising living costs bring hundreds of thousands onto streets across Europe",
