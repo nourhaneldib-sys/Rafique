@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "date": "2026-10-21",
+   "ayah": "31:34",
+   "title_en": "Sudan: drone strikes kill more than 160 people in a few days",
+   "title_fr": "Soudan : des frappes de drones font plus de 160 morts en quelques jours",
+   "title_ar": "السودان: ضربات بطائرات مسيّرة تقتل أكثر من 160 شخصًا في أيام قليلة",
+   "summary_en": "On Sunday evening a drone struck a transport hub in al-Dabba, West Kordofan, where villagers had gathered after market day to find rides home; 80 people were killed. A rights group says more than 160 people were reported killed in drone attacks in a few days. The UN says about 13 million people are displaced and 33.7 million need food support this year.",
+   "summary_fr": "Dimanche soir, un drone a frappé une gare routière à al-Dabba, au Kordofan-Occidental, où des villageois s'étaient rassemblés après le marché pour trouver de quoi rentrer chez eux ; 80 personnes ont été tuées. Un groupe de défense des droits signale plus de 160 morts dans des attaques de drones en quelques jours. Selon l'ONU, environ 13 millions de personnes sont déplacées et 33,7 millions ont besoin d'aide alimentaire cette année.",
+   "summary_ar": "مساء الأحد، أصابت طائرة مسيّرة محطة نقل في الدبة بولاية غرب كردفان، كان قرويون قد تجمّعوا فيها بعد يوم السوق بحثًا عن وسيلة تعيدهم إلى بيوتهم، فقُتل 80 شخصًا. وتقول مجموعة حقوقية إن أكثر من 160 شخصًا أُفيد بمقتلهم في هجمات بمسيّرات خلال أيام قليلة. وبحسب الأمم المتحدة، نزح نحو 13 مليون شخص، ويحتاج 33.7 مليونًا إلى دعم غذائي هذا العام.",
+   "why_en": "Al-Mukhtasar explains that Allah alone knows when the Hour will come, and that no soul knows what good or bad it will do tomorrow, nor in what land it will die: Allah alone knows all of that, and nothing is hidden from Him. The ayah is not about Sudan. It raises a question for each of us: if none of us knows what tomorrow holds, what good should we not put off today?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah Seul sait quand surviendra l'Heure, et qu'aucune âme ne sait si ce qu'elle acquerra demain sera bénéfique ou néfaste, ni en quel lieu elle mourra : c'est Allah qui connaît tout cela, et rien ne Lui échappe. Le verset ne parle pas du Soudan. Il pose une question à chacun : si personne ne sait ce que demain réserve, quel bien ne faut-il pas remettre à plus tard ?",
+   "why_ar": "يبيّن المختصر أن الله وحده عنده علم الساعة، وأنه «وما تعلم نفس ما تكسب غدًا من خير أو شر، وما تعلم نفس بأي أرض تموت، بل الله هو الذي يعلم ذلك كله». الآية ليست عن السودان؛ لكن قولها ﴿وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُ﴾ يطرح على كل واحد منا سؤالًا: إذا كان أحدنا لا يعلم ما يحمله الغد، فأيّ خير لا ينبغي تأجيله اليوم؟",
+   "prompts_en": [
+    "What good thing have I been putting off 'until tomorrow' that I could begin today?",
+    "Who in my life have I not checked on for a while, and what would one message to them cost me?",
+    "When I think that I do not know what tomorrow holds, does it bring me fear, peace, or a sense of urgency, and why?"
+   ],
+   "prompts_fr": [
+    "Quel bien est-ce que je remets « à demain » depuis un moment, et que je pourrais commencer aujourd'hui ?",
+    "De qui, dans ma vie, n'ai-je pas pris de nouvelles depuis longtemps, et que me coûterait un seul message ?",
+    "Quand je pense que je ne sais pas ce que demain réserve, est-ce que j'éprouve de la peur, de la paix ou un sentiment d'urgence, et pourquoi ?"
+   ],
+   "prompts_ar": [
+    "ما الخير الذي أؤجّله «إلى الغد» منذ مدة، ويمكنني أن أبدأه اليوم؟",
+    "مَن في حياتي لم أسأل عنه منذ زمن، وماذا تكلّفني رسالة واحدة إليه؟",
+    "حين أتذكّر أنني لا أعلم ما يحمله الغد، هل يورثني ذلك خوفًا أم طمأنينة أم إحساسًا بالمبادرة، ولماذا؟"
+   ],
+   "step_en": "Read the ayah, then do today one good thing you had planned for later, and make du'a for the people of Sudan who have lost loved ones.",
+   "step_fr": "Lisez le verset, puis accomplissez aujourd'hui un bien que vous aviez prévu pour plus tard, et faites une invocation pour les habitants du Soudan qui ont perdu des proches.",
+   "step_ar": "قراءة الآية، ثم فعل خير واحد اليوم كان مؤجّلًا إلى وقت لاحق، والدعاء لأهل السودان الذين فقدوا أحبّتهم.",
+   "title_eg": "السودان: ضربات بالمسيّرات قتلت أكتر من 160 شخص في كام يوم",
+   "summary_eg": "يوم الحد بالليل، مسيّرة ضربت موقف مواصلات في الدبة في ولاية غرب كردفان، كان فيه ناس من القرى متجمعين بعد يوم السوق بيدوّروا على عربية ترجّعهم بيوتهم، و80 شخص اتقتلوا. ومجموعة حقوقية بتقول إن أكتر من 160 شخص اتقال إنهم اتقتلوا في هجمات بالمسيّرات في كام يوم. وحسب الأمم المتحدة، فيه حوالي 13 مليون شخص نزحوا، و33.7 مليون محتاجين دعم غذائي السنة دي.",
+   "why_eg": "المختصر بيوضّح إن علم الساعة عند الله وحده، وإن «وما تعلم نفس ما تكسب غدًا من خير أو شر، وما تعلم نفس بأي أرض تموت، بل الله هو الذي يعلم ذلك كله». الآية مش عن السودان؛ بس قولها ﴿وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُ﴾ بيسأل كل واحد فينا: لو محدش فينا عارف بكرة فيه إيه، إيه الخير اللي مينفعش أأجّله للنهارده؟",
+   "prompts_eg": [
+    "إيه الخير اللي بقالي فترة بأجّله «لبكرة» وممكن أبدأه النهارده؟",
+    "مين في حياتي بقالي كتير مسألتش عليه، ورسالة واحدة ليه هتكلّفني إيه؟",
+    [
+     "لما بفتكر إني مش عارف بكرة فيه إيه، ده بيخلّيني خايف ولا مطمّن ولا مستعجل أعمل الخير، وليه؟",
+     "لما بفتكر إني مش عارفة بكرة فيه إيه، ده بيخلّيني خايفة ولا مطمّنة ولا مستعجلة أعمل الخير، وليه؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآية، واعمل النهارده حاجة خير واحدة كنت مأجّلها، وادعي لأهل السودان اللي فقدوا حبايبهم.",
+    "اقري الآية، واعملي النهارده حاجة خير واحدة كنت مأجّلاها، وادعي لأهل السودان اللي فقدوا حبايبهم."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan"
+    }
+   ]
+  },
+  {
    "date": "2026-10-20",
    "ayah": "3:92",
    "title_en": "Gaza: food aid cut for 500,000 people as funding runs short",
