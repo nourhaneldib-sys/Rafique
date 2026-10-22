@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-22",
+   "ayah": "2:45",
+   "title_en": "Storm Adam floods eastern Spain: at least five dead, thousands evacuated",
+   "title_fr": "La tempête Adam inonde l'est de l'Espagne : au moins cinq morts et des milliers d'évacués",
+   "title_ar": "العاصفة آدم تغمر شرق إسبانيا: خمسة قتلى على الأقل وآلاف الأشخاص أُجلوا",
+   "summary_en": "Storm Adam brought exceptional rain to the Valencia region, with 632 litres per square metre falling on Pego in 36 hours. At least five people were killed; the Civil Guard evacuated more than 2,100 people and rescued almost 500. In Oliva, about 600 people were helped at the municipal centre and 400 spent the night there. By Tuesday the rain had eased and stay-at-home orders were lifted.",
+   "summary_fr": "La tempête Adam a apporté des pluies exceptionnelles dans la région de Valence : 632 litres par mètre carré sont tombés sur Pego en 36 heures. Au moins cinq personnes sont mortes ; la Garde civile a évacué plus de 2 100 personnes et en a secouru près de 500. À Oliva, environ 600 personnes ont été accueillies au centre municipal et 400 y ont passé la nuit. Mardi, la pluie avait faibli et les consignes de confinement ont été levées.",
+   "summary_ar": "جلبت العاصفة آدم أمطارًا استثنائية إلى منطقة فالنسيا، إذ هطل على بلدة بيغو 632 لترًا في المتر المربع خلال 36 ساعة. لقي خمسة أشخاص على الأقل حتفهم، وأجلى الحرس المدني أكثر من 2100 شخص وأنقذ نحو 500. وفي أوليفا استقبل المركز البلدي قرابة 600 شخص، بات 400 منهم ليلتهم فيه. وبحلول الثلاثاء خفّت الأمطار ورُفعت أوامر البقاء في المنازل.",
+   "why_en": "Al-Mukhtasar explains that we are told to seek help in all our affairs, of faith and of this world, through patience and through prayer, which brings us close to Allah, so that He helps us, protects us and removes the harm we face. The ayah is not about Spain or this storm; it raises a question every life meets: where do I turn for strength when something I cannot control overturns my days?",
+   "why_fr": "Al-Mukhtasar explique qu'il nous est demandé de chercher de l'aide dans toutes nos affaires, religieuses et terrestres, par la patience et par la prière, qui nous rapproche d'Allah, afin qu'Il nous aide, nous préserve et éloigne ce qui nous fait souffrir. Le verset ne parle ni de l'Espagne ni de cette tempête ; il pose une question que toute vie rencontre : vers où me tourner pour trouver de la force quand ce que je ne maîtrise pas bouleverse mes jours ?",
+   "why_ar": "يبيّن المختصر أن المعنى: «اطلبوا العون على كل أحوالكم الدينية والدنيوية؛ بالصبر وبالصلاة التي تقربكم إلى الله وتصلكم به، فيعينكم ويحفظكم ويذهب ما بكم من ضر». الآية ليست عن إسبانيا ولا عن هذه العاصفة؛ لكنها تطرح سؤالًا يمرّ به كل إنسان: إلى أين ألجأ طلبًا للقوة حين يقلب أمرٌ لا أملكه أيامي؟ وجوابها ﴿وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ﴾.",
+   "prompts_en": [
+    "When something I could not control turned my days upside down, what did I turn to first, and did it help me?",
+    "What does patience look like for me in practice: waiting, keeping going, or holding my tongue?",
+    "When was a prayer a real place of rest for me, and what would bring me back to that this week?"
+   ],
+   "prompts_fr": [
+    "La dernière fois que ce que je ne maîtrisais pas a bouleversé mes jours, quel a été mon premier recours, et m'a-t-il aidé ?",
+    "À quoi ressemble concrètement la patience pour moi : attendre, continuer d'avancer, ou retenir mes paroles ?",
+    "Quand une prière a-t-elle été pour moi un vrai lieu de repos, et qu'est-ce qui m'y ramènerait cette semaine ?"
+   ],
+   "prompts_ar": [
+    "حين قلب أمرٌ لا أملكه أيامي، إلى أي شيء لجأتُ أولًا؟ وهل أعانني ذلك؟",
+    "كيف يبدو الصبر في حياتي عمليًا: انتظارًا، أم مواصلةً للسعي، أم إمساكًا للسان؟",
+    "متى كانت الصلاة راحةً حقيقية لي، وما الذي يعيدني إلى ذلك هذا الأسبوع؟"
+   ],
+   "step_en": "Before your next prayer, take one quiet minute to name what is weighing on you, then pray it slowly, and add a du'a for the families affected by the floods in Spain.",
+   "step_fr": "Avant votre prochaine prière, prenez une minute de calme pour nommer ce qui vous pèse, puis priez lentement, et ajoutez une invocation pour les familles touchées par les inondations en Espagne.",
+   "step_ar": "قبل الصلاة القادمة، تخصيص دقيقة هادئة لتسمية ما يثقل القلب، ثم أداء الصلاة بتأنٍّ، ثم الدعاء للأسر المتضررة من الفيضانات في إسبانيا.",
+   "title_eg": "العاصفة آدم غرّقت شرق إسبانيا: خمسة ماتوا على الأقل وآلاف اتنقلوا من بيوتهم",
+   "summary_eg": "العاصفة آدم جابت مطر استثنائي على منطقة فالنسيا، ونزل على بلدة بيغو 632 لتر في المتر المربع في 36 ساعة. خمسة أشخاص على الأقل ماتوا، والحرس المدني نقل أكتر من 2100 شخص لأماكن آمنة وأنقذ حوالي 500. وفي أوليفا، المركز البلدي استقبل حوالي 600 شخص، و400 منهم باتوا فيه. ويوم التلات المطر هدي واتشالت أوامر القعدة في البيوت.",
+   "why_eg": "المختصر بيوضّح إن المعنى: «اطلبوا العون على كل أحوالكم الدينية والدنيوية؛ بالصبر وبالصلاة التي تقربكم إلى الله وتصلكم به، فيعينكم ويحفظكم ويذهب ما بكم من ضر». الآية مش عن إسبانيا ولا عن العاصفة دي؛ بس بتطرح سؤال كل واحد فينا بيقابله: أروح لمين وأستمد قوتي منين لما حاجة مش في إيدي تقلب أيامي؟ وجوابها ﴿وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ﴾.",
+   "prompts_eg": [
+    "لما حاجة مش في إيدي قلبت أيامي، إيه أول حاجة لجأت لها؟ وهل ساعدتني فعلًا؟",
+    "الصبر بالنسبة لي شكله إيه في الحقيقة: إني أستنى، ولا أكمّل وأسعى، ولا أمسك لساني؟",
+    "إمتى كانت الصلاة راحة حقيقية ليّا، وإيه اللي ممكن يرجّعني للإحساس ده الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "قبل الصلاة الجاية، خد دقيقة هادية وسمّي الحاجة اللي تاقلة على قلبك، وبعدين صلّي على مهلك، وادعي للعيلات اللي الفيضانات أذتهم في إسبانيا.",
+    "قبل الصلاة الجاية، خدي دقيقة هادية وسمّي الحاجة اللي تاقلة على قلبك، وبعدين صلّي على مهلك، وادعي للعيلات اللي الفيضانات أذتهم في إسبانيا."
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain"
+    },
+    {
+     "name": "Reuters (via Internazionale)",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/19/residents-trapped-as-torrential-rain-floods-towns-in-eastern-spain"
+    }
+   ]
+  },
+  {
    "date": "2026-10-21",
    "ayah": "31:34",
    "title_en": "Sudan: drone strikes kill more than 160 people in a few days",
