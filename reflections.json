@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-10-23",
+   "ayah": "16:80",
+   "title_en": "Ukraine: overnight strikes hit 12 regions and energy sites as winter approaches",
+   "title_fr": "Ukraine : des frappes nocturnes touchent 12 régions et des sites d'énergie avant l'hiver",
+   "title_ar": "أوكرانيا: ضربات ليلية تطال 12 منطقة ومنشآت للطاقة مع اقتراب الشتاء",
+   "summary_en": "Overnight into 22 October, strikes hit 12 regions of Ukraine, killing at least four people and wounding dozens, including children. In Kyiv, apartment buildings, energy facilities, a railway station and the metro were damaged. Ukraine's president says energy sites have been struck 170 times since 11 October, threatening heat, light and running water as the cold months begin. In Russia, officials reported two people wounded by drones.",
+   "summary_fr": "Dans la nuit du 21 au 22 octobre, des frappes ont touché 12 régions d'Ukraine, faisant au moins quatre morts et des dizaines de blessés, dont des enfants. À Kyiv, des immeubles d'habitation, des installations énergétiques, une gare et le métro ont été endommagés. Selon le président ukrainien, des sites énergétiques ont été frappés 170 fois depuis le 11 octobre, menaçant le chauffage, l'électricité et l'eau courante à l'arrivée du froid. En Russie, les autorités ont signalé deux blessés par des drones.",
+   "summary_ar": "في ليلة 22 أكتوبر، طالت ضربات 12 منطقة في أوكرانيا، وأسفرت عن مقتل أربعة أشخاص على الأقل وإصابة العشرات، بينهم أطفال. وفي كييف تضررت مبانٍ سكنية ومنشآت للطاقة ومحطة قطارات ومترو الأنفاق. ويقول الرئيس الأوكراني إن منشآت الطاقة تعرضت لـ170 ضربة منذ 11 أكتوبر، ما يهدد التدفئة والكهرباء والمياه مع بداية الأشهر الباردة. وفي روسيا أعلن مسؤولون إصابة شخصين بطائرات مسيّرة.",
+   "why_en": "Al-Mukhtasar explains that Allah made the homes people build a place of settlement and rest, gave them light tents to carry when travelling, and from wool and hair made furnishings, clothing and coverings to enjoy for a set time. The ayah is not about this event. It raises a quiet question: do I see a warm, safe home as a gift, and what do I owe to those who lose one?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah a fait des maisons que l'on construit des lieux de stabilité et de repos, qu'Il a donné des tentes légères à transporter en voyage, et que de la laine et des poils Il a tiré des meubles, des vêtements et des couvertures dont on profite pour un temps. Ce verset ne parle pas de cet événement. Il pose une question : vois-je un foyer chaud et sûr comme un don, et que dois-je à ceux qui en sont privés ?",
+   "why_ar": "يبيّن المختصر أن الله ﴿جَعَلَ لَكُم مِّنۢ بُيُوتِكُمۡ سَكَنٗا﴾، أي «استقرارًا وراحة»، وجعل من الأصواف والأوبار والأشعار «أثاثًا لبيوتكم وأكسية وأغطية تتمتعون بها إلى زمن محدد». والآية لا تتحدث عن هذا الحدث، لكنها تثير سؤالًا: هل أرى في البيت الآمن الدافئ نعمةً، وما الذي أُدين به لمن فقده؟",
+   "prompts_en": [
+    "When did I last notice the warmth and safety of my home as a blessing rather than something ordinary?",
+    "Who around me might be facing this winter without enough heat, light or comfort?",
+    "What is one thing I could share from what I have been given, before the cold arrives?"
+   ],
+   "prompts_fr": [
+    "Quand ai-je remarqué pour la dernière fois la chaleur et la sécurité de mon foyer comme un bienfait, et non comme une évidence ?",
+    "Qui, autour de moi, risque de traverser cet hiver sans assez de chaleur, de lumière ou de confort ?",
+    "Que pourrais-je partager de ce que j'ai reçu, avant l'arrivée du froid ?"
+   ],
+   "prompts_ar": [
+    "متى انتبهتُ آخر مرة إلى دفء بيتي وأمانه بوصفهما نعمة لا أمرًا عاديًا؟",
+    "مَن حولي قد يستقبل هذا الشتاء دون ما يكفي من دفء أو نور أو راحة؟",
+    "ما الشيء الذي يمكنني أن أشاركه مما أُعطيت قبل أن يشتد البرد؟"
+   ],
+   "step_en": "Read Surah An-Nahl 16:78-83, thank Allah for one comfort of your home, and give a blanket, warm clothes or a donation to someone facing the cold.",
+   "step_fr": "Lisez la sourate An-Nahl, versets 78 à 83, remerciez Allah pour un confort de votre foyer, et offrez une couverture, des vêtements chauds ou un don à quelqu'un qui affronte le froid.",
+   "step_ar": "قراءة الآيات 78 إلى 83 من سورة النحل، ثم شكر الله على نعمة من نعم البيت، والتبرع ببطانية أو ملابس دافئة أو صدقة لمن يواجه البرد.",
+   "title_eg": "أوكرانيا: ضربات بالليل على 12 منطقة ومحطات طاقة والشتا داخل",
+   "summary_eg": "ليلة 22 أكتوبر، ضربات وصلت لـ12 منطقة في أوكرانيا، ومات فيها 4 أشخاص على الأقل واتصاب العشرات، منهم أطفال. وفي كييف اتضررت عمارات سكنية ومنشآت طاقة ومحطة قطر والمترو. والرئيس الأوكراني بيقول إن منشآت الطاقة اتضربت 170 مرة من 11 أكتوبر، وده بيهدد التدفئة والكهربا والمية مع بداية البرد. وفي روسيا، مسؤولين قالوا إن شخصين اتصابوا بمسيّرات.",
+   "why_eg": "المختصر بيوضّح إن ربنا ﴿جَعَلَ لَكُم مِّنۢ بُيُوتِكُمۡ سَكَنٗا﴾، يعني «استقرارًا وراحة»، وإنه خلّى من الصوف والوبر والشعر «أثاثًا لبيوتكم وأكسية وأغطية تتمتعون بها إلى زمن محدد». الآية مش بتتكلم عن الحدث ده، بس بتفتح سؤال: هل أنا شايف البيت الدافي الآمن نعمة، وإيه اللي عليّا ناحية اللي فقده؟",
+   "prompts_eg": [
+    [
+     "إمتى آخر مرة خدت بالي إن دفا بيتي وأمانه نعمة، مش حاجة عادية؟",
+     "إمتى آخر مرة خدتي بالي إن دفا بيتي وأمانه نعمة، مش حاجة عادية؟"
+    ],
+    "مين حواليّا ممكن يعدّي الشتا ده من غير دفا أو نور أو راحة كفاية؟",
+    "إيه الحاجة اللي ممكن أشاركها من اللي ربنا إداهولي قبل ما البرد يشتد؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 78 لـ83 من سورة النحل، واشكر ربنا على نعمة في بيتك، واتبرع ببطانية أو هدوم تقيلة أو صدقة لحد بيواجه البرد.",
+    "اقري الآيات من 78 لـ83 من سورة النحل، واشكري ربنا على نعمة في بيتك، واتبرعي ببطانية أو هدوم تقيلة أو صدقة لحد بيواجه البرد."
+   ],
+   "sources": [
+    {
+     "name": "AP via PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin"
+    }
+   ]
+  },
+  {
    "date": "2026-10-22",
    "ayah": "2:45",
    "title_en": "Storm Adam floods eastern Spain: at least five dead, thousands evacuated",
