@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "date": "2026-10-24",
+   "ayah": "17:24",
+   "title_en": "Study: summer heat killed more than 50,000 people in Europe's cities",
+   "title_fr": "Étude : la chaleur de l'été a tué plus de 50 000 personnes dans les villes d'Europe",
+   "title_ar": "دراسة: حرّ الصيف أودى بحياة أكثر من 50 ألف شخص في مدن أوروبا",
+   "summary_en": "A study by researchers in London estimates that 50,391 people died from the heat in 854 European cities between June and August, the deadliest summer for heat since 2000. More than half of those who died were 85 or older. The researchers attribute nearly two-thirds of the deaths to climate change and say the true toll is probably higher.",
+   "summary_fr": "Une étude de chercheurs londoniens estime que 50 391 personnes sont mortes de la chaleur dans 854 villes européennes entre juin et août, l'été le plus meurtrier depuis 2000. Plus de la moitié des victimes avaient 85 ans ou plus. Les chercheurs attribuent près des deux tiers des décès au changement climatique et jugent le bilan réel probablement plus lourd.",
+   "summary_ar": "تقدّر دراسة أعدّها باحثون في لندن أن 50391 شخصًا ماتوا بسبب الحر في 854 مدينة أوروبية بين يونيو وأغسطس، في أشد الصيفيات فتكًا منذ عام 2000. وكان أكثر من نصف المتوفين في الخامسة والثمانين أو أكبر. ويعزو الباحثون نحو ثلثي الوفيات إلى تغير المناخ، ويرون أن العدد الحقيقي أعلى على الأرجح.",
+   "why_en": "Al-Mukhtasar explains that this ayah asks us to humble ourselves before our parents in humility and compassion, and to say: 'O my Lord, be merciful to them as they brought me up in my childhood'; the ayah before it speaks of parents who reach old age. The ayah is not about this heatwave. It raises a question we all face: how do we care for those who grow old and fragile, who once cared for us?",
+   "why_fr": "Al-Mukhtasar explique que ce verset demande de s'humilier devant ses parents, avec humilité et compassion, et de dire : « Seigneur, fais-leur miséricorde comme ils m'ont élevé quand j'étais petit » ; le verset précédent parle des parents qui atteignent la vieillesse. Ce verset ne parle pas de cette canicule. Il pose une question qui nous concerne tous : comment prenons-nous soin de ceux qui vieillissent et deviennent fragiles, eux qui ont pris soin de nous ?",
+   "why_ar": "يبيّن المختصر أن معنى الآية: «وتواضع لهما ذلًّا ورحمة بهما»، وأن يقول المرء: «يا رب، ارحمهما رحمة لأجل تربيتهما إياي في صغري»، والآية التي قبلها تتحدث عن بلوغ الوالدين الكِبَر. الآية ليست عن موجة الحر هذه؛ لكنها تطرح سؤالًا يخصنا جميعًا: كيف نرعى من يكبرون ويضعفون، وقد رعونا من قبل؟ ويختم ذلك قولها ﴿وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا﴾.",
+   "prompts_en": [
+    "Who in my life is growing older or more fragile, and when did I last ask how they really are?",
+    "What did someone patiently do for me when I was small that I have never thanked them for?",
+    "When caring for someone becomes tiring, what helps me keep my words gentle?"
+   ],
+   "prompts_fr": [
+    "Qui, dans ma vie, vieillit ou devient plus fragile, et quand lui ai-je demandé pour la dernière fois comment il va vraiment ?",
+    "Qu'est-ce que quelqu'un a fait patiemment pour moi quand j'étais petit, et dont je ne l'ai jamais remercié ?",
+    "Quand prendre soin de quelqu'un devient fatigant, qu'est-ce qui m'aide à garder des paroles douces ?"
+   ],
+   "prompts_ar": [
+    "مَن في حياتي يكبر أو يزداد ضعفًا، ومتى سألته آخر مرة عن حاله حقًّا؟",
+    "ما الذي صنعه أحدٌ لي بصبر حين كنت صغيرًا، ولم أشكره عليه قط؟",
+    "حين تُتعبني رعاية أحد، ما الذي يعينني على أن يبقى كلامي لطيفًا؟"
+   ],
+   "step_en": "Read 17:23-24, say 'O my Lord, be merciful to them as they brought me up when I was small' for your parents, living or departed, then call or visit an older person you know.",
+   "step_fr": "Lisez les versets 17:23-24, dites pour vos parents, vivants ou disparus : « Seigneur, fais-leur miséricorde comme ils m'ont élevé quand j'étais petit », puis appelez ou rendez visite à une personne âgée que vous connaissez.",
+   "step_ar": "قراءة الآيتين 23 و24 من سورة الإسراء، ثم الدعاء للوالدين، أحياءً كانا أو أمواتًا: ﴿رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا﴾، ثم الاتصال بشخص مسنّ أو زيارته.",
+   "title_eg": "دراسة: حرّ الصيف موّت أكتر من 50 ألف شخص في مدن أوروبا",
+   "summary_eg": "دراسة عملها باحثين في لندن بتقدّر إن 50391 شخص ماتوا من الحر في 854 مدينة أوروبية بين يونيو وأغسطس، وده أكتر صيف موّت ناس من الحر من سنة 2000. وأكتر من نص اللي ماتوا كان عندهم 85 سنة أو أكتر. والباحثين بيرجّعوا حوالي تلتين الوفيات لتغيّر المناخ، وشايفين إن العدد الحقيقي غالبًا أكبر.",
+   "why_eg": "المختصر بيوضّح إن معنى الآية: «وتواضع لهما ذلًّا ورحمة بهما»، وإن الواحد يقول: «يا رب، ارحمهما رحمة لأجل تربيتهما إياي في صغري»، والآية اللي قبلها بتتكلم عن الأب والأم لما يكبروا. الآية مش عن موجة الحر دي؛ بس هي بتسأل سؤال يخصنا كلنا: إزاي بنراعي اللي بيكبروا ويضعفوا، وهمّ اللي راعونا زمان؟ وده اللي بتختمه بقولها ﴿وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا﴾.",
+   "prompts_eg": [
+    "مين في حياتي بيكبر أو بيضعف، وإمتى آخر مرة سألته عامل إيه بجد؟",
+    [
+     "إيه اللي حد عمله عشاني بصبر وأنا صغير، وعمري ما شكرته عليه؟",
+     "إيه اللي حد عمله عشاني بصبر وأنا صغيرة، وعمري ما شكرته عليه؟"
+    ],
+    "لما رعاية حد تتعبني، إيه اللي بيساعدني إن كلامي يفضل لطيف؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 23 و24 من سورة الإسراء، وادعي لأبوك وأمك، عايشين أو متوفيين: ﴿رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا﴾، وبعدين كلّم أو زور حد كبير في السن تعرفه.",
+    "اقري الآيتين 23 و24 من سورة الإسراء، وادعي لأبوكي وأمك، عايشين أو متوفيين: ﴿رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا﴾، وبعدين كلّمي أو زوري حد كبير في السن تعرفيه."
+   ],
+   "sources": [
+    {
+     "name": "AP (via WDIV ClickOnDetroit)",
+     "url": "https://www.clickondetroit.com/news/2026/10/22/europes-killer-heat-this-summer-claims-50000-lives-climate-change-blamed-for-two-thirds-of-deaths/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/23/europe-just-had-its-deadliest-summer-which-country-was-hit-the-hardest-by-extreme-heat"
+    },
+    {
+     "name": "London School of Hygiene & Tropical Medicine",
+     "url": "https://www.lshtm.ac.uk/newsevents/news/2026/more-50000-heat-related-deaths-estimated-european-urban-areas-during-summer"
+    }
+   ]
+  },
+  {
    "date": "2026-10-23",
    "ayah": "16:80",
    "title_en": "Ukraine: overnight strikes hit 12 regions and energy sites as winter approaches",
