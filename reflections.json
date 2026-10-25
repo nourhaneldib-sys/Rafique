@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "date": "2026-10-25",
+   "ayah": "26:80",
+   "title_en": "DR Congo: first vaccine trial begins in an Ebola outbreak that has reached four countries",
+   "title_fr": "RD Congo : un premier essai vaccinal commence face à une épidémie d'Ebola présente dans quatre pays",
+   "title_ar": "الكونغو الديمقراطية: بدء أول تجربة للقاح في تفشٍّ للإيبولا بلغ أربع دول",
+   "summary_en": "A vaccine trial named Tumaini, Swahili for \"hope\", began on 23 October in Bunia, the epicentre of DR Congo's worst-ever Ebola outbreak, which has passed 9,700 cases and 4,600 deaths and reached four African countries. No vaccine is approved for the Bundibugyo strain behind it, so the trial first tests whether an existing vaccine also protects against it, giving it to people at high risk around those infected.",
+   "summary_fr": "Un essai vaccinal baptisé Tumaini, « espoir » en swahili, a commencé le 23 octobre à Bunia, épicentre de la pire épidémie d'Ebola qu'ait connue la RD Congo : plus de 9 700 cas, plus de 4 600 morts, et quatre pays africains touchés. Aucun vaccin n'est approuvé contre la souche Bundibugyo en cause ; l'essai vérifie d'abord si un vaccin existant protège aussi contre elle, en l'administrant aux personnes à haut risque autour des malades.",
+   "summary_ar": "بدأت في 23 أكتوبر في مدينة بونيا تجربة للقاح تحمل اسم «تومايني»، أي «الأمل» بالسواحيلية، في بؤرة أسوأ تفشٍّ للإيبولا عرفته الكونغو الديمقراطية، إذ تجاوزت الإصابات 9700 والوفيات 4600، وبلغ المرض أربع دول أفريقية. ولا يوجد لقاح معتمد ضد سلالة بونديبوغيو المسببة له، لذا تختبر التجربة أولًا ما إذا كان لقاح موجود يحمي منها أيضًا، وتقدّمه للأكثر عرضة للخطر حول المصابين.",
+   "why_en": "Al-Mukhtasar explains that in this ayah, among Abraham's words describing his Lord, he says that when he falls ill, Allah alone cures him of his illness; there is no healer for him except Him. The ayah is not about this outbreak. It raises a question each of us meets in illness, our own or that of someone we love: where do we place our hope of healing?",
+   "why_fr": "Al-Mukhtasar explique que dans ce verset, parmi les paroles d'Abraham décrivant son Seigneur, celui-ci dit que lorsqu'il tombe malade, Allah seul le guérit de sa maladie : il n'a d'autre guérisseur que Lui. Ce verset ne parle pas de cette épidémie. Il pose une question que chacun rencontre face à la maladie, la sienne ou celle d'un proche : en qui plaçons-nous notre espoir de guérison ?",
+   "why_ar": "في سياق كلام إبراهيم عليه السلام عن ربه، يبيّن المختصر معنى قوله ﴿وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ﴾ بأنه: «وإذا مرضت فهو وحده الذي يشفيني من المرض لا شافي لي غيره». والآية ليست عن تفشي الإيبولا هذا؛ لكنها تطرح سؤالًا يواجهه كل واحد منا في مرضه أو مرض من يحب: إلى مَن نتوجه برجاء الشفاء؟",
+   "prompts_en": [
+    "When I or someone I love falls ill, where does my heart turn first?",
+    "Who in my life is sick, or caring for someone who is, and what could I do for them this week?",
+    "How do I hold on to hope when recovery is slow or uncertain?"
+   ],
+   "prompts_fr": [
+    "Quand moi-même ou un proche tombons malades, vers qui mon cœur se tourne-t-il en premier ?",
+    "Qui, dans ma vie, est malade ou prend soin d'un malade, et que pourrais-je faire pour lui cette semaine ?",
+    "Comment est-ce que je garde espoir quand la guérison est lente ou incertaine ?"
+   ],
+   "prompts_ar": [
+    "حين أمرض أنا أو يمرض مَن أحب، إلى أين يتجه قلبي أولًا؟",
+    "مَن في حياتي مريض أو يرعى مريضًا، وماذا أستطيع أن أقدّم له هذا الأسبوع؟",
+    "كيف أتمسك بالرجاء حين يكون الشفاء بطيئًا أو غير مؤكد؟"
+   ],
+   "step_en": "Read 26:78-82, then make du'a for healing for the sick you know and for those caring for them, and send a message to someone who is unwell.",
+   "step_fr": "Lisez les versets 26:78-82, puis invoquez Allah pour la guérison des malades que vous connaissez et pour ceux qui les soignent, et envoyez un message à une personne souffrante.",
+   "step_ar": "قراءة الآيات 78 إلى 82 من سورة الشعراء، ثم الدعاء بالشفاء لمن أعرفهم من المرضى ولمن يرعونهم، وإرسال رسالة اطمئنان إلى شخص مريض.",
+   "title_eg": "الكونغو الديمقراطية: أول تجربة لقاح بدأت في تفشي إيبولا وصل لأربع دول",
+   "summary_eg": "يوم 23 أكتوبر بدأت في مدينة بونيا تجربة لقاح اسمها «تومايني»، يعني «الأمل» بالسواحيلي، في قلب أسوأ تفشي إيبولا شافته الكونغو الديمقراطية، اللي الإصابات فيه عدّت 9700 والوفيات عدّت 4600، والمرض وصل لأربع دول أفريقية. ومفيش لقاح معتمد لسلالة بونديبوغيو اللي ورا التفشي ده، فالتجربة بتختبر الأول هل لقاح موجود بيحمي منها كمان، وبتديه للناس الأكتر عرضة للخطر حوالين المصابين.",
+   "why_eg": "في كلام سيدنا إبراهيم عليه السلام عن ربنا، المختصر بيشرح قوله ﴿وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ﴾ إن معناه: «وإذا مرضت فهو وحده الذي يشفيني من المرض لا شافي لي غيره». والآية مش عن تفشي الإيبولا ده؛ بس هي بتسأل سؤال بيقابل كل واحد فينا لما يتعب هو أو حد بيحبه: إحنا بنعلّق رجانا في الشفا على مين؟",
+   "prompts_eg": [
+    "لما أنا أو حد بحبه يتعب، قلبي بيروح لمين الأول؟",
+    "مين في حياتي عيّان أو بيراعي حد عيّان، وإيه اللي ممكن أعمله عشانه الأسبوع ده؟",
+    [
+     "إزاي أفضل متمسك بالأمل لما الشفا يتأخر أو ميبقاش مضمون؟",
+     "إزاي أفضل متمسكة بالأمل لما الشفا يتأخر أو ميبقاش مضمون؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآيات من 78 لـ 82 من سورة الشعراء، وادعي بالشفا للعيانين اللي تعرفهم وللي بيراعوهم، وابعت رسالة لحد عيّان تطمن بيها عليه.",
+    "اقري الآيات من 78 لـ 82 من سورة الشعراء، وادعي بالشفا للعيانين اللي تعرفيهم وللي بيراعوهم، وابعتي رسالة لحد عيّان تطمني بيها عليه."
+   ],
+   "sources": [
+    {
+     "name": "AFP (via eNCA)",
+     "url": "https://www.enca.com/lifestyle/ebola-vaccine-trial-begins-dr-congo"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
+    }
+   ]
+  },
+  {
    "date": "2026-10-24",
    "ayah": "17:24",
    "title_en": "Study: summer heat killed more than 50,000 people in Europe's cities",
