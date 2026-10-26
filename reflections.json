@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-26",
+   "ayah": "90:17",
+   "title_en": "Magnitude 7 earthquake in China's Tibet region kills at least 16",
+   "title_fr": "Un séisme de magnitude 7 fait au moins 16 morts dans la région chinoise du Tibet",
+   "title_ar": "زلزال بقوة 7 درجات يودي بحياة 16 شخصًا على الأقل في منطقة التبت بالصين",
+   "summary_en": "A magnitude 7.0 earthquake struck a remote mountainous area near Nagqu, in China's Tibet region, on the night of 22 October, killing at least 16 people and collapsing at least 339 homes. Some 1,600 rescuers were sent to the area, which lies about 4,800 metres high, where rockfalls blocked roads, power and communication lines were down and snow was forecast.",
+   "summary_fr": "Un séisme de magnitude 7,0 a frappé dans la nuit du 22 octobre une zone montagneuse isolée près de Nagqu, dans la région chinoise du Tibet, faisant au moins 16 morts et effondrant au moins 339 maisons. Quelque 1 600 secouristes ont été envoyés dans cette zone située à environ 4 800 mètres d'altitude, où des chutes de pierres bloquaient les routes, l'électricité et les communications étaient coupées et de la neige était annoncée.",
+   "summary_ar": "ضرب زلزال بقوة 7 درجات ليلة 22 أكتوبر منطقة جبلية نائية قرب ناغتشو في منطقة التبت بالصين، فأودى بحياة 16 شخصًا على الأقل وانهار ما لا يقل عن 339 منزلًا. وأُرسل نحو 1600 من عناصر الإنقاذ إلى المنطقة الواقعة على ارتفاع نحو 4800 متر، حيث أغلقت الصخور المتساقطة الطرق، وانقطعت الكهرباء والاتصالات، مع توقعات بتساقط الثلوج.",
+   "why_en": "Al-Mukhtasar explains that, after freeing a slave and feeding the hungry, crossing the steep pass to Paradise requires being among those who believe and urge one another to patience, in obedience, away from sin and in affliction, and to mercy towards Allah's servants. The ayah is not about this earthquake. It asks: in hardship, do we help each other hold on to both patience and mercy?",
+   "why_fr": "Al-Mukhtasar explique qu'après l'affranchissement d'un esclave et le fait de nourrir l'affamé, franchir le col escarpé vers le Paradis exige d'être de ceux qui croient et s'exhortent à la patience, dans l'obéissance, loin du péché et dans l'épreuve, et à la miséricorde envers les serviteurs d'Allah. Ce verset ne parle pas de ce séisme. Il demande : dans l'épreuve, nous aidons-nous à garder patience et miséricorde ?",
+   "why_ar": "يبيّن المختصر أن هذه الآية تُتمّ وصف العقبة التي على الإنسان أن يقطعها ليدخل الجنة: فبعد إعتاق رقبة، وإطعام يتيم قريب أو مسكين في يوم مجاعة، أن يكون ﴿مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ﴾، أي: «وأوصى بعضهم بعضًا بالصبر على الطاعات وعن المعاصي وعلى البلاء، وأوصى بعضهم بعضًا بالرحمة بعباد الله». والآية ليست عن هذا الزلزال؛ لكنها تطرح سؤالًا: حين تنزل الشدة، هل يعين بعضنا بعضًا على الصبر والرحمة معًا؟",
+   "prompts_en": [
+    "When someone near me is going through a hard time, do my words help them to be patient, or only add to their burden?",
+    "Who in my life is facing a loss or a difficulty right now, and what act of mercy could I offer them this week?",
+    "Who reminds me to be patient when I struggle, and how could I thank them?"
+   ],
+   "prompts_fr": [
+    "Quand une personne proche traverse un moment difficile, mes paroles l'aident-elles à être patiente, ou alourdissent-elles son fardeau ?",
+    "Qui, dans ma vie, traverse en ce moment une perte ou une difficulté, et quel geste de miséricorde pourrais-je lui offrir cette semaine ?",
+    "Qui me rappelle à la patience quand je peine, et comment pourrais-je l'en remercier ?"
+   ],
+   "prompts_ar": [
+    "حين يمرّ قريب مني بوقت عصيب، هل تعينه كلماتي على الصبر أم تزيد حمله ثقلًا؟",
+    "مَن في حياتي يواجه الآن فقدًا أو شدة، وأيّ عمل من أعمال الرحمة أستطيع أن أقدّمه له هذا الأسبوع؟",
+    "مَن يذكّرني بالصبر حين أتعب، وكيف أشكره على ذلك؟"
+   ],
+   "step_en": "Read 90:11-18, then make du'a for those affected by the earthquake and for anyone you know going through hardship, and feed or help someone in need today.",
+   "step_fr": "Lisez les versets 90:11-18, puis invoquez Allah pour les personnes touchées par le séisme et pour tous ceux que vous connaissez qui traversent une épreuve, et nourrissez ou aidez aujourd'hui une personne dans le besoin.",
+   "step_ar": "قراءة الآيات 11 إلى 18 من سورة البلد، ثم الدعاء للمتضررين من الزلزال ولكل من أعرفه ممن يمرّون بشدة، وإطعام محتاج أو مساعدته اليوم.",
+   "title_eg": "زلزال قوته 7 درجات في منطقة التبت في الصين ومات فيه 16 على الأقل",
+   "summary_eg": "ليلة 22 أكتوبر ضرب زلزال قوته 7 درجات منطقة جبلية بعيدة جنب ناغتشو في منطقة التبت في الصين، ومات فيه 16 شخص على الأقل، وما لا يقل عن 339 بيت وقعوا. واتبعت حوالي 1600 فرد إنقاذ للمنطقة اللي على ارتفاع حوالي 4800 متر، واللي الصخور اللي وقعت فيها قفلت الطرق، والكهربا والاتصالات قطعت، والتوقعات كانت إن التلج هينزل.",
+   "why_eg": "المختصر بيوضّح إن الآية دي بتكمّل وصف العقبة اللي الإنسان لازم يعدّيها عشان يدخل الجنة: بعد ما يعتق رقبة، ويأكّل يتيم قريب أو مسكين في يوم مجاعة، يكون ﴿مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ﴾، يعني: «وأوصى بعضهم بعضًا بالصبر على الطاعات وعن المعاصي وعلى البلاء، وأوصى بعضهم بعضًا بالرحمة بعباد الله». والآية مش عن الزلزال ده؛ بس هي بتسأل سؤال: لما الشدة تيجي، هل إحنا بنساعد بعض نفضل صابرين ورحماء في نفس الوقت؟",
+   "prompts_eg": [
+    "لما حد قريب مني يكون بيعدّي بوقت صعب، هل كلامي بيساعده يصبر ولا بيتقّل عليه أكتر؟",
+    "مين في حياتي بيمرّ دلوقتي بفقد أو شدة، وإيه الرحمة اللي ممكن أقدّمهاله الأسبوع ده؟",
+    "مين اللي بيفكّرني بالصبر لما أتعب، وإزاي ممكن أشكره؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 11 لـ 18 من سورة البلد، وادعي للي اتضرروا من الزلزال ولكل حد تعرفه بيمرّ بشدة، وأكّل حد محتاج أو ساعده النهارده.",
+    "اقري الآيات من 11 لـ 18 من سورة البلد، وادعي للي اتضرروا من الزلزال ولكل حد تعرفيه بيمرّ بشدة، وأكّلي حد محتاج أو ساعديه النهارده."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports"
+    },
+    {
+     "name": "AP (via CTV News)",
+     "url": "https://www.ctvnews.ca/climate-and-environment/article/rescuers-search-for-survivors-after-deadly-earthquake-in-chinas-tibet-region/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-25",
    "ayah": "26:80",
    "title_en": "DR Congo: first vaccine trial begins in an Ebola outbreak that has reached four countries",
