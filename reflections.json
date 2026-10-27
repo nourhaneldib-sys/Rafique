@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-27",
+   "ayah": "16:18",
+   "title_en": "Two storms sweep northern Europe, cutting power to more than 150,000 homes",
+   "title_fr": "Deux tempêtes balaient le nord de l'Europe et privent plus de 150 000 foyers d'électricité",
+   "title_ar": "عاصفتان تجتاحان شمال أوروبا وتقطعان الكهرباء عن أكثر من 150 ألف منزل",
+   "summary_en": "Storms Boelo and Austen crossed northern Europe within 24 hours of each other. A 60-year-old man was killed by a falling tree in Scotland, and people were injured in France, Germany, Belgium and the Netherlands. More than 150,000 homes lost power, hundreds of flights were cancelled or diverted, and around Freiburg in Germany the main hospital limited its services to emergencies.",
+   "summary_fr": "Les tempêtes Boelo et Austen ont traversé le nord de l'Europe à moins de 24 heures d'intervalle. Un homme de 60 ans a été tué par la chute d'un arbre en Écosse, et des personnes ont été blessées en France, en Allemagne, en Belgique et aux Pays-Bas. Plus de 150 000 foyers ont été privés d'électricité, des centaines de vols ont été annulés ou déroutés, et, dans la région de Fribourg-en-Brisgau, en Allemagne, l'hôpital principal a limité ses services aux urgences.",
+   "summary_ar": "عبرت العاصفتان بويلو وأوستن شمال أوروبا في أقل من 24 ساعة إحداهما بعد الأخرى. ولقي رجل في الستين من عمره حتفه إثر سقوط شجرة في اسكتلندا، وأُصيب أشخاص في فرنسا وألمانيا وبلجيكا وهولندا. وانقطعت الكهرباء عن أكثر من 150 ألف منزل، وأُلغيت مئات الرحلات الجوية أو حُوِّل مسارها، وقصر المستشفى الرئيسي في منطقة فرايبورغ الألمانية خدماته على الحالات الطارئة.",
+   "why_en": "Al-Mukhtasar explains that if people tried to count Allah's blessings they could not, so many and varied are they. He is Forgiving in not taking them to task for neglecting to thank Him, and Merciful in not cutting the blessings off. This ayah is not about these storms. It raises a question: which everyday blessings do we only notice once they are missing?",
+   "why_fr": "Selon Al-Mukhtasar, si les gens tentaient de dénombrer les bienfaits d'Allah, ils n'y parviendraient pas, tant ils sont nombreux et variés. Il est Pardonneur, car Il ne leur reproche pas d'oublier de Lui être reconnaissants, et Miséricordieux, car Il ne suspend pas Ses bienfaits. Ce verset ne parle pas de ces tempêtes. Il pose une question : quels bienfaits quotidiens ne remarquons-nous qu'une fois qu'ils nous manquent ?",
+   "why_ar": "يبيّن المختصر أن الناس لو حاولوا عدّ نعم الله لما استطاعوا ذلك «لكثرتها وتنوعها»، وأنه سبحانه غفور «حيث لم يؤاخذكم بالغفلة عن شكرها»، رحيم إذ لم يقطعها عنهم. والآية ﴿وَإِن تَعُدُّواْ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱللَّهَ لَغَفُورٞ رَّحِيمٞ﴾ لا تتحدث عن هاتين العاصفتين، لكنها تطرح سؤالًا: ما النعم اليومية التي لا ننتبه إليها إلا حين نفقدها؟",
+   "prompts_en": [
+    "Which ordinary blessing in my day, such as light, warmth or a safe roof, do I rarely stop to notice?",
+    "When something I rely on is suddenly taken away, even for a few hours, how do I react, and what does that teach me?",
+    "Who around me might need a hand when daily life is disrupted, and how could I check on them?"
+   ],
+   "prompts_fr": [
+    "Quel bienfait ordinaire de ma journée, comme la lumière, la chaleur ou un toit sûr, est-ce que je prends rarement le temps de remarquer ?",
+    "Quand une chose dont je dépends m'est soudain retirée, même pour quelques heures, comment est-ce que je réagis, et qu'est-ce que cela m'apprend ?",
+    "Qui, autour de moi, pourrait avoir besoin d'aide quand la vie quotidienne est perturbée, et comment pourrais-je prendre de ses nouvelles ?"
+   ],
+   "prompts_ar": [
+    "ما النعمة العادية في يومي، كالضوء أو الدفء أو سقف آمن، التي نادرًا ما أتوقف لألاحظها؟",
+    "حين يُنزع مني فجأةً شيء أعتمد عليه، ولو لساعات، كيف أتصرف، وماذا أتعلم من ذلك؟",
+    "مَن حولي قد يحتاج إلى عون حين تضطرب الحياة اليومية، وكيف أطمئن عليه؟"
+   ],
+   "step_en": "Before sleeping tonight, write down three blessings you used today without thinking, say Alhamdulillah for each, and read Surah An-Nahl, ayat 10 to 18.",
+   "step_fr": "Ce soir, avant de dormir, notez trois bienfaits dont vous avez profité aujourd'hui sans y penser, dites « Al-hamdulillah » pour chacun, et lisez les versets 10 à 18 de la sourate An-Nahl.",
+   "step_ar": "قبل النوم الليلة: كتابة ثلاث نعم انتفعتُ بها اليوم دون أن ألتفت إليها، وحمد الله على كل واحدة منها، ثم قراءة الآيات من 10 إلى 18 من سورة النحل.",
+   "title_eg": "عاصفتين ضربوا شمال أوروبا وقطعوا الكهربا عن أكتر من 150 ألف بيت",
+   "summary_eg": "العاصفتين بويلو وأوستن عدّوا على شمال أوروبا ورا بعض في أقل من 24 ساعة. راجل عنده 60 سنة مات بعد ما شجرة وقعت عليه في اسكتلندا، وفيه ناس اتصابوا في فرنسا وألمانيا وبلجيكا وهولندا. الكهربا قطعت عن أكتر من 150 ألف بيت، ومئات الرحلات اتلغت أو اتحوّلت، والمستشفى الرئيسي في منطقة فرايبورغ في ألمانيا قصر شغله على الطوارئ بس.",
+   "why_eg": "المختصر بيوضح إن الناس لو حاولوا يعدّوا نعم ربنا مش هيقدروا «لكثرتها وتنوعها»، وإن ربنا غفور «حيث لم يؤاخذكم بالغفلة عن شكرها»، ورحيم عشان ما قطعهاش عنهم. الآية ﴿وَإِن تَعُدُّواْ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱللَّهَ لَغَفُورٞ رَّحِيمٞ﴾ مش بتتكلم عن العاصفتين دول، بس بتفتح سؤال: إيه النعم اللي بنعيش بيها كل يوم ومش بناخد بالنا منها غير لما تروح؟",
+   "prompts_eg": [
+    "إيه النعمة العادية في يومي، زي النور أو الدفا أو سقف آمن، اللي نادرًا ما بقف وآخد بالي منها؟",
+    "لما حاجة بعتمد عليها تتاخد مني فجأة، ولو كام ساعة، بتصرف إزاي، وبتعلم إيه من ده؟",
+    "مين حواليّا ممكن يكون محتاج مساعدة لما الحياة اليومية تتلخبط، وإزاي أطمن عليه؟"
+   ],
+   "step_eg": [
+    "قبل ما تنام النهارده، اكتب تلات نعم استخدمتها من غير ما تاخد بالك، وقول الحمد لله على كل واحدة، واقرا الآيات من 10 لـ 18 من سورة النحل.",
+    "قبل ما تنامي النهارده، اكتبي تلات نعم استخدمتيها من غير ما تاخدي بالك، وقولي الحمد لله على كل واحدة، واقري الآيات من 10 لـ 18 من سورة النحل."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes"
+    },
+    {
+     "name": "STV News",
+     "url": "https://news.stv.tv/scotland/man-killed-by-falling-tree-as-storm-boelo-continues-to-cause-disruption"
+    }
+   ]
+  },
+  {
    "date": "2026-10-26",
    "ayah": "90:17",
    "title_en": "Magnitude 7 earthquake in China's Tibet region kills at least 16",
