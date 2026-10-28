@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-10-28",
+   "ayah": "59:9",
+   "title_en": "More than 36,000 people flee fighting in southern Ethiopia into Kenya",
+   "title_fr": "Plus de 36 000 personnes fuient les combats du sud de l'Éthiopie vers le Kenya",
+   "title_ar": "أكثر من 36 ألف شخص يفرّون من القتال في جنوب إثيوبيا إلى كينيا",
+   "summary_en": "More than 36,600 people have crossed from southern Ethiopia into Kenya after fighting near the border town of Moyale, linked to a long-running boundary dispute between two Ethiopian regions. Most are women and children. They are sheltering in camps and in villages with host communities in Marsabit County, which already face food and water shortages, while Kenyan authorities and UN agencies provide food, water and nutrition support.",
+   "summary_fr": "Plus de 36 600 personnes ont quitté le sud de l'Éthiopie pour le Kenya après des combats près de la ville frontalière de Moyale, liés à un différend frontalier ancien entre deux régions éthiopiennes. La plupart sont des femmes et des enfants. Elles sont hébergées dans des camps et dans des villages, chez des communautés d'accueil du comté de Marsabit qui manquent déjà de nourriture et d'eau, tandis que les autorités kényanes et les agences de l'ONU fournissent nourriture, eau et aide nutritionnelle.",
+   "summary_ar": "عبر أكثر من 36,600 شخص من جنوب إثيوبيا إلى كينيا بعد قتال قرب بلدة مويالي الحدودية، يرتبط بنزاع قديم على الحدود بين إقليمين إثيوبيين، وأغلبهم من النساء والأطفال. ويقيمون في مخيمات وفي قرى لدى مجتمعات مضيفة في مقاطعة مارسابيت تعاني أصلًا من نقص الغذاء والماء، فيما تقدّم السلطات الكينية ووكالات الأمم المتحدة الغذاء والماء والدعم الغذائي.",
+   "why_en": "Al-Mukhtasar explains that this ayah praises the Ansar of Madinah: they loved those who migrated to them from Makkah, felt no envy when the migrants were given a share, and put them before themselves in worldly things even though they were poor and in need. Whoever Allah protects from greed is successful. The ayah is not about this event. It raises a question: how do I give when I have little myself?",
+   "why_fr": "Selon Al-Mukhtasar, ce verset fait l'éloge des Ansar de Médine : ils aimaient ceux qui avaient émigré vers eux depuis La Mecque, n'éprouvaient aucune envie quand on leur donnait une part, et les faisaient passer avant eux-mêmes dans les biens de ce monde, alors qu'ils étaient pauvres et dans le besoin. Celui qu'Allah préserve de l'avidité réussit. Ce verset ne parle pas de cet événement. Il pose une question : comment donner quand on a soi-même peu ?",
+   "why_ar": "يبيّن المختصر أن الآية تثني على الأنصار الذين «يحبون من هاجر إليهم من مكة»، ولا يجدون في صدورهم حسدًا لهم، «ويقدمون على أنفسهم المهاجرين في الحظوظ الدنيوية، ولو كانوا متصفين بالفقر والحاجة»، وأن من وقاه الله شُحّ نفسه فهو من المفلحين. والآية ﴿وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞ﴾ لا تتحدث عن هذا الحدث، لكنها تطرح سؤالًا: كيف أعطي حين يكون ما عندي قليلًا؟",
+   "prompts_en": [
+    "When I have little myself, what still stops me from sharing, and what helps me give anyway?",
+    "Who has arrived in my life, at work, in my neighbourhood or my family, and might need to feel welcome?",
+    "Do I ever feel a quiet envy when others are helped and I am not, and how do I deal with it?"
+   ],
+   "prompts_fr": [
+    "Quand j'ai moi-même peu, qu'est-ce qui m'empêche encore de partager, et qu'est-ce qui m'aide à donner malgré tout ?",
+    "Qui est arrivé récemment dans ma vie, au travail, dans mon quartier ou ma famille, et aurait besoin de se sentir accueilli ?",
+    "Est-ce que je ressens parfois une envie discrète quand d'autres sont aidés et pas moi, et comment est-ce que j'y fais face ?"
+   ],
+   "prompts_ar": [
+    "حين يكون ما عندي قليلًا، ما الذي يمنعني من المشاركة، وما الذي يعينني على العطاء رغم ذلك؟",
+    "مَن الذي دخل حياتي حديثًا، في العمل أو الحي أو العائلة، وقد يحتاج إلى أن يشعر بالترحيب؟",
+    "هل أشعر أحيانًا بحسد خفيّ حين يُعان غيري ولا أُعان، وكيف أتعامل مع ذلك؟"
+   ],
+   "step_en": "Read Surah Al-Hashr, ayat 8 to 10, then give something today, even if small, to someone who needs it, and make du'a for everyone who has had to leave their home.",
+   "step_fr": "Lisez les versets 8 à 10 de la sourate Al-Hashr, puis donnez aujourd'hui quelque chose, même modeste, à quelqu'un qui en a besoin, et invoquez Allah pour tous ceux qui ont dû quitter leur foyer.",
+   "step_ar": "قراءة الآيات من 8 إلى 10 من سورة الحشر، ثم إعطاء شيء اليوم، ولو قليلًا، لمن يحتاج إليه، والدعاء لكل من اضطُرّ إلى ترك بيته.",
+   "title_eg": "أكتر من 36 ألف واحد هربوا من القتال في جنوب إثيوبيا لكينيا",
+   "summary_eg": "أكتر من 36,600 واحد عدّوا من جنوب إثيوبيا لكينيا بعد قتال جنب بلدة مويالي اللي على الحدود، وله علاقة بخلاف قديم على الحدود بين إقليمين في إثيوبيا، وأغلبهم ستات وأطفال. قاعدين في مخيمات وفي قرى عند أهالي مقاطعة مارسابيت، اللي هما نفسهم عندهم نقص في الأكل والمية، والسلطات الكينية ووكالات الأمم المتحدة بيوفّروا أكل ومية ودعم غذائي.",
+   "why_eg": "المختصر بيوضح إن الآية بتمدح الأنصار اللي «يحبون من هاجر إليهم من مكة»، ومكانش في قلوبهم حسد ليهم، «ويقدمون على أنفسهم المهاجرين في الحظوظ الدنيوية، ولو كانوا متصفين بالفقر والحاجة»، وإن اللي ربنا يحميه من شُحّ نفسه يبقى من المفلحين. الآية ﴿وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞ﴾ مش بتتكلم عن اللي بيحصل ده، بس بتفتح سؤال: إزاي أدّي وأنا اللي في إيدي قليل؟",
+   "prompts_eg": [
+    "لما يكون اللي في إيدي قليل، إيه اللي بيمنعني أشارك، وإيه اللي بيساعدني أدّي برضه؟",
+    "مين اللي لسه داخل حياتي، في الشغل أو في المنطقة أو في العيلة، وممكن يكون محتاج يحس إنه مرحّب بيه؟",
+    "هل ساعات بحس بغيرة خفيفة لما حد تاني يتساعد وأنا لأ، وبتعامل معاها إزاي؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 8 لـ 10 من سورة الحشر، وادّي حاجة النهارده، ولو صغيرة، لحد محتاجها، وادعي لكل اللي اضطروا يسيبوا بيوتهم.",
+    "اقري الآيات من 8 لـ 10 من سورة الحشر، وادّي حاجة النهارده، ولو صغيرة، لحد محتاجها، وادعي لكل اللي اضطروا يسيبوا بيوتهم."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168682"
+    },
+    {
+     "name": "Arab News (AP)",
+     "url": "https://www.arabnews.com/world/number-of-people-fleeing-ethiopia-into-kenya-rises-to-36000-as-local-leaders-appeal-for-support-3008559"
+    }
+   ]
+  },
+  {
    "date": "2026-10-27",
    "ayah": "16:18",
    "title_en": "Two storms sweep northern Europe, cutting power to more than 150,000 homes",
