@@ -1,6 +1,55 @@
 {
  "items": [
   {
+   "date": "2026-10-29",
+   "ayah": "2:156",
+   "title_en": "Nigeria: attack on a village in Taraba state kills at least 62",
+   "title_fr": "Nigeria : l'attaque d'un village de l'État de Taraba fait au moins 62 morts",
+   "title_ar": "نيجيريا: مقتل 62 شخصًا على الأقل في هجوم على قرية بولاية تارابا",
+   "summary_en": "Gunmen attacked Binnari, a remote village in Taraba state in northeastern Nigeria. Nigeria's emergency agency says at least 62 people were killed, and police say the toll may rise as more bodies are recovered. Thousands of people have been displaced, and homes, shops and food supplies were set on fire.",
+   "summary_fr": "Des hommes armés ont attaqué Binnari, un village isolé de l'État de Taraba, dans le nord-est du Nigeria. Selon l'agence nigériane de gestion des urgences, au moins 62 personnes ont été tuées, et la police indique que le bilan pourrait s'alourdir à mesure que des corps sont retrouvés. Des milliers de personnes ont été déplacées, et des maisons, des commerces et des réserves de nourriture ont été incendiés.",
+   "summary_ar": "هاجم مسلحون قرية بيناري النائية في ولاية تارابا شمال شرق نيجيريا. وتقول الوكالة الوطنية لإدارة الطوارئ إن 62 شخصًا على الأقل قُتلوا، فيما تقول الشرطة إن العدد قد يرتفع مع انتشال مزيد من الجثث. ونزح آلاف السكان، وأُحرقت منازل ومتاجر ومخزونات من الطعام.",
+   "why_en": "Al-Mukhtasar explains that the patient, when struck by a hardship, say in acceptance that they belong to Allah, Who deals with them as He wills, and that to Him they return on the Day of Judgement; He created them and showered them with blessings. The ayah is not about this attack. It raises a question for each of us: how do I meet loss, and how do I stand by those who grieve?",
+   "why_fr": "Al-Mukhtasar explique que les patients, lorsqu'un malheur les frappe, disent avec acceptation qu'ils appartiennent à Allah, qui dispose d'eux comme Il veut, et qu'ils retourneront à Lui au Jour de la Résurrection ; c'est Lui qui les a créés et comblés de bienfaits. Ce verset ne parle pas de cette attaque. Il pose une question à chacun : comment accueillir la perte, et comment soutenir ceux qui sont en deuil ?",
+   "why_ar": "يبيّن المختصر أن الصابرين إذا أصابتهم مصيبة قالوا ﴿إِنَّا لِلَّهِ وَإِنَّآ إِلَيۡهِ رَٰجِعُونَ﴾ برضًا وتسليم، أي: «إنا ملكٌ لله يتصرف فينا بما يشاء، وإنا إليه عائدون يوم القيامة»، فهو الذي خلقهم وتفضّل عليهم بالنعم. والآية ليست عن هذا الهجوم، لكنها تطرح سؤالًا على كل واحد منا: كيف أستقبل الفقد، وكيف أقف مع مَن يحزنون؟",
+   "prompts_en": [
+    "When I lose something or someone dear, what do I say first, and what would I like to say?",
+    "Who in my life is grieving right now, and how could I be present for them this week?",
+    "What blessings am I holding today that I tend to forget belong to Allah?"
+   ],
+   "prompts_fr": [
+    "Quand je perds quelque chose ou quelqu'un de cher, que dis-je en premier, et que voudrais-je dire ?",
+    "Qui, autour de moi, traverse un deuil en ce moment, et comment pourrais-je être présent pour lui cette semaine ?",
+    "Quels bienfaits ai-je aujourd'hui entre les mains en oubliant qu'ils appartiennent à Allah ?"
+   ],
+   "prompts_ar": [
+    "حين أفقد شيئًا أو شخصًا عزيزًا، ماذا أقول أولًا، وماذا أودّ أن أقول؟",
+    "مَن في حياتي يمرّ بحزن الآن، وكيف أكون قريبًا منه هذا الأسبوع؟",
+    "ما النعم التي بين يديّ اليوم وأنسى أنها ملكٌ لله؟"
+   ],
+   "step_en": "Read Al-Baqarah 2:153-157, then make du'a for the people of Binnari and for everyone who is grieving, and send a kind word to someone you know who has lost a loved one.",
+   "step_fr": "Lisez les versets 153 à 157 de la sourate Al-Baqara, puis faites une invocation pour les habitants de Binnari et pour tous ceux qui sont en deuil, et adressez un mot bienveillant à une personne de votre entourage qui a perdu un proche.",
+   "step_ar": "قراءة الآيات من 153 إلى 157 من سورة البقرة، ثم الدعاء لأهل بيناري ولكل محزون، وإرسال كلمة طيبة إلى شخص قريب فقد عزيزًا.",
+   "title_eg": "نيجيريا: مقتل 62 شخص على الأقل في هجوم على قرية في ولاية تارابا",
+   "summary_eg": "مسلحين هجموا على قرية بيناري، قرية بعيدة في ولاية تارابا في شمال شرق نيجيريا. وكالة الطوارئ هناك بتقول إن 62 شخص على الأقل اتقتلوا، والشرطة بتقول إن العدد ممكن يزيد كل ما يلاقوا جثث تانية. آلاف الناس سابوا بيوتهم، واتحرقت بيوت ومحلات وأكل كان متخزّن.",
+   "why_eg": "المختصر بيوضّح إن الصابرين لما مصيبة تصيبهم بيقولوا ﴿إِنَّا لِلَّهِ وَإِنَّآ إِلَيۡهِ رَٰجِعُونَ﴾ برضا وتسليم، يعني: «إنا ملكٌ لله يتصرف فينا بما يشاء، وإنا إليه عائدون يوم القيامة»، لأنه هو اللي خلقهم وأنعم عليهم. الآية مش عن الهجوم ده، بس بتسأل كل واحد فينا: إزاي أستقبل الفقد؟ وإزاي أقف جنب اللي حزنانين؟",
+   "prompts_eg": [
+    "لما بخسر حاجة أو حد غالي عليّا، أول حاجة بقولها إيه؟ وإيه اللي نفسي أقوله؟",
+    "مين في حياتي زعلان أو في حزن دلوقتي، وإزاي أكون جنبه الأسبوع ده؟",
+    "إيه النعم اللي في إيدي النهارده وبنسى إنها ملك ربنا؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 153 لـ 157 من سورة البقرة، وادعي لأهل بيناري ولكل واحد حزين، وابعت كلمة حلوة لحد تعرفه فقد حد غالي عليه.",
+    "اقري الآيات من 153 لـ 157 من سورة البقرة، وادعي لأهل بيناري ولكل واحد حزين، وابعتي كلمة حلوة لحد تعرفيه فقد حد غالي عليه."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera (with AP)",
+     "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62"
+    }
+   ]
+  },
+  {
    "date": "2026-10-28",
    "ayah": "59:9",
    "title_en": "More than 36,000 people flee fighting in southern Ethiopia into Kenya",
