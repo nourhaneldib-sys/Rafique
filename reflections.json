@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-10-30",
+   "ayah": "67:2",
+   "title_en": "Spain: high-speed train collision south of Madrid kills at least 68",
+   "title_fr": "Espagne : une collision de trains à grande vitesse au sud de Madrid fait au moins 68 morts",
+   "title_ar": "إسبانيا: اصطدام قطارين فائقَي السرعة جنوب مدريد يودي بحياة 68 شخصًا على الأقل",
+   "summary_en": "Early on 28 October, a high-speed train ran into the back of a stationary train near Urda, south of Madrid, on the line linking Madrid and Seville. At least 68 people were killed and about 80 injured; the two trains were carrying 397 and 147 passengers. Spain declared three days of mourning, and an investigation into the cause is under way.",
+   "summary_fr": "Le 28 octobre au matin, un train à grande vitesse a percuté l’arrière d’un train à l’arrêt près d’Urda, au sud de Madrid, sur la ligne qui relie Madrid à Séville. Au moins 68 personnes ont été tuées et environ 80 blessées ; les deux trains transportaient 397 et 147 passagers. L’Espagne a décrété trois jours de deuil, et une enquête sur les causes est en cours.",
+   "summary_ar": "صباح الثامن والعشرين من أكتوبر، اصطدم قطار فائق السرعة بمؤخرة قطار متوقف قرب بلدة أوردا جنوب مدريد، على الخط الذي يربط مدريد بإشبيلية. وقُتل 68 شخصًا على الأقل وأصيب نحو 80، وكان القطاران يقلّان 397 و147 راكبًا. وأعلنت إسبانيا الحداد ثلاثة أيام، فيما يجري التحقيق في أسباب الحادث.",
+   "why_en": "Al-Mukhtasar explains that Allah created death and life to test people, to see which of them is better in their actions; He is the Almighty whom no one overpowers, and the Forgiving of the sins of those who repent. This ayah is not about the crash. It raises a question every life faces: since no one knows how long they have, what makes my deeds good?",
+   "why_fr": "Selon Al-Mukhtasar, Allah a créé la mort et la vie afin d’éprouver les gens et de savoir lequel d’entre eux accomplit les meilleures œuvres ; Il est le Puissant à qui personne ne tient tête, Celui qui pardonne les péchés de Ses serviteurs qui se repentent. Ce verset ne parle pas de cet accident. Il pose une question qui concerne toute vie : puisque nul ne sait combien de temps il lui reste, qu’est-ce qui rend nos œuvres meilleures ?",
+   "why_ar": "يبيّن المختصر أن الله هو «الذي خلق الموت وخلق الحياة ليختبركم - أيها الناس - أيكم أحسن عملًا»، وأنه «العزيز الذي لا يغلبه أحد، الغفور لذنوب من تاب من عباده». والآية ليست عن هذا الحادث، لكنها تطرح سؤالًا يواجهه كل إنسان لا يعلم كم بقي من عمره: ما الذي يجعل عمله حسنًا، والله يقول: ﴿لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗا﴾؟",
+   "prompts_en": [
+    "What is one thing I want to have done well before this day ends?",
+    "Who in my life have I been meaning to call, thank or forgive, and what is stopping me?",
+    "What does 'better in actions' mean for me in the work, words and habits of my everyday life?"
+   ],
+   "prompts_fr": [
+    "Quelle est la chose que je voudrais avoir bien faite avant la fin de cette journée ?",
+    "Qui, dans ma vie, ai-je l’intention d’appeler, de remercier ou de pardonner depuis longtemps, et qu’est-ce qui me retient ?",
+    "Que signifie pour moi « accomplir les meilleures œuvres » dans mon travail, mes paroles et mes habitudes de tous les jours ?"
+   ],
+   "prompts_ar": [
+    "ما الشيء الذي أودّ أن أكون قد أحسنتُه قبل أن ينتهي هذا اليوم؟",
+    "مَن في حياتي أنوي منذ مدة أن أتصل به أو أشكره أو أسامحه، وما الذي يؤخّرني؟",
+    "ماذا يعني «أحسن عملًا» بالنسبة إليّ في عملي وكلامي وعاداتي اليومية؟"
+   ],
+   "step_en": "Read the first verses of Surah Al-Mulk (67:1–5) today, make du'a for the injured to recover and for the grieving families to find comfort, and call someone you love.",
+   "step_fr": "Lisez aujourd’hui les premiers versets de la sourate Al-Mulk (67:1-5), invoquez Allah pour la guérison des blessés et le réconfort des familles endeuillées, puis appelez une personne que vous aimez.",
+   "step_ar": "قراءة الآيات الأولى من سورة الملك (67: 1-5) اليوم، والدعاء بالشفاء للمصابين وبالصبر والسكينة للأسر المكلومة، ثم الاتصال بشخص عزيز.",
+   "title_eg": "إسبانيا: 68 شخص على الأقل ماتوا في تصادم قطرين سريعين جنوب مدريد",
+   "summary_eg": "يوم 28 أكتوبر الصبح، قطر سريع خبط في ضهر قطر واقف جنب بلدة اسمها أوردا جنوب مدريد، على الخط اللي بيوصّل مدريد بإشبيلية. مات 68 شخص على الأقل واتصاب حوالي 80، وكان في القطرين 397 و147 راكب. إسبانيا أعلنت الحداد تلات أيام، والتحقيق في أسباب الحادثة لسه شغال.",
+   "why_eg": "المختصر بيوضّح إن ربنا هو «الذي خلق الموت وخلق الحياة ليختبركم - أيها الناس - أيكم أحسن عملًا»، وإنه «العزيز الذي لا يغلبه أحد، الغفور لذنوب من تاب من عباده». الآية مش عن الحادثة دي، بس بتسأل سؤال يخص كل واحد فينا، ومحدش عارف فاضل له قد إيه: إيه اللي يخلّي عملي أحسن، وربنا بيقول: ﴿لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗا﴾؟",
+   "prompts_eg": [
+    "إيه الحاجة اللي نفسي أكون عملتها كويس قبل ما اليوم ده يخلص؟",
+    [
+     "مين في حياتي بقالي فترة ناوي أكلّمه أو أشكره أو أسامحه، وإيه اللي مأخّرني؟",
+     "مين في حياتي بقالي فترة ناوية أكلّمه أو أشكره أو أسامحه، وإيه اللي مأخّرني؟"
+    ],
+    "يعني إيه «أحسن عملًا» بالنسبة لي في شغلي وكلامي وعاداتي كل يوم؟"
+   ],
+   "step_eg": [
+    "اقرا أول آيات سورة الملك (67: 1-5) النهارده، وادعي للمصابين بالشفا ولأهاليهم بالصبر، وكلّم حد بتحبه.",
+    "اقري أول آيات سورة الملك (67: 1-5) النهارده، وادعي للمصابين بالشفا ولأهاليهم بالصبر، وكلّمي حد بتحبيه."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
+    },
+    {
+     "name": "RTÉ News",
+     "url": "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+    }
+   ]
+  },
+  {
    "date": "2026-10-29",
    "ayah": "2:156",
    "title_en": "Nigeria: attack on a village in Taraba state kills at least 62",
