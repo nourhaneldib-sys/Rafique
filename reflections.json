@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "date": "2026-10-31",
+   "ayah": "18:46",
+   "title_en": "About $6.3 billion stolen from crypto exchange Binance in largest heist on record",
+   "title_fr": "Environ 6,3 milliards de dollars volés à la plateforme crypto Binance, un vol record",
+   "title_ar": "سرقة نحو 6.3 مليار دولار من منصة العملات المشفرة «بينانس» في أكبر عملية من نوعها",
+   "summary_en": "Binance, the cryptocurrency exchange, says about $6.3bn was taken from its wallets, most of it in about 20 minutes starting late on Thursday, far above the previous record of $1.5bn. It suspended deposits and withdrawals, said user funds were safe and that it would cover all losses. About $3bn has been frozen, and Bitcoin fell to a six-week low.",
+   "summary_fr": "La plateforme de cryptomonnaies Binance indique qu’environ 6,3 milliards de dollars ont été dérobés dans ses portefeuilles, en grande partie en une vingtaine de minutes à partir de jeudi soir, bien au-delà du précédent record de 1,5 milliard. Elle a suspendu dépôts et retraits, assuré que les fonds des utilisateurs étaient en sécurité et qu’elle couvrirait toutes les pertes. Environ 3 milliards ont été gelés, et le bitcoin est tombé à son plus bas niveau depuis six semaines.",
+   "summary_ar": "أعلنت منصة العملات المشفرة «بينانس» أن نحو 6.3 مليار دولار سُرقت من محافظها، معظمها خلال قرابة عشرين دقيقة بدءًا من مساء الخميس، أي أكثر بكثير من الرقم القياسي السابق البالغ 1.5 مليار دولار. وعلّقت المنصة الإيداع والسحب، وقالت إن أموال المستخدمين آمنة وإنها ستغطي كل الخسائر. وجُمّد نحو 3 مليارات دولار، وتراجع سعر البيتكوين إلى أدنى مستوى له منذ ستة أسابيع.",
+   "why_en": "Al-Mukhtasar explains that wealth and children are adornments of this worldly life, and that wealth only benefits a person in the afterlife if it is spent on what pleases Allah. Deeds and words pleasing to Allah are better in reward and the best thing to hope in, because worldly adornment perishes while their reward lasts. This ayah is not about this theft. It raises a question: what do I own that truly lasts?",
+   "why_fr": "Selon Al-Mukhtasar, les richesses et la descendance sont des ornements de ce bas monde, et la richesse n’est utile dans l’au-delà que si elle a été dépensée pour l’agrément d’Allah. Les œuvres et paroles agréées par Allah valent mieux en récompense et sont le meilleur espoir, car les ornements de cette vie sont éphémères tandis qu’elles subsistent. Ce verset ne parle pas de ce vol. Il pose une question : qu’ai-je qui dure vraiment ?",
+   "why_ar": "يبيّن المختصر أن «المال والأولاد مما يُتَزَيَّن به في الحياة الدنيا، ولا نفع للمال في الآخرة إلا إن أُنْفِق فيما يرضي الله»، وأن ﴿وَٱلۡبَٰقِيَٰتُ ٱلصَّـٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا﴾، «لأن زينة الدنيا فانية وثواب الأعمال والأقوال المرضية عند الله باق». والآية ليست عن هذه السرقة، لكنها تطرح سؤالًا على كل إنسان: ما الذي أملكه ويبقى حقًّا؟",
+   "prompts_en": [
+    "If something I rely on disappeared tomorrow, what would I still have that matters to me?",
+    "Where does my sense of security really come from, and how much of it rests on what I own?",
+    "What is one good word or deed I could do today whose value no one could take from me?"
+   ],
+   "prompts_fr": [
+    "Si une chose sur laquelle je compte disparaissait demain, que me resterait-il d’important ?",
+    "D’où me vient vraiment mon sentiment de sécurité, et quelle part repose sur ce que je possède ?",
+    "Quelle bonne parole ou quelle bonne action pourrais-je accomplir aujourd’hui, dont personne ne pourrait m’enlever la valeur ?"
+   ],
+   "prompts_ar": [
+    "لو اختفى غدًا شيء أعتمد عليه، فما الذي يبقى لي مما يهمّني حقًّا؟",
+    "من أين يأتيني شعوري بالأمان، وإلى أيّ حدّ يقوم على ما أملكه؟",
+    "ما الكلمة الطيبة أو العمل الصالح الذي أستطيع أن أقدّمه اليوم ولا يستطيع أحد أن ينتزع قيمته مني؟"
+   ],
+   "step_en": "Read Surah Al-Kahf 18:45–46 today, say “SubhanAllah, Alhamdulillah, La ilaha illa Allah, Allahu Akbar” a few times, and give a small charity, even a little.",
+   "step_fr": "Lisez aujourd’hui les versets 45 et 46 de la sourate Al-Kahf (18:45-46), répétez quelques fois « SubhanAllah, Al-hamdulillah, La ilaha illa Allah, Allahu Akbar », et faites une petite aumône, même modeste.",
+   "step_ar": "قراءة الآيتين 45 و46 من سورة الكهف اليوم، وترديد «سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر» بضع مرات، ثم التصدّق بشيء ولو كان قليلًا.",
+   "title_eg": "اتسرق حوالي 6.3 مليار دولار من منصة العملات المشفرة «بينانس» في أكبر سرقة من نوعها",
+   "summary_eg": "منصة العملات المشفرة «بينانس» قالت إن حوالي 6.3 مليار دولار اتسرقوا من محافظها، أغلبهم في حوالي 20 دقيقة من بالليل يوم الخميس، وده أكتر بكتير من الرقم القياسي اللي قبله، 1.5 مليار دولار. المنصة وقّفت الإيداع والسحب، وقالت إن فلوس المستخدمين في أمان وإنها هتعوّض كل الخساير. اتجمّد حوالي 3 مليار دولار، والبيتكوين نزل لأقل سعر له من ست أسابيع.",
+   "why_eg": "المختصر بيوضّح إن «المال والأولاد مما يُتَزَيَّن به في الحياة الدنيا، ولا نفع للمال في الآخرة إلا إن أُنْفِق فيما يرضي الله»، وإن ﴿وَٱلۡبَٰقِيَٰتُ ٱلصَّـٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا﴾، «لأن زينة الدنيا فانية وثواب الأعمال والأقوال المرضية عند الله باق». الآية مش عن السرقة دي، بس بتسأل كل واحد فينا: إيه اللي عندي وبيفضل بجد؟",
+   "prompts_eg": [
+    [
+     "لو حاجة معتمد عليها اختفت بكره، إيه اللي هيفضل معايا ويفرق معايا بجد؟",
+     "لو حاجة معتمدة عليها اختفت بكره، إيه اللي هيفضل معايا ويفرق معايا بجد؟"
+    ],
+    [
+     "إحساسي بالأمان جاي منين، وقد إيه منه مربوط باللي أنا مالكه؟",
+     "إحساسي بالأمان جاي منين، وقد إيه منه مربوط باللي أنا مالكاه؟"
+    ],
+    "إيه الكلمة الحلوة أو العمل الكويس اللي ممكن أعمله النهارده ومحدش يقدر ياخد مني قيمته؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 45 و46 من سورة الكهف النهارده، وقول «سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر» كذا مرة، واتصدّق بحاجة ولو صغيرة.",
+    "اقري الآيتين 45 و46 من سورة الكهف النهارده، وقولي «سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر» كذا مرة، واتصدّقي بحاجة ولو صغيرة."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+    }
+   ]
+  },
+  {
    "date": "2026-10-30",
    "ayah": "67:2",
    "title_en": "Spain: high-speed train collision south of Madrid kills at least 68",
