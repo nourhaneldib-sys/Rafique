@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-01",
+   "ayah": "16:53",
+   "title_en": "Bangladesh: October is the deadliest dengue month of the year, with 173 deaths",
+   "title_fr": "Bangladesh : octobre, mois le plus meurtrier de l'année pour la dengue, avec 173 morts",
+   "title_ar": "بنغلاديش: أكتوبر أشد شهور العام فتكًا بحمى الضنك بـ173 وفاة",
+   "summary_en": "Bangladesh recorded 173 dengue deaths in October, its deadliest month this year, after 148 in September, according to health ministry data reported by Reuters. As of October 30, 418 people had died and more than 133,000 had been admitted to hospital this year. Doctors say many patients seek care only once severe complications appear, and an expert expects transmission to continue through November.",
+   "summary_fr": "Le Bangladesh a enregistré 173 décès dus à la dengue en octobre, le mois le plus meurtrier de l'année, après 148 en septembre, selon les données du ministère de la Santé citées par Reuters. Au 30 octobre, 418 personnes étaient mortes et plus de 133 000 avaient été hospitalisées depuis le début de l'année. Selon les médecins, beaucoup de patients ne se font soigner qu'une fois apparues des complications graves, et un expert s'attend à ce que la transmission se poursuive en novembre.",
+   "summary_ar": "سجّلت بنغلاديش 173 وفاة بحمى الضنك في أكتوبر، وهو أشد شهور العام فتكًا، بعد 148 وفاة في سبتمبر، وفق بيانات وزارة الصحة التي نقلتها رويترز. وحتى 30 أكتوبر بلغ عدد الوفيات هذا العام 418، ودخل المستشفيات أكثر من 133 ألف شخص. ويقول الأطباء إن كثيرًا من المرضى لا يطلبون العلاج إلا بعد ظهور مضاعفات خطيرة، ويتوقع أحد الخبراء استمرار انتقال العدوى خلال نوفمبر.",
+   "why_en": "Al-Mukhtasar explains that every blessing people have, in their faith or their worldly life, is from Allah and from no one else, and that when trial, sickness or poverty strikes, it is to Him alone that they plead in du'a to lift it. The ayah is not about Bangladesh; it asks whether we recognise health as a gift while we have it, and not only when it is gone.",
+   "why_fr": "Al-Mukhtasar explique que tout bienfait, religieux ou terrestre, provient d'Allah et de personne d'autre, et que lorsqu'une épreuve, une maladie ou la pauvreté frappe, c'est Lui Seul que l'on implore afin qu'Il dissipe le malheur. Le verset ne parle pas du Bangladesh ; il demande si nous reconnaissons la santé comme un bienfait tant que nous l'avons, et pas seulement quand elle nous quitte.",
+   "why_ar": "يبيّن المختصر أن ما بالناس من نعمة دينية أو دنيوية «فمن الله سبحانه لا من غيره»، وأن الناس إذا أصابهم بلاء أو مرض أو فقر «فإليه وحده تتَضَرَّعون بالدعاء؛ ليكشف عنكم ما أصابكم». الآية ليست عن بنغلاديش؛ لكن قولها ﴿وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِ﴾ يطرح سؤالًا: هل أعرف قدر العافية وهي معي، لا حين أفقدها فقط؟",
+   "prompts_en": [
+    "When was the last time I thanked Allah for being well, on an ordinary day when nothing hurt?",
+    "Who around me is ill or caring for someone who is ill, and what would a visit, a call or a meal mean to them this week?",
+    "Do I turn to Allah only when harm touches me? What would it look like to turn to Him in the same way on good days?"
+   ],
+   "prompts_fr": [
+    "Quand avez-vous remercié Allah pour la dernière fois d'être en bonne santé, un jour ordinaire où rien ne vous faisait mal ?",
+    "Qui, autour de vous, est malade ou s'occupe d'un proche malade, et que représenteraient pour lui une visite, un appel ou un repas cette semaine ?",
+    "Vous tournez-vous vers Allah seulement quand le mal vous touche ? À quoi ressemblerait le fait de vous tourner vers Lui de la même façon les bons jours ?"
+   ],
+   "prompts_ar": [
+    "متى شكرتُ الله آخر مرة على العافية، في يوم عادي لم يكن يؤلمني فيه شيء؟",
+    "مَن حولي مريض أو يرعى مريضًا، وماذا تعني له زيارة أو مكالمة أو وجبة مني هذا الأسبوع؟",
+    "هل ألجأ إلى الله فقط حين يمسّني الضر؟ كيف يكون لجوئي إليه بالطريقة نفسها في الأيام الطيبة؟"
+   ],
+   "step_en": "Read the ayah and the one after it (16:53–54), then thank Allah for one specific part of your health and make du'a for those who are ill in Bangladesh and near you.",
+   "step_fr": "Lisez le verset et celui qui le suit (16:53-54), puis remerciez Allah pour un aspect précis de votre santé et invoquez-Le pour les malades du Bangladesh et ceux de votre entourage.",
+   "step_ar": "قراءة الآية والتي تليها (16:53-54)، ثم شكر الله على نعمة محددة من نعم العافية، والدعاء للمرضى في بنغلاديش ومن حولي.",
+   "title_eg": "بنغلاديش: أكتوبر أصعب شهر في السنة مع حمى الضنك، و173 حالة وفاة",
+   "summary_eg": "بنغلاديش سجّلت 173 حالة وفاة بحمى الضنك في أكتوبر، وده أصعب شهر في السنة، بعد 148 حالة في سبتمبر، حسب بيانات وزارة الصحة اللي نقلتها رويترز. ولحد 30 أكتوبر، عدد الوفيات السنة دي وصل 418، وأكتر من 133 ألف شخص دخلوا المستشفى. الدكاترة بيقولوا إن مرضى كتير مش بيروحوا يتعالجوا غير لما تظهر عليهم مضاعفات خطيرة، وخبير متوقع إن العدوى هتفضل تنتشر طول نوفمبر.",
+   "why_eg": [
+    "المختصر بيوضّح إن أي نعمة عند الناس، في الدين أو الدنيا، «فمن الله سبحانه لا من غيره»، وإن الناس لما يصيبهم بلاء أو مرض أو فقر «فإليه وحده تتَضَرَّعون بالدعاء؛ ليكشف عنكم ما أصابكم». الآية مش عن بنغلاديش؛ بس قولها ﴿وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِ﴾ بيسأل: هل أنا حاسس بقيمة الصحة وهي معايا، مش بس لما تروح؟",
+    "المختصر بيوضّح إن أي نعمة عند الناس، في الدين أو الدنيا، «فمن الله سبحانه لا من غيره»، وإن الناس لما يصيبهم بلاء أو مرض أو فقر «فإليه وحده تتَضَرَّعون بالدعاء؛ ليكشف عنكم ما أصابكم». الآية مش عن بنغلاديش؛ بس قولها ﴿وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِ﴾ بيسأل: هل أنا حاسة بقيمة الصحة وهي معايا، مش بس لما تروح؟"
+   ],
+   "prompts_eg": [
+    "إمتى آخر مرة شكرت ربنا على الصحة، في يوم عادي مكانش فيه حاجة بتوجعني؟",
+    "مين حواليا عيان أو بيراعي حد عيان، وزيارة أو مكالمة أو أكلة مني تفرق معاه قد إيه الأسبوع ده؟",
+    "هل أنا بلجأ لربنا بس لما يجيلي ضرر؟ إزاي ممكن ألجأله بنفس الشكل في الأيام الحلوة؟"
+   ],
+   "step_eg": [
+    "اقرا الآية واللي بعدها (16:53-54)، وبعدين اشكر ربنا على حاجة معينة في صحتك، وادعي للعيانين في بنغلاديش واللي حواليك.",
+    "اقري الآية واللي بعدها (16:53-54)، وبعدين اشكري ربنا على حاجة معينة في صحتك، وادعي للعيانين في بنغلاديش واللي حواليك."
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/bangladesh-death-toll-dengue-rises-103858594.html"
+    },
+    {
+     "name": "Reuters (via Daily Sabah)",
+     "url": "https://www.dailysabah.com/world/asia-pacific/bangladesh-records-deadliest-dengue-month-as-deaths-reach-418"
+    }
+   ]
+  },
+  {
    "date": "2026-10-31",
    "ayah": "18:46",
    "title_en": "About $6.3 billion stolen from crypto exchange Binance in largest heist on record",
