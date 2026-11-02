@@ -1,6 +1,67 @@
 {
  "items": [
   {
+   "date": "2026-11-02",
+   "ayah": "42:28",
+   "title_en": "Bolivia declares a national emergency as El Niño drought hits 78,000 families",
+   "title_fr": "La Bolivie en état d'urgence : la sécheresse d'El Niño touche 78 000 familles",
+   "title_ar": "بوليفيا تعلن الطوارئ الوطنية والجفاف المرتبط بظاهرة النينيو يصيب 78 ألف أسرة",
+   "summary_en": "Bolivia declared a nationwide state of emergency on Saturday to send help faster to areas hit by drought and floods linked to El Niño. Drought affects 78,000 families in six of the country's nine departments, and more than 75,000 cattle have died, according to a government report. Scientists warn this El Niño could be the strongest on record, peaking at the end of 2026.",
+   "summary_fr": "Samedi, la Bolivie a décrété l'état d'urgence sur tout son territoire afin d'envoyer plus vite des secours vers les régions frappées par la sécheresse et les inondations liées à El Niño. La sécheresse touche 78 000 familles dans six des neuf départements du pays, et plus de 75 000 têtes de bétail sont mortes, selon un rapport du gouvernement. Les scientifiques préviennent que cet épisode pourrait être le plus fort jamais enregistré, avec un pic attendu fin 2026.",
+   "summary_ar": "أعلنت بوليفيا يوم السبت حالة الطوارئ في جميع أنحاء البلاد، لتسريع إيصال المساعدات إلى المناطق التي يضربها الجفاف والفيضانات المرتبطة بظاهرة النينيو. ويصيب الجفاف 78 ألف أسرة في ستّ من مقاطعات البلاد التسع، وقد نفق أكثر من 75 ألف رأس من الماشية بحسب تقرير حكومي. ويحذّر العلماء من أن هذه الظاهرة قد تكون الأقوى على الإطلاق، ويُتوقع أن تبلغ ذروتها في نهاية عام 2026.",
+   "why_en": "Al-Mukhtasar explains that Allah sends down rain on His servants after they had despaired of it, spreads it so the earth sprouts, and is the One who takes charge of their affairs, praised in every state. This ayah is not about Bolivia or El Niño. It raises a question each of us meets: how do I hold on to hope, and keep praising Allah, when what I need is slow to come?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah fait descendre la pluie sur Ses serviteurs après qu'ils ont désespéré de sa venue, qu'Il la répand pour que la terre germe, et qu'Il est Celui qui prend en charge leurs affaires, digne de louange en toute situation. Ce verset ne parle ni de la Bolivie ni d'El Niño. Il pose une question que chacun rencontre : comment garder l'espoir, et continuer à louer Allah, quand ce dont j'ai besoin tarde à venir ?",
+   "why_ar": "في قوله تعالى: ﴿يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ﴾ يبيّن المختصر أن الله «ينزل المطر على عباده من بعد ما يئسوا من نزوله»، فتنبت به الأرض، وأنه سبحانه «المتولّي شؤون عباده، المحمود على كل حال». والآية لا تتحدث عن بوليفيا ولا عن ظاهرة النينيو، لكنها تثير سؤالًا يمرّ به كل إنسان: كيف أتمسك بالرجاء وأحمد الله حين يتأخر ما أحتاج إليه؟",
+   "prompts_en": [
+    "When something I really need is slow to come, what helps me keep hoping instead of giving up?",
+    "Which blessing that I take for granted, like clean water, would I miss most if it were gone tomorrow?",
+    "How can I praise Allah sincerely on a day when things are not going the way I hoped?"
+   ],
+   "prompts_fr": [
+    "Quand une chose dont j'ai vraiment besoin tarde à venir, qu'est-ce qui m'aide à garder espoir plutôt qu'à abandonner ?",
+    "Quel bienfait que je tiens pour acquis, comme l'eau potable, me manquerait le plus s'il disparaissait demain ?",
+    "Comment louer Allah sincèrement un jour où les choses ne se passent pas comme je l'espérais ?"
+   ],
+   "prompts_ar": [
+    "ماذا أفعل حين يتأخر عني شيء أحتاج إليه حقًّا، حتى أبقى على الرجاء ولا أيأس؟",
+    "أيّ نعمة أعدّها أمرًا مضمونًا، كالماء النظيف، سأفتقدها أكثر لو زالت غدًا؟",
+    "كيف أحمد الله بصدق في يوم لا تسير فيه الأمور كما كنت أرجو؟"
+   ],
+   "step_en": "Read Surah Ash-Shura 42:27-29, make du'a for families facing drought and floods, and try not to waste a drop of water today.",
+   "step_fr": "Lisez les versets 27 à 29 de la sourate Ash-Shura, faites une invocation pour les familles touchées par la sécheresse et les inondations, et essayez de ne pas gaspiller une goutte d'eau aujourd'hui.",
+   "step_ar": "قراءة الآيات 27 إلى 29 من سورة الشورى، ثم الدعاء للأسر التي يصيبها الجفاف والفيضانات، والحرص على عدم إهدار قطرة ماء اليوم.",
+   "title_eg": "بوليفيا تعلن الطوارئ في البلد كلها، والجفاف بسبب النينيو بيضرب 78 ألف أسرة",
+   "summary_eg": "بوليفيا أعلنت يوم السبت حالة الطوارئ في البلد كلها، عشان المساعدات توصل أسرع للمناطق اللي بيضربها الجفاف والفيضانات بسبب ظاهرة النينيو. الجفاف واصل لـ78 ألف أسرة في ست مقاطعات من تسعة، وأكتر من 75 ألف راس ماشية ماتت، حسب تقرير حكومي. والعلماء بيحذّروا إن النينيو المرة دي ممكن تكون الأقوى في التاريخ، وذروتها متوقعة آخر 2026.",
+   "why_eg": [
+    "في قوله تعالى: ﴿يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ﴾ المختصر بيوضّح إن ربنا هو اللي «ينزل المطر على عباده من بعد ما يئسوا من نزوله»، فالأرض تطلّع زرعها، وإنه سبحانه «المتولّي شؤون عباده، المحمود على كل حال». الآية مش بتتكلم عن بوليفيا ولا عن النينيو، بس بتفتح سؤال بيعدّي على أي حد فينا: إزاي أفضل متمسك بالأمل وبحمد ربنا، لما الحاجة اللي محتاجها تتأخر؟",
+    "في قوله تعالى: ﴿يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ﴾ المختصر بيوضّح إن ربنا هو اللي «ينزل المطر على عباده من بعد ما يئسوا من نزوله»، فالأرض تطلّع زرعها، وإنه سبحانه «المتولّي شؤون عباده، المحمود على كل حال». الآية مش بتتكلم عن بوليفيا ولا عن النينيو، بس بتفتح سؤال بيعدّي على أي حد فينا: إزاي أفضل متمسكة بالأمل وبحمد ربنا، لما الحاجة اللي محتاجها تتأخر؟"
+   ],
+   "prompts_eg": [
+    [
+     "إيه اللي ممكن أعمله لما حاجة محتاجها بجد تتأخر عليا، عشان أفضل متمسك بالأمل وما أيأسش؟",
+     "إيه اللي ممكن أعمله لما حاجة محتاجها بجد تتأخر عليا، عشان أفضل متمسكة بالأمل وما أيأسش؟"
+    ],
+    [
+     "إيه النعمة اللي واخدها كأنها مضمونة، زي الميه النضيفة، وهتوحشني أكتر لو راحت بكرة؟",
+     "إيه النعمة اللي واخداها كأنها مضمونة، زي الميه النضيفة، وهتوحشني أكتر لو راحت بكرة؟"
+    ],
+    [
+     "إزاي أحمد ربنا من قلبي في يوم الحاجات فيه مش ماشية زي ما كنت عايز؟",
+     "إزاي أحمد ربنا من قلبي في يوم الحاجات فيه مش ماشية زي ما كنت عايزة؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآيات من 27 لـ29 في سورة الشورى، وادعي للأسر اللي بيعانوا من الجفاف والفيضانات، وحاول النهارده ما تضيّعش ولا نقطة ميه.",
+    "اقري الآيات من 27 لـ29 في سورة الشورى، وادعي للأسر اللي بيعانوا من الجفاف والفيضانات، وحاولي النهارده ما تضيّعش ولا نقطة ميه."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera (with AFP)",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern"
+    }
+   ]
+  },
+  {
    "date": "2026-11-01",
    "ayah": "16:53",
    "title_en": "Bangladesh: October is the deadliest dengue month of the year, with 173 deaths",
