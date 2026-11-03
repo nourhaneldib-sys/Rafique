@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-03",
+   "ayah": "21:83",
+   "title_en": "Yemen: nearly 250,000 people in Taiz cut off from essential healthcare",
+   "title_fr": "Yémen : près de 250 000 personnes privées de soins essentiels à Taïz",
+   "title_ar": "اليمن: نحو 250 ألف شخص في تعز محرومون من الرعاية الصحية الأساسية",
+   "summary_en": "The UN said on Monday that fighting has closed all roads into the Yemeni city of Taiz and that no commercial supplies are getting through. Nearly 250,000 people have lost access to essential healthcare, including more than 186,000 children under five and 23,000 pregnant women, and twelve hospitals are at risk of closing. More than 1,400 cases of acute diarrhoea and suspected cholera were reported in a single week.",
+   "summary_fr": "L'ONU a indiqué lundi que les combats ont fermé toutes les routes menant à la ville yéménite de Taïz et qu'aucun approvisionnement commercial n'y parvient. Près de 250 000 personnes ont perdu l'accès aux soins essentiels, dont plus de 186 000 enfants de moins de cinq ans et 23 000 femmes enceintes, et douze hôpitaux risquent de fermer. Plus de 1 400 cas de diarrhée aiguë et de choléra présumé ont été signalés en une seule semaine.",
+   "summary_ar": "أعلنت الأمم المتحدة يوم الاثنين أن القتال أغلق جميع الطرق المؤدية إلى مدينة تعز اليمنية، وأن الإمدادات التجارية لا تصل إليها. وفقد نحو 250 ألف شخص الحصول على الرعاية الصحية الأساسية، بينهم أكثر من 186 ألف طفل دون الخامسة و23 ألف امرأة حامل، كما يواجه اثنا عشر مستشفى خطر الإغلاق. وسُجّلت أكثر من 1400 حالة إسهال حاد واشتباه بالكوليرا في أسبوع واحد.",
+   "why_en": "Al-Mukhtasar explains that Job called on his Lord when affliction struck him, saying he had been afflicted with illness and the loss of his family, yet Allah is the most merciful of all who show mercy, and asking Him to remove it. The ayah is not about Yemen; it raises a question: where do we turn, and what do we say, when illness and loss reach us or those we love?",
+   "why_fr": "Al-Mukhtasar explique que Job invoqua son Seigneur lorsque l'épreuve le frappa, disant qu'il avait été atteint par la maladie et la perte des siens, alors qu'Allah est le plus miséricordieux de tous ceux qui font miséricorde, et Lui demandant de l'en délivrer. Le verset ne parle pas du Yémen ; il pose une question : vers qui nous tournons-nous, et que disons-nous, quand la maladie et la perte nous touchent, nous ou ceux que nous aimons ?",
+   "why_ar": "يبيّن المختصر أن أيوب عليه السلام دعا ربه «حين أصابه البلاء» قائلًا: «يا رب، إني أُصِبْت بالمرض وفَقْدِ الأهل، وأنت أرحم الراحمين جميعًا، فاصرف عنّي ما أصابني من ذلك». الآية ليست عن اليمن؛ إنها تطرح سؤالًا: إلى من نلجأ، وماذا نقول، حين يصيبنا المرض والفقد أو يصيب من نحب؟",
+   "prompts_en": [
+    "When illness or loss last touched you or someone close to you, what did you say to Allah, and what do you wish you had said?",
+    "Job named his pain plainly, then named Allah's mercy. What weight are you carrying that you have not yet put into words in du'a?",
+    "Who around you is sick, worn out or caring for someone else, and what would a small act of mercy toward them look like this week?"
+   ],
+   "prompts_fr": [
+    "La dernière fois que la maladie ou la perte vous a touché, vous ou un proche, qu'avez-vous dit à Allah, et qu'auriez-vous aimé Lui dire ?",
+    "Job a nommé sa peine simplement, puis la miséricorde d'Allah. Quel poids portez-vous que vous n'avez pas encore mis en mots dans une invocation ?",
+    "Qui, autour de vous, est malade, épuisé ou prend soin d'un autre, et à quoi ressemblerait un petit geste de miséricorde envers lui cette semaine ?"
+   ],
+   "prompts_ar": [
+    "حين مسّني المرض أو الفقد آخر مرة، أو مسّ أحدًا قريبًا مني، ماذا قلتُ لله، وماذا كنتُ أتمنى أن أقول؟",
+    "سمّى أيوب ما أصابه بوضوح، ثم ذكر رحمة الله. ما الثقل الذي أحمله ولم أضعه بعدُ في كلمات دعاء؟",
+    "مَن حولي مريض أو مُنهَك أو يرعى غيره، وكيف يبدو عمل رحمة صغير تجاهه هذا الأسبوع؟"
+   ],
+   "step_en": "Read Al-Anbiya 21:83–84, then make du'a for the sick in Taiz who cannot reach care, and for anyone you know who is unwell.",
+   "step_fr": "Lisez les versets 83 et 84 de la sourate Al-Anbiya, puis faites une invocation pour les malades de Taïz privés de soins et pour toute personne de votre entourage qui est souffrante.",
+   "step_ar": "قراءة الآيتين 83 و84 من سورة الأنبياء، ثم الدعاء للمرضى في تعز الذين لا يصلون إلى العلاج، ولكل مريض أعرفه.",
+   "title_eg": "اليمن: حوالي 250 ألف شخص في تعز مش قادرين يوصلوا للرعاية الصحية الأساسية",
+   "summary_eg": "الأمم المتحدة قالت يوم الاتنين إن القتال قفل كل الطرق اللي بتوصل لمدينة تعز في اليمن، وإن مفيش أي إمدادات تجارية بتدخل. حوالي 250 ألف شخص مبقوش قادرين يوصلوا للرعاية الصحية الأساسية، منهم أكتر من 186 ألف طفل تحت خمس سنين و23 ألف ست حامل، و12 مستشفى ممكن يقفلوا. واتسجلت أكتر من 1400 حالة إسهال حاد واشتباه كوليرا في أسبوع واحد بس.",
+   "why_eg": "المختصر بيوضّح إن أيوب عليه السلام دعا ربه «حين أصابه البلاء» وقال: «يا رب، إني أُصِبْت بالمرض وفَقْدِ الأهل، وأنت أرحم الراحمين جميعًا، فاصرف عنّي ما أصابني من ذلك». الآية مش عن اليمن؛ هي بتسأل: بنلجأ لمين، وبنقول إيه، لما المرض أو الفقد يوصلنا أو يوصل لحد بنحبه؟",
+   "prompts_eg": [
+    "آخر مرة المرض أو الفقد لمسني أو لمس حد قريب مني، قلت إيه لربنا، وكنت نفسي أقول إيه؟",
+    [
+     "أيوب سمّى اللي هو فيه بوضوح، وبعدين افتكر رحمة ربنا. إيه الحِمل اللي شايله ولسه مقلتوش في دعا؟",
+     "أيوب سمّى اللي هو فيه بوضوح، وبعدين افتكر رحمة ربنا. إيه الحِمل اللي شايلاه ولسه مقلتوش في دعا؟"
+    ],
+    "مين حواليّا عيان أو تعبان أو بيراعي حد تاني، وإيه الحاجة الصغيرة اللي فيها رحمة ممكن أعملها معاه الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 83 و84 من سورة الأنبياء، وبعدين ادعي للعيانين في تعز اللي مش قادرين يوصلوا للعلاج، ولكل حد تعرفه تعبان.",
+    "اقري الآيتين 83 و84 من سورة الأنبياء، وبعدين ادعي للعيانين في تعز اللي مش قادرين يوصلوا للعلاج، ولكل حد تعرفيه تعبان."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168723"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/all-roads-to-taiz-closed-yemen-health-system-buckling-as-displacements-continue-to-rise-un-warns-3009482"
+    }
+   ]
+  },
+  {
    "date": "2026-11-02",
    "ayah": "42:28",
    "title_en": "Bolivia declares a national emergency as El Niño drought hits 78,000 families",
