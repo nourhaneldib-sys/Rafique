@@ -1,6 +1,55 @@
 {
  "items": [
   {
+   "date": "2026-11-04",
+   "ayah": "3:185",
+   "title_en": "Ukraine: strike on an aid distribution site kills 31, with dozens still missing",
+   "title_fr": "Ukraine : une frappe sur un site de distribution d'aide fait 31 morts et des dizaines de disparus",
+   "title_ar": "أوكرانيا: مقتل 31 شخصًا وفقدان العشرات في ضربة على موقع لتوزيع المساعدات",
+   "summary_en": "On Monday, bombs hit a former school used for aid distributions and a nearby shelter in the village of Komyshuvakha, in Ukraine's Zaporizhzhia region. AP reports 31 dead, including four police officers and two rescue workers, at least five injured and more than 45 residents missing, as rescuers searched through a second night. Three days of mourning were declared in the region.",
+   "summary_fr": "Lundi, des bombes ont frappé une ancienne école servant à distribuer de l'aide et un abri voisin, dans le village de Komychouvakha, dans la région de Zaporijjia, au sud de l'Ukraine. Selon l'AP, 31 personnes ont été tuées, dont quatre policiers et deux secouristes, au moins cinq ont été blessées et plus de 45 habitants sont portés disparus, tandis que les secours cherchaient pour la deuxième nuit. Trois jours de deuil ont été décrétés dans la région.",
+   "summary_ar": "يوم الاثنين، أصابت قنابل مدرسةً سابقة كانت تُستخدم لتوزيع المساعدات وملجأً قريبًا منها في قرية كوميشوفاخا بمنطقة زابوريجيا جنوب أوكرانيا. وأفادت وكالة أسوشيتد برس بمقتل 31 شخصًا، بينهم أربعة من رجال الشرطة واثنان من عمال الإنقاذ، وإصابة خمسة على الأقل، وفقدان أكثر من 45 من السكان، فيما واصل المسعفون البحث لليلة ثانية. وأُعلن الحداد ثلاثة أيام في المنطقة.",
+   "why_en": "Al-Mukhtasar explains that every soul, whatever its state, must taste death, so no one should be dazzled by this world; on the Day of Judgement each person receives the reward of their deeds in full, and the life of this world is only a passing enjoyment. This ayah is not about this event; it raises a question for each of us: what am I doing with the time I have been given?",
+   "why_fr": "Selon Al-Mukhtasar, toute âme, quel que soit son état, goûtera la mort ; nul ne doit donc se laisser éblouir par ce monde. Au Jour du Jugement, chacun recevra la rétribution complète de ses actes, et la vie d'ici-bas n'est qu'une jouissance passagère. Ce verset ne parle pas de cet événement ; il pose une question à chacun : que fais-je du temps qui m'est donné ?",
+   "why_ar": "في قوله تعالى ﴿كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِ﴾ يبيّن المختصر أن «كل نفس مهما تكن لا بد أن تذوق الموت، فلا يغتر مخلوق بهذه الدنيا»، وأن الأجور تُعطى يوم القيامة «كاملة غير منقوصة»، وأن الحياة الدنيا «متاع زائل». وليست الآية عن هذا الحدث، لكنها تطرح سؤالًا على كل واحد منا: ماذا أصنع بالوقت الذي أُعطيته؟",
+   "prompts_en": [
+    "When I hear of people who lost their lives while waiting for help, what do I feel, and what do I do with that feeling?",
+    "If my time were shorter than I think, what would I want to have done for the people around me?",
+    "What in this world dazzles me most, and how could I hold it a little more lightly today?"
+   ],
+   "prompts_fr": [
+    "Quand j'apprends que des personnes ont perdu la vie en attendant de l'aide, qu'est-ce que je ressens, et qu'est-ce que je fais de ce sentiment ?",
+    "Si mon temps était plus court que je ne le pense, qu'aimerais-je avoir fait pour les personnes qui m'entourent ?",
+    "Qu'est-ce qui m'éblouit le plus dans ce monde, et comment pourrais-je m'y attacher un peu moins aujourd'hui ?"
+   ],
+   "prompts_ar": [
+    "حين أسمع عن أناس فقدوا حياتهم وهم ينتظرون المساعدة، ماذا أشعر، وماذا أفعل بهذا الشعور؟",
+    "لو كان وقتي أقصر مما أظن، ماذا أحب أن أكون قد قدّمته لمن حولي؟",
+    "ما أكثر ما يبهرني في هذه الدنيا، وكيف أخفف تعلّقي به اليوم؟"
+   ],
+   "step_en": "Read Surah Al Imran 3:185–186, then make du'a for the injured, the missing and their families, asking Allah to ease their pain.",
+   "step_fr": "Lisez les versets 185 et 186 de la sourate Al Imran, puis invoquez Allah pour les blessés, les disparus et leurs familles, afin qu'Il allège leur peine.",
+   "step_ar": "قراءة الآيتين 185 و186 من سورة آل عمران، ثم الدعاء للمصابين والمفقودين وأسرهم بأن يخفف الله آلامهم.",
+   "title_eg": "أوكرانيا: 31 قتيل وعشرات مفقودين بعد ضربة على مكان لتوزيع المساعدات",
+   "summary_eg": "يوم الاتنين، قنابل وقعت على مدرسة قديمة كانوا بيوزعوا فيها مساعدات وعلى مخبأ جنبها في قرية كوميشوفاخا في منطقة زابوريجيا جنوب أوكرانيا. وكالة أسوشيتد برس بتقول إن 31 شخص ماتوا، منهم 4 من الشرطة و2 من رجال الإنقاذ، وفيه 5 مصابين على الأقل، وأكتر من 45 من أهل القرية لسه مفقودين، والمسعفين فضلوا يدوّروا لتاني ليلة. واتعلن الحداد 3 أيام في المنطقة.",
+   "why_eg": "في ﴿كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِ﴾ المختصر بيوضّح إن «كل نفس مهما تكن لا بد أن تذوق الموت، فلا يغتر مخلوق بهذه الدنيا»، وإن يوم القيامة كل واحد هياخد أجور أعماله «كاملة غير منقوصة»، وإن الدنيا «متاع زائل». الآية دي مش عن الحدث ده، بس بتسأل كل واحد فينا: أنا بعمل إيه بالوقت اللي ربنا اداهولي؟",
+   "prompts_eg": [
+    "لما بسمع عن ناس ماتوا وهم مستنيين مساعدة، بحس بإيه، وبعمل إيه بالإحساس ده؟",
+    "لو وقتي أقصر من اللي بتخيّله، نفسي أكون عملت إيه للناس اللي حواليا؟",
+    "إيه أكتر حاجة في الدنيا بتبهرني، وإزاي أخفف تعلقي بيها النهارده؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 185 و186 من سورة آل عمران، وبعدين ادعي للمصابين والمفقودين وأهاليهم إن ربنا يهوّن عليهم.",
+    "اقري الآيتين 185 و186 من سورة آل عمران، وبعدين ادعي للمصابين والمفقودين وأهاليهم إن ربنا يهوّن عليهم."
+   ],
+   "sources": [
+    {
+     "name": "AP via CP24: Ukraine's rescuers deal with grim aftermath of aid shelter bombings",
+     "url": "https://www.cp24.com/news/world/2026/11/03/ukraines-rescuers-deal-with-grim-aftermath-of-aid-shelter-bombings-as-moscow-pounds-energy-targets/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-03",
    "ayah": "21:83",
    "title_en": "Yemen: nearly 250,000 people in Taiz cut off from essential healthcare",
