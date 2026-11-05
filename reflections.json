@@ -1,6 +1,63 @@
 {
  "items": [
   {
+   "date": "2026-11-05",
+   "ayah": "102:8",
+   "title_en": "Cyberattacks on supermarket fridges spoil tonnes of food across Europe",
+   "title_fr": "Europe : des cyberattaques sur les frigos de supermarchés gâchent des tonnes d’aliments",
+   "title_ar": "هجمات إلكترونية على ثلاجات المتاجر تُتلف أطنانًا من الطعام في أوروبا",
+   "summary_en": "Hackers have remotely taken over refrigeration systems in supermarkets in at least 11 European countries, warming fridges and freezers (some to 50°C) and spoiling tonnes of food. It is the second wave in under a month, after hundreds of stores in France were hit in October. No one has claimed responsibility, and investigators are still looking into who is behind it.",
+   "summary_fr": "Des pirates ont pris le contrôle à distance des systèmes de réfrigération de supermarchés dans au moins 11 pays européens, faisant monter la température des frigos et congélateurs (parfois jusqu’à 50 °C) et gâchant des tonnes de nourriture. C’est la deuxième vague en moins d’un mois, après des centaines de magasins touchés en France en octobre. Personne n’a revendiqué ces attaques, et les enquêtes se poursuivent.",
+   "summary_ar": "سيطر قراصنة عن بُعد على أنظمة التبريد في متاجر كبرى في 11 دولة أوروبية على الأقل، فارتفعت حرارة الثلاجات والمجمِّدات، وبلغت في بعضها 50 درجة مئوية، وتلفت أطنان من الطعام. وهذه الموجة الثانية في أقل من شهر، بعد أن أصابت موجة أولى مئات المتاجر في فرنسا في أكتوبر. ولم تعلن أي جهة مسؤوليتها، ولا يزال المحققون يبحثون عن الفاعلين.",
+   "why_en": "Al-Mukhtasar explains that on that Day Allah will ask people about the blessings He gave them, such as health, wealth and others. The ayah is not about this event. It raises a question many of us rarely ask: which everyday blessings, like the food waiting on a shelf, do I take for granted, and how am I using them?",
+   "why_fr": "Al-Mukhtasar explique que ce Jour-là, Allah interrogera les gens sur les bienfaits qu’Il leur a accordés, comme la santé, la richesse et d’autres encore. Ce verset ne parle pas de cet événement. Il soulève une question que l’on se pose rarement : quels bienfaits du quotidien, comme la nourriture qui nous attend en rayon, est-ce que je considère comme acquis, et qu’est-ce que j’en fais ?",
+   "why_ar": "في قوله تعالى: ﴿ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ﴾ يبيّن المختصر أن الله سيسأل الناس يوم القيامة «عما أنعم به عليكم من الصحة والغنى وغيرهما». والآية لا تتحدث عن هذا الحدث، لكنها تثير سؤالًا قلّما نطرحه: أيّ النِّعم اليومية، كالطعام الذي نجده على الرفوف، أعدّها أمرًا مضمونًا، وكيف أستعملها؟",
+   "prompts_en": [
+    "Which blessing in my day do I only notice when it is missing?",
+    "How do I treat the food I have: what do I waste, and what do I share?",
+    "If I were asked today about my health and my means, what would I want to be able to say?"
+   ],
+   "prompts_fr": [
+    "Quel bienfait de ma journée ne remarqué-je que lorsqu’il vient à manquer ?",
+    "Comment est-ce que je traite la nourriture que j’ai : qu’est-ce que je gaspille, et qu’est-ce que je partage ?",
+    "Si l’on m’interrogeait aujourd’hui sur ma santé et mes moyens, qu’aimerais-je pouvoir répondre ?"
+   ],
+   "prompts_ar": [
+    "أيّ نعمة في يومي لا ألاحظها إلا حين تغيب؟",
+    "كيف أتعامل مع الطعام الذي بين يديّ: ماذا أُهدر منه، وماذا أشارك غيري فيه؟",
+    "لو سُئلتُ اليوم عن صحتي وما أملك، فبماذا أحبّ أن أجيب؟"
+   ],
+   "step_en": "Read Surah At-Takathur (102), then before your next meal pause to thank Allah for it, and share some food with a neighbour or someone in need.",
+   "step_fr": "Lisez la sourate At-Takathur (102), puis, avant votre prochain repas, prenez un instant pour en remercier Allah, et partagez un peu de nourriture avec un voisin ou une personne dans le besoin.",
+   "step_ar": "قراءة سورة التكاثر، ثم التوقّف قبل الوجبة القادمة لحمد الله عليها، ومشاركة شيء من الطعام مع جار أو محتاج.",
+   "title_eg": "هجمات إلكترونية على تلاجات السوبر ماركت بوّظت أطنان أكل في أوروبا",
+   "summary_eg": "قراصنة سيطروا من بعيد على أنظمة التبريد في سوبر ماركتات في 11 دولة أوروبية على الأقل، فالتلاجات والفريزرات سخنت، وفي أماكن وصلت لـ50 درجة، وأطنان أكل باظت. ودي تاني موجة في أقل من شهر، بعد ما مئات المحلات في فرنسا اتضربت في أكتوبر. ولحد دلوقتي محدش أعلن مسؤوليته، والتحقيقات لسه شغالة.",
+   "why_eg": "في قوله تعالى: ﴿ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ﴾ المختصر بيقول إن ربنا هيسأل الناس يوم القيامة «عما أنعم به عليكم من الصحة والغنى وغيرهما». الآية مش بتتكلم عن الحدث ده، بس بتفتح سؤال نادرًا ما بنسأله لنفسنا: إيه النعم اللي بشوفها كل يوم، زي الأكل اللي بلاقيه على الرف، وبعتبرها مضمونة؟ وبستعملها إزاي؟",
+   "prompts_eg": [
+    "إيه النعمة اللي في يومي مش باخد بالي منها غير لما تختفي؟",
+    "بتعامل إزاي مع الأكل اللي عندي: إيه اللي بيترمي، وإيه اللي ممكن أشاركه مع حد؟",
+    "لو اتسألت النهارده عن صحتي واللي في إيدي، نفسي أقول إيه؟"
+   ],
+   "step_eg": [
+    "اقرا سورة التكاثر، وقبل الأكلة الجاية اقف لحظة واحمد ربنا عليها، وشارك حاجة من أكلك مع جار أو حد محتاج.",
+    "اقري سورة التكاثر، وقبل الأكلة الجاية اقفي لحظة واحمدي ربنا عليها، وشاركي حاجة من أكلك مع جار أو حد محتاج."
+   ],
+   "sources": [
+    {
+     "name": "AP via PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/world/heres-what-to-know-about-another-cyberattack-on-european-supermarket-fridges"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-04",
    "ayah": "3:185",
    "title_en": "Ukraine: strike on an aid distribution site kills 31, with dozens still missing",
