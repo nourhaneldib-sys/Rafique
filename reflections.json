@@ -1,6 +1,69 @@
 {
  "items": [
   {
+   "date": "2026-11-06",
+   "ayah": "12:87",
+   "title_en": "DR Congo: two new vaccines join a trial against its largest-ever Ebola outbreak",
+   "title_fr": "RD Congo : deux nouveaux vaccins rejoignent l’essai contre une épidémie d’Ebola record",
+   "title_ar": "الكونغو الديمقراطية: لقاحان جديدان ينضمّان إلى تجربة لمواجهة أكبر تفشٍّ للإيبولا في تاريخها",
+   "summary_en": "Two vaccines designed for the Bundibugyo strain of Ebola will join a trial in the Democratic Republic of the Congo, the first time such vaccines are tested during an outbreak. The trial, named Tumaini (\"hope\" in Swahili), began on 23 October in Ituri province. By 1 November the outbreak, the largest in the country's history, had more than 10,500 confirmed cases and 5,126 deaths.",
+   "summary_fr": "Deux vaccins conçus pour la souche Bundibugyo d’Ebola vont rejoindre un essai en République démocratique du Congo : c’est la première fois que de tels vaccins sont testés pendant une épidémie. L’essai, baptisé Tumaini (« espoir » en swahili), a débuté le 23 octobre dans la province de l’Ituri. Au 1er novembre, cette épidémie, la plus importante de l’histoire du pays, comptait plus de 10 500 cas confirmés et 5 126 décès.",
+   "summary_ar": "سينضمّ لقاحان صُمّما خصيصًا لسلالة «بونديبوغيو» من الإيبولا إلى تجربة سريرية في جمهورية الكونغو الديمقراطية، وهي المرة الأولى التي تُختبر فيها لقاحات كهذه في أثناء تفشٍّ للمرض. وقد انطلقت التجربة، واسمها «تومايني» أي «الأمل» بالسواحيلية، في 23 أكتوبر في إقليم إيتوري. وحتى 1 نوفمبر، تجاوز عدد الإصابات المؤكدة في هذا التفشي، الأكبر في تاريخ البلاد، 10500 إصابة، وبلغت الوفيات 5126.",
+   "why_en": "Al-Mukhtasar explains that the father told his sons to go and seek news of Joseph and his brother, and not to despair of Allah's relief for His servants, since those who despair do not know the greatness of His power and His subtle favour. The ayah is not about this event. It raises a question: how do I hold on to hope while still doing what I can?",
+   "why_fr": "Al-Mukhtasar explique que le père demanda à ses fils de partir s’informer au sujet de Joseph et de son frère, et de ne pas désespérer qu’Allah soulage Ses serviteurs, car ceux qui désespèrent méconnaissent l’immensité de Son pouvoir et Sa grâce imperceptible. Ce verset ne parle pas de cet événement. Il soulève une question : comment garder espoir tout en faisant ce qui est à ma portée ?",
+   "why_ar": "في قوله تعالى: ﴿وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِ﴾ يبيّن المختصر أن الأب قال لأبنائه: «ولا تقنطوا من تفريج الله وتنفيسه عن عباده»، وأن القانطين إنما «يجهلون عظيم قدرة الله وخَفِيَّ إفضاله على عباده». والآية لا تتحدث عن هذا الحدث، لكنها تثير سؤالًا: كيف أتمسّك بالأمل وأنا أبذل ما في وسعي؟",
+   "prompts_en": [
+    "Where in my life have I stopped trying because I quietly gave up hope?",
+    "What is one thing I can still do for someone who is going through a long hardship?",
+    "How do I keep hope without waiting passively for things to change?"
+   ],
+   "prompts_fr": [
+    "Dans quel domaine de ma vie ai-je cessé d’essayer parce que j’ai perdu espoir sans le dire ?",
+    "Que puis-je encore faire pour quelqu’un qui traverse une longue épreuve ?",
+    "Comment garder espoir sans attendre passivement que les choses changent ?"
+   ],
+   "prompts_ar": [
+    "في أيّ أمر من حياتي توقفتُ عن المحاولة لأنني فقدتُ الأمل دون أن أعترف بذلك؟",
+    "ما الشيء الذي ما زال بوسعي فعله لشخص يمرّ بمحنة طويلة؟",
+    "كيف أحافظ على الأمل دون أن أنتظر تغيّر الأحوال وأنا مكتوف اليدين؟"
+   ],
+   "step_en": "Read Surah Yusuf 12:83-87, make du'a for the sick and for those caring for them, then do one concrete thing for something you had given up on.",
+   "step_fr": "Lisez les versets 83 à 87 de la sourate Yusuf, faites une invocation pour les malades et ceux qui les soignent, puis faites un pas concret vers une chose que vous aviez abandonnée.",
+   "step_ar": "قراءة الآيات 83 إلى 87 من سورة يوسف، ثم الدعاء للمرضى ولمن يقومون على رعايتهم، ثم اتخاذ خطوة عملية واحدة في أمر كان قد انقطع فيه الأمل.",
+   "title_eg": "الكونغو الديمقراطية: لقاحين جداد داخلين تجربة ضد أكبر تفشّي إيبولا في تاريخها",
+   "summary_eg": "لقاحين معمولين مخصوص لسلالة «بونديبوغيو» من الإيبولا هيدخلوا تجربة في جمهورية الكونغو الديمقراطية، ودي أول مرة لقاحات زي دي تتجرّب وقت تفشّي المرض. التجربة اسمها «تومايني»، يعني «الأمل» بالسواحيلي، وبدأت يوم 23 أكتوبر في إقليم إيتوري. ولحد 1 نوفمبر، التفشّي ده، اللي هو الأكبر في تاريخ البلد، عدّى 10500 إصابة مؤكدة، والوفيات وصلت 5126.",
+   "why_eg": [
+    "في قوله تعالى: ﴿وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِ﴾ المختصر بيقول إن الأب قال لولاده: «ولا تقنطوا من تفريج الله وتنفيسه عن عباده»، وإن اللي بيقنطوا «يجهلون عظيم قدرة الله وخَفِيَّ إفضاله على عباده». الآية مش بتتكلم عن الحدث ده، بس بتفتح سؤال: إزاي أفضل متمسك بالأمل وأنا بعمل اللي أقدر عليه؟",
+    "في قوله تعالى: ﴿وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِ﴾ المختصر بيقول إن الأب قال لولاده: «ولا تقنطوا من تفريج الله وتنفيسه عن عباده»، وإن اللي بيقنطوا «يجهلون عظيم قدرة الله وخَفِيَّ إفضاله على عباده». الآية مش بتتكلم عن الحدث ده، بس بتفتح سؤال: إزاي أفضل متمسكة بالأمل وأنا بعمل اللي أقدر عليه؟"
+   ],
+   "prompts_eg": [
+    "إيه الحاجة في حياتي اللي بطّلت أحاول فيها عشان فقدت الأمل من غير ما أقول؟",
+    "إيه اللي لسه ممكن أعمله لحد بيعدّي بمحنة طويلة؟",
+    [
+     "إزاي أفضل عندي أمل من غير ما أقعد مستني الأمور تتغير لوحدها؟",
+     "إزاي أفضل عندي أمل من غير ما أقعد مستنية الأمور تتغير لوحدها؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآيات من 83 لـ87 من سورة يوسف، وادعي للعيانين واللي بيرعوهم، وبعدين اعمل خطوة واحدة في حاجة كنت سايبها عشان فقدت الأمل فيها.",
+    "اقري الآيات من 83 لـ87 من سورة يوسف، وادعي للعيانين واللي بيرعوهم، وبعدين اعملي خطوة واحدة في حاجة كنت سايباها عشان فقدت الأمل فيها."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168742"
+    },
+    {
+     "name": "RTÉ News",
+     "url": "https://www.rte.ie/news/2026/1104/1598010-ebola-vaccines/"
+    },
+    {
+     "name": "World Health Organization",
+     "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
+    }
+   ]
+  },
+  {
    "date": "2026-11-05",
    "ayah": "102:8",
    "title_en": "Cyberattacks on supermarket fridges spoil tonnes of food across Europe",
