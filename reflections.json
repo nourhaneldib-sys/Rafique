@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-07",
+   "ayah": "64:16",
+   "title_en": "Sudan: 15.4 million people need shelter, but aid can reach only one in ten",
+   "title_fr": "Soudan : 15,4 millions de personnes ont besoin d'un abri, l'aide n'en atteint qu'une sur dix",
+   "title_ar": "السودان: 15.4 مليون شخص بحاجة إلى مأوى، والمساعدات لا تصل إلا إلى واحد من كل عشرة",
+   "summary_en": "UN agencies said on 6 November that about 15.4 million people across Sudan urgently need emergency shelter and basic household items, but funding lets them help only about one in ten. The IOM said its warehouses are now empty. About 8.6 million people remain displaced inside the country, and more than 5.2 million have returned home, often to destroyed houses.",
+   "summary_fr": "Des agences de l'ONU ont indiqué le 6 novembre qu'environ 15,4 millions de personnes au Soudan ont un besoin urgent d'abris d'urgence et d'articles ménagers de base, mais que le financement ne leur permet d'aider qu'environ une personne sur dix. L'OIM affirme que ses entrepôts sont désormais vides. Environ 8,6 millions de personnes restent déplacées dans le pays, et plus de 5,2 millions sont rentrées chez elles, souvent dans des maisons détruites.",
+   "summary_ar": "أعلنت وكالات تابعة للأمم المتحدة في السادس من نوفمبر أن نحو 15.4 مليون شخص في أنحاء السودان يحتاجون بشكل عاجل إلى مأوى طارئ ومستلزمات منزلية أساسية، لكن التمويل لا يتيح مساعدة سوى واحد تقريبًا من كل عشرة. وقالت المنظمة الدولية للهجرة إن مستودعاتها أصبحت فارغة. ولا يزال نحو 8.6 مليون شخص نازحين داخل البلاد، فيما عاد أكثر من 5.2 مليون إلى مناطقهم، وكثيرًا ما وجدوا بيوتهم مدمرة.",
+   "why_en": "Al-Mukhtasar explains: be mindful of Allah by following His instructions as far as you are able, and spend the wealth He gave you in avenues of good; those protected from their soul's greed attain what they hope for. This ayah is not about Sudan. It raises a question: when the need is far greater than what I can give, what does doing what I am able look like?",
+   "why_fr": "Selon Al-Mukhtasar : craignez Allah en suivant Ses ordres autant que vous le pouvez, et dépensez dans le bien les biens qu'Il vous a accordés ; ceux qu'Il préserve de l'avidité de leur âme obtiennent ce qu'ils espèrent. Ce verset ne parle pas du Soudan. Il pose une question : quand le besoin dépasse de loin ce que je peux donner, que signifie faire ce dont je suis capable ?",
+   "why_ar": "يبيّن المختصر أن المعنى: تقوى الله بامتثال أوامره واجتناب نواهيه «ما استطعتم إلى طاعته سبيلًا»، وبذل المال «في وجوه الخير»، وأن من وقاه الله حرص نفسه «فأولئك هم الفائزون بما يطلبونه، والناجون مما يرهبونه». والآية ليست عن السودان، لكنها تطرح سؤالًا: حين تفوق الحاجةُ ما أقدر عليه بكثير، كيف أعمل بقوله ﴿مَا ٱسۡتَطَعۡتُمۡ﴾؟",
+   "prompts_en": [
+    "When a need feels too big for me, do I give less, or do I still give what I can?",
+    "What do I hold on to out of the greed of my soul, even though I could share it?",
+    "What does having a safe place to sleep tonight mean to me, and how do I show gratitude for it?"
+   ],
+   "prompts_fr": [
+    "Quand un besoin me semble trop grand, est-ce que je donne moins, ou est-ce que je donne quand même ce que je peux ?",
+    "À quoi est-ce que je m'accroche par avidité, alors que je pourrais le partager ?",
+    "Que représente pour moi le fait d'avoir un endroit sûr où dormir ce soir, et comment est-ce que j'en montre ma gratitude ?"
+   ],
+   "prompts_ar": [
+    "حين تبدو لي حاجةٌ أكبر من قدرتي، هل أتراجع، أم أقدّم ما أستطيع مهما كان قليلًا؟",
+    "ما الذي أتمسّك به حرصًا، مع أنني أستطيع أن أشارك فيه غيري؟",
+    "ماذا يعني لي أن يكون لي مكان آمن أنام فيه الليلة، وكيف أشكر الله عليه؟"
+   ],
+   "step_en": "Read Surah At-Taghabun 64:14–18, then give something today, however small, to help someone have a safe place to sleep, and make du'a for those without shelter.",
+   "step_fr": "Lisez la sourate At-Taghabun, versets 14 à 18, puis donnez aujourd'hui quelque chose, même peu, pour aider quelqu'un à avoir un endroit sûr où dormir, et faites une invocation pour ceux qui n'ont pas d'abri.",
+   "step_ar": "قراءة الآيات 14–18 من سورة التغابن، ثم التصدّق اليوم ولو بالقليل لمساعدة أحدٍ على أن يجد مكانًا آمنًا ينام فيه، والدعاء لمن لا مأوى لهم.",
+   "title_eg": "السودان: 15.4 مليون محتاجين مأوى، والمساعدات بتوصل لواحد بس من كل عشرة",
+   "summary_eg": "وكالات تابعة للأمم المتحدة قالت يوم 6 نوفمبر إن حوالي 15.4 مليون واحد في السودان محتاجين مأوى طارئ وحاجات أساسية للبيت بشكل عاجل، بس التمويل مش مكفّي غير إنهم يساعدوا تقريبًا واحد من كل عشرة. والمنظمة الدولية للهجرة قالت إن مخازنها فضيت خالص. ولسه فيه حوالي 8.6 مليون نازحين جوه البلد، وأكتر من 5.2 مليون رجعوا لمناطقهم، وكتير منهم لقوا بيوتهم متهدّمة.",
+   "why_eg": "المختصر بيشرح إن المعنى: تقوى ربنا بامتثال أوامره واجتناب نواهيه «ما استطعتم إلى طاعته سبيلًا»، وبذل المال «في وجوه الخير»، واللي ربنا يحميه من حرص نفسه «فأولئك هم الفائزون بما يطلبونه، والناجون مما يرهبونه». الآية مش عن السودان، بس بتسأل سؤال: لما الحاجة تبقى أكبر بكتير من اللي أقدر عليه، يعني إيه أعمل ﴿مَا ٱسۡتَطَعۡتُمۡ﴾؟",
+   "prompts_eg": [
+    "لما الحاجة تبان أكبر من قدرتي، هل بتراجع، ولا بقدّم اللي أقدر عليه حتى لو قليل؟",
+    [
+     "إيه الحاجة اللي ماسك فيها من حرص نفسي، مع إني أقدر أشارك فيها غيري؟",
+     "إيه الحاجة اللي ماسكة فيها من حرص نفسي، مع إني أقدر أشارك فيها غيري؟"
+    ],
+    "يعني إيه بالنسبة لي إن يبقى عندي مكان أمان أنام فيه النهارده، وإزاي أشكر ربنا عليه؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 14 لـ 18 من سورة التغابن، وبعدين اتصدّق النهارده ولو بحاجة بسيطة عشان تساعد حد يلاقي مكان أمان ينام فيه، وادعي للي ملهمش مأوى.",
+    "اقري الآيات من 14 لـ 18 من سورة التغابن، وبعدين اتصدّقي النهارده ولو بحاجة بسيطة عشان تساعدي حد يلاقي مكان أمان ينام فيه، وادعي للي ملهمش مأوى."
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via Sowetan)",
+     "url": "https://sowetan.co.za/news/africa/2026-11-06-millions-of-displaced-sudanese-risk-losing-shelter-as-funds-run-low-un-warns"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168753"
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "ayah": "12:87",
    "title_en": "DR Congo: two new vaccines join a trial against its largest-ever Ebola outbreak",
