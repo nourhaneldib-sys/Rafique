@@ -1,6 +1,68 @@
 {
  "items": [
   {
+   "date": "2026-11-08",
+   "ayah": "28:24",
+   "title_en": "Gaza: first winter storm floods thousands of tents sheltering displaced families",
+   "title_fr": "Gaza : la première tempête de l'hiver inonde des milliers de tentes de familles déplacées",
+   "title_ar": "غزة: أول عاصفة شتوية تُغرق آلاف الخيام التي تؤوي أسرًا نازحة",
+   "summary_en": "The first winter storm of the season brought heavy rain to the Gaza Strip on 7 November, flooding thousands of tents where displaced families live. Gaza's civil defence received about 1,500 distress calls, and water rose 30 to 40 cm at several shelter sites. Rescuers say they lack tarpaulins and tents, and warn that premature babies, the elderly and the sick are most at risk.",
+   "summary_fr": "La première tempête hivernale de la saison a apporté de fortes pluies sur la bande de Gaza le 7 novembre, inondant des milliers de tentes où vivent des familles déplacées. La défense civile de Gaza a reçu environ 1 500 appels de détresse, et l'eau est montée de 30 à 40 cm sur plusieurs sites d'abri. Les secouristes disent manquer de bâches et de tentes, et alertent sur les risques pour les bébés prématurés, les personnes âgées et les malades.",
+   "summary_ar": "حملت أول عاصفة شتوية في الموسم أمطارًا غزيرة إلى قطاع غزة في 7 نوفمبر، فغمرت المياه آلاف الخيام التي تعيش فيها أسر نازحة. وتلقّى الدفاع المدني في غزة نحو 1500 نداء استغاثة، وارتفع منسوب المياه بين 30 و40 سنتيمترًا في عدد من مواقع الإيواء. ويقول المسعفون إنهم يفتقرون إلى الأغطية البلاستيكية والخيام، ويحذّرون من أن الأطفال الخُدَّج وكبار السن والمرضى هم الأكثر عرضة للخطر.",
+   "why_en": "Al-Mukhtasar explains that Musa felt pity for two women and watered their flock, then withdrew to the shade to rest and called on his Lord, presenting his need: \"I am in need of whatever good You send down to me.\" This ayah is not about Gaza or this storm. It raises a question: can I show mercy to others even in a time of need, and bring my own need to Allah?",
+   "why_fr": "Selon Al-Mukhtasar, Moïse eut pitié de deux femmes et abreuva leur troupeau, puis se retira à l'ombre pour se reposer et invoqua son Seigneur en lui exposant son besoin : « Seigneur, j'ai besoin de tout bien que Tu feras descendre vers moi. » Ce verset ne parle ni de Gaza ni de cette tempête. Il pose une question : peut-on faire preuve de miséricorde même dans le besoin, et confier son propre besoin à Allah ?",
+   "why_ar": "يبيّن المختصر أن موسى عليه السلام «فرحمهما فسقى لهما أغنامهما، ثم انصرف إلى الظل فاستراح فيه، ودعا ربه بالتعريض بحاجته»، فقال: ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾. والآية ليست عن غزة ولا عن هذه العاصفة، لكنها تطرح سؤالًا: هل تبقى الرحمة بالآخرين حاضرةً حتى في وقت الحاجة، وهل أرفع حاجتي إلى الله؟",
+   "prompts_en": [
+    "When I am tired or short of something myself, what still helps me notice someone else's need and reach out?",
+    "What need am I carrying right now that I have not yet brought to Allah in du'a?",
+    "Who around me is quietly facing cold, worry or hardship this season, and how could I ease it a little?"
+   ],
+   "prompts_fr": [
+    "Quand la fatigue ou le manque me pèsent, qu'est-ce qui m'aide encore à voir le besoin d'autrui et à tendre la main ?",
+    "Quel besoin est-ce que je porte en ce moment sans l'avoir encore confié à Allah dans mes invocations ?",
+    "Qui, autour de moi, affronte en silence le froid, l'inquiétude ou la difficulté cette saison, et comment pourrais-je l'alléger un peu ?"
+   ],
+   "prompts_ar": [
+    "حين يثقلني التعب أو ينقصني شيء، ما الذي يساعدني على أن أرى حاجة غيري وأمدّ إليه يدي؟",
+    "ما الحاجة التي أحملها الآن ولم أرفعها بعدُ إلى الله في دعائي؟",
+    "مَن حولي يواجه في صمتٍ بردًا أو همًّا أو ضيقًا في هذا الموسم، وكيف أخفّف عنه ولو قليلًا؟"
+   ],
+   "step_en": "Read Surah Al-Qasas 28:22-24, then make du'a with the words of Musa, \"Rabbi inni lima anzalta ilayya min khayrin faqir\", for yourself and for families without shelter.",
+   "step_fr": "Lisez les versets 22 à 24 de la sourate Al-Qasas, puis invoquez Allah avec les mots de Moïse, « Rabbi innî limâ anzalta ilayya min khayrin faqîr », pour vous-même et pour les familles sans abri.",
+   "step_ar": "قراءة الآيات 22 إلى 24 من سورة القصص، ثم الدعاء بدعاء موسى عليه السلام ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾ للنفس وللأسر التي لا تجد مأوى.",
+   "title_eg": "غزة: أول عاصفة في الشتا غرّقت آلاف الخيام اللي عايشة فيها عيلات نازحة",
+   "summary_eg": "أول عاصفة شتوية في الموسم جابت مطر جامد على قطاع غزة يوم 7 نوفمبر، والمية غرّقت آلاف الخيام اللي عايشة فيها عيلات نازحة. الدفاع المدني في غزة جاله حوالي 1500 نداء استغاثة، والمية عِليت من 30 لـ 40 سنتي في كذا مكان إيواء. فرق الإنقاذ بتقول إن ما عندهاش مشمعات ولا خيام، وبتحذّر إن الأطفال المبتسرين وكبار السن والعيانين هم الأكتر عرضة للخطر.",
+   "why_eg": [
+    "المختصر بيقول إن موسى عليه السلام «فرحمهما فسقى لهما أغنامهما، ثم انصرف إلى الظل فاستراح فيه، ودعا ربه بالتعريض بحاجته»، وقال: ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾. الآية دي مش عن غزة ولا عن العاصفة دي، بس بتطرح سؤال: هل أقدر أرحم غيري حتى وقت ما أكون محتاج، وأرفع حاجتي لربنا؟",
+    "المختصر بيقول إن موسى عليه السلام «فرحمهما فسقى لهما أغنامهما، ثم انصرف إلى الظل فاستراح فيه، ودعا ربه بالتعريض بحاجته»، وقال: ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾. الآية دي مش عن غزة ولا عن العاصفة دي، بس بتطرح سؤال: هل أقدر أرحم غيري حتى وقت ما أكون محتاجة، وأرفع حاجتي لربنا؟"
+   ],
+   "prompts_eg": [
+    [
+     "لما أكون تعبان أو ناقصني حاجة، إيه اللي ممكن يخليني أشوف احتياج غيري وأمدّ له إيدي؟",
+     "لما أكون تعبانة أو ناقصني حاجة، إيه اللي ممكن يخليني أشوف احتياج غيري وأمدّ له إيدي؟"
+    ],
+    [
+     "إيه الحاجة اللي شايلها جوايا دلوقتي ولسه ما طلبتهاش من ربنا في دعايا؟",
+     "إيه الحاجة اللي شايلاها جوايا دلوقتي ولسه ما طلبتهاش من ربنا في دعايا؟"
+    ],
+    "مين حواليا عايش في صمت مع برد أو هم أو ضيقة الموسم ده، وإزاي أخفف عنه ولو شوية؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 22 لـ 24 من سورة القصص، وبعدين ادعي بدعوة موسى عليه السلام ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾ لنفسك وللعيلات اللي ملهاش مأوى.",
+    "اقري الآيات من 22 لـ 24 من سورة القصص، وبعدين ادعي بدعوة موسى عليه السلام ﴿رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ﴾ لنفسك وللعيلات اللي ملهاش مأوى."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327"
+    }
+   ]
+  },
+  {
    "date": "2026-11-07",
    "ayah": "64:16",
    "title_en": "Sudan: 15.4 million people need shelter, but aid can reach only one in ten",
