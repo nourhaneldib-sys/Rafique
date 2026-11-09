@@ -1,6 +1,63 @@
 {
  "items": [
   {
+   "date": "2026-11-09",
+   "ayah": "64:11",
+   "title_en": "Egypt: train collision south of Cairo kills seven and injures at least 125",
+   "title_fr": "Égypte : une collision de trains au sud du Caire fait sept morts et au moins 125 blessés",
+   "title_ar": "مصر: تصادم قطارين جنوب القاهرة يودي بحياة سبعة أشخاص ويصيب 125 على الأقل",
+   "summary_en": "Two trains collided on Sunday, 8 November, in the al-Ayyat district of Giza province, about 52 km south of Cairo, when a train bound for Fayoum struck the last car of a Cairo–Aswan train standing on the same track. Seven people were killed, including the conductor, and at least 125 were injured. Local residents rushed to pull out survivors, more than 70 ambulances took part, and an investigation has been ordered.",
+   "summary_fr": "Deux trains sont entrés en collision le dimanche 8 novembre dans le district d'al-Ayyat, dans la province de Gizeh, à environ 52 km au sud du Caire : un train en direction du Fayoum a percuté le dernier wagon d'un train Le Caire–Assouan arrêté sur la même voie. Sept personnes ont été tuées, dont le chef de train, et au moins 125 ont été blessées. Des habitants se sont précipités pour secourir les survivants, plus de 70 ambulances sont intervenues et une enquête a été ordonnée.",
+   "summary_ar": "اصطدم قطاران يوم الأحد 8 نوفمبر في مركز العياط بمحافظة الجيزة، على بُعد نحو 52 كيلومترًا جنوب القاهرة، إذ صدم قطارٌ متجه إلى الفيوم العربةَ الأخيرة من قطار القاهرة–أسوان المتوقف على السكة نفسها. وأودى الحادث بحياة سبعة أشخاص، بينهم رئيس القطار، وأصيب 125 شخصًا على الأقل. وهرع الأهالي لإخراج الناجين، وشاركت أكثر من 70 سيارة إسعاف، وصدر أمر بفتح تحقيق.",
+   "why_en": "Al-Mukhtasar explains that no difficulty touches a person in himself, his wealth or his children except by Allah's decree, and that whoever has faith in Allah and His decree, Allah guides their heart to submit to His command and be pleased with His decree. This ayah is not about this accident. It raises a question: when loss comes suddenly, how can a heart find its way to acceptance and contentment?",
+   "why_fr": "Selon Al-Mukhtasar, aucune épreuve n'atteint une personne dans sa vie, ses biens ou ses enfants sans le décret d'Allah, et celui qui croit en Allah et en Son décret, Allah guide son cœur à se soumettre à Son ordre et à agréer Son décret. Ce verset ne parle pas de cet accident. Il pose une question : quand la perte arrive soudainement, comment le cœur peut-il trouver le chemin de l'acceptation et du contentement ?",
+   "why_ar": "يبيّن المختصر أنه «ما أصابت أحدًا مصيبةٌ في نفسه أو ماله أو ولده إلا بقضاء الله وقدره»، وأن ﴿وَمَن يُؤۡمِنۢ بِٱللَّهِ يَهۡدِ قَلۡبَهُۥ﴾ أي «يوفق الله قلبه بالتسليم لأمره والرضا بقضائه». والآية ليست عن هذا الحادث، لكنها تطرح سؤالًا: حين تأتي المصيبة فجأة، كيف يهتدي القلب إلى التسليم والرضا؟",
+   "prompts_en": [
+    "When something painful happens suddenly, what helps my heart move from shock toward acceptance?",
+    "Is there a loss I am still carrying that I have not yet brought to Allah in du'a?",
+    "The residents who ran to help did not wait to be asked; where in my life could I be the first to show up for someone?"
+   ],
+   "prompts_fr": [
+    "Quand une épreuve survient brusquement, qu'est-ce qui aide mon cœur à passer du choc à l'acceptation ?",
+    "Y a-t-il une perte que je porte encore sans l'avoir confiée à Allah dans mes invocations ?",
+    "Les habitants accourus pour aider n'ont pas attendu qu'on le leur demande : où, dans ma vie, pourrais-je être le premier à tendre la main ?"
+   ],
+   "prompts_ar": [
+    "حين يقع أمرٌ مؤلم فجأة، ما الذي يعين قلبي على الانتقال من الصدمة إلى التسليم؟",
+    "هل هناك فَقْدٌ ما زلت أحمله ولم أرفعه بعدُ إلى الله في دعائي؟",
+    "الأهالي الذين هرعوا للمساعدة لم ينتظروا أن يُطلب منهم ذلك؛ فأين أستطيع في حياتي أن أكون أوّل من يمدّ يده لغيره؟"
+   ],
+   "step_en": "Read Surah At-Taghabun 64:11-13, then make du'a for those who died, for the injured to recover, and for their families to be granted patience.",
+   "step_fr": "Lisez les versets 11 à 13 de la sourate At-Taghabun, puis invoquez Allah pour les défunts, pour la guérison des blessés et pour que leurs familles reçoivent la patience.",
+   "step_ar": "قراءة الآيات 11 إلى 13 من سورة التغابن، ثم الدعاء بالرحمة لمن تُوفّوا، وبالشفاء للمصابين، وبالصبر لأهاليهم.",
+   "title_eg": "مصر: حادثة قطرين جنوب القاهرة، سبعة ماتوا و125 على الأقل اتصابوا",
+   "summary_eg": "يوم الحد 8 نوفمبر، قطرين خبطوا في بعض في مركز العياط في الجيزة، على بُعد حوالي 52 كيلو جنوب القاهرة: قطر رايح الفيوم دخل في آخر عربية من قطر القاهرة–أسوان اللي كان واقف على نفس السكة. سبعة ماتوا، منهم رئيس القطر، و125 على الأقل اتصابوا. أهالي المنطقة جريوا يطلّعوا الناجيين، وأكتر من 70 عربية إسعاف شاركت، واتأمر بتحقيق في الحادثة.",
+   "why_eg": "المختصر بيوضّح إنه «ما أصابت أحدًا مصيبةٌ في نفسه أو ماله أو ولده إلا بقضاء الله وقدره»، وإن ﴿وَمَن يُؤۡمِنۢ بِٱللَّهِ يَهۡدِ قَلۡبَهُۥ﴾ يعني «يوفق الله قلبه بالتسليم لأمره والرضا بقضائه». الآية مش عن الحادثة دي، بس بتسأل سؤال: لما المصيبة تيجي فجأة، إزاي القلب يوصل للتسليم والرضا؟",
+   "prompts_eg": [
+    "لما حاجة صعبة بتحصل فجأة، إيه اللي بيساعد قلبي يعدّي من الصدمة للتسليم؟",
+    "فيه حاجة خسرتها لسه شايلها جوايا ومحكتهاش لربنا في دعايا؟",
+    "الأهالي اللي جريوا يساعدوا مستنوش حد يطلب منهم؛ مين في حياتي ممكن أكون أول واحد يقف جنبه؟"
+   ],
+   "step_eg": [
+    "اقرا سورة التغابن من الآية 11 لـ 13، وبعدين ادعي بالرحمة للي ماتوا، وبالشفا للمصابين، وبالصبر لأهاليهم.",
+    "اقري سورة التغابن من الآية 11 لـ 13، وبعدين ادعي بالرحمة للي ماتوا، وبالشفا للمصابين، وبالصبر لأهاليهم."
+   ],
+   "sources": [
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo"
+    }
+   ]
+  },
+  {
    "date": "2026-11-08",
    "ayah": "28:24",
    "title_en": "Gaza: first winter storm floods thousands of tents sheltering displaced families",
