@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-10",
+   "ayah": "7:31",
+   "title_en": "UN climate summit COP31 opens in Türkiye with nearly 200 countries",
+   "title_fr": "La COP31, sommet de l'ONU sur le climat, s'ouvre en Turquie avec près de 200 pays",
+   "title_ar": "انطلاق قمة المناخ الأممية COP31 في تركيا بمشاركة نحو 200 دولة",
+   "summary_en": "The UN climate summit, COP31, opened on Monday, 9 November, in Antalya, Türkiye, with negotiators from nearly 200 countries meeting until 20 November. Scientists say global warming is likely to exceed 1.5°C above preindustrial levels, and the WHO says 3.3 to 3.6 billion people live in areas highly vulnerable to climate change. Developing countries are asking for faster access to funding to adapt.",
+   "summary_fr": "Le sommet de l'ONU sur le climat, la COP31, s'est ouvert le lundi 9 novembre à Antalya, en Turquie : des négociateurs de près de 200 pays s'y réunissent jusqu'au 20 novembre. Selon les scientifiques, le réchauffement dépassera probablement 1,5 °C par rapport à l'ère préindustrielle, et l'OMS estime que 3,3 à 3,6 milliards de personnes vivent dans des zones très vulnérables au changement climatique. Les pays en développement demandent un accès plus rapide aux financements pour s'adapter.",
+   "summary_ar": "افتُتحت قمة الأمم المتحدة للمناخ COP31 يوم الاثنين 9 نوفمبر في أنطاليا بتركيا، ويجتمع فيها مفاوضون من نحو 200 دولة حتى 20 نوفمبر. ويقول العلماء إن الاحترار العالمي سيتجاوز على الأرجح 1.5 درجة مئوية فوق مستويات ما قبل الثورة الصناعية، وتفيد منظمة الصحة العالمية بأن ما بين 3.3 و3.6 مليار إنسان يعيشون في مناطق شديدة التأثر بتغير المناخ. وتطالب الدول النامية بوصول أسرع إلى التمويل اللازم للتكيّف.",
+   "why_en": "Al-Mukhtasar explains that the children of Adam may eat and drink whatever they like of the good things Allah has made lawful, but must not go beyond the limits of moderation, nor pass from the lawful to the unlawful; Allah does not love those who exceed moderation. This ayah is not about the climate summit. It raises a question: in what I eat, use and consume, how much is enough?",
+   "why_fr": "Selon Al-Mukhtasar, les enfants d'Adam peuvent manger et boire ce qu'ils veulent parmi les bonnes choses qu'Allah a rendues licites, sans dépasser les limites de la modération ni passer du licite à l'illicite ; Allah n'aime pas ceux qui dépassent la mesure. Ce verset ne parle pas du sommet sur le climat. Il pose une question : dans ce que je mange, utilise et consomme, combien est assez ?",
+   "why_ar": "يبيّن المختصر أن الله أباح لبني آدم أن «كلوا واشربوا ما شئتم من الطيبات التي أحلها الله»، ثم قال: «ولا تتجاوزوا حد الاعتدال في ذلك، ولا تتجاوزوا الحلال إلى الحرام»، وهو معنى ﴿وَكُلُواْ وَٱشۡرَبُواْ وَلَا تُسۡرِفُوٓاْ﴾. والآية ليست عن قمة المناخ، لكنها تطرح سؤالًا: فيما آكله وأستعمله وأستهلكه، ما القدر الذي يكفيني؟",
+   "prompts_en": [
+    "Where in my daily life do I take more than I need, without really noticing it?",
+    "What blessing do I use every day, such as water, food or electricity, that I could receive with more gratitude and less waste?",
+    "When I think of the people who feel the effects of extreme weather most, what small habit would I be willing to change for their sake?"
+   ],
+   "prompts_fr": [
+    "Où, dans ma vie quotidienne, est-ce que je prends plus que ce dont j'ai besoin, sans vraiment m'en rendre compte ?",
+    "Quel bienfait est-ce que j'utilise chaque jour, comme l'eau, la nourriture ou l'électricité, que je pourrais recevoir avec plus de gratitude et moins de gaspillage ?",
+    "Quand je pense aux personnes qui subissent le plus les phénomènes météorologiques extrêmes, quelle petite habitude serais-je prêt ou prête à changer pour elles ?"
+   ],
+   "prompts_ar": [
+    "في أي جانب من حياتي اليومية آخذ أكثر من حاجتي دون أن أنتبه؟",
+    "ما النعمة التي أستعملها كل يوم، كالماء أو الطعام أو الكهرباء، وأستطيع أن أتلقاها بشكر أكبر وهدر أقل؟",
+    "حين أفكر في الناس الأشد تأثرًا بالظواهر الجوية القاسية، ما العادة الصغيرة التي يمكنني أن أغيّرها من أجلهم؟"
+   ],
+   "step_en": "Read Surah Al-A'raf 7:31, then choose one thing to use more moderately today, such as water, food or electricity, and thank Allah for it.",
+   "step_fr": "Lisez le verset 31 de la sourate Al-A'raf, puis choisissez une chose à utiliser avec plus de modération aujourd'hui, comme l'eau, la nourriture ou l'électricité, et remerciez Allah pour ce bienfait.",
+   "step_ar": "قراءة الآية 31 من سورة الأعراف، ثم اختيار نعمة واحدة لاستعمالها اليوم باعتدال أكبر، كالماء أو الطعام أو الكهرباء، مع حمد الله عليها.",
+   "title_eg": "قمة المناخ COP31 بدأت في تركيا ومعاها حوالي 200 دولة",
+   "summary_eg": "قمة الأمم المتحدة للمناخ COP31 اتفتحت يوم الاتنين 9 نوفمبر في أنطاليا في تركيا، ومفاوضين من حوالي 200 دولة هيفضلوا مجتمعين لحد 20 نوفمبر. العلماء بيقولوا إن الاحترار غالبًا هيعدّي 1.5 درجة فوق مستوى ما قبل الثورة الصناعية، ومنظمة الصحة العالمية بتقول إن من 3.3 لـ 3.6 مليار إنسان عايشين في أماكن معرّضة جدًا لتغيّر المناخ. والدول النامية بتطالب إنها توصل للتمويل بسرعة أكتر عشان تقدر تتكيّف.",
+   "why_eg": "المختصر بيوضّح إن ربنا أباح لبني آدم إنهم «كلوا واشربوا ما شئتم من الطيبات التي أحلها الله»، وبعدها قال: «ولا تتجاوزوا حد الاعتدال في ذلك، ولا تتجاوزوا الحلال إلى الحرام»، وده معنى ﴿وَكُلُواْ وَٱشۡرَبُواْ وَلَا تُسۡرِفُوٓاْ﴾. الآية مش عن قمة المناخ، بس بتسأل سؤال: في اللي باكله وبستعمله وبستهلكه، إيه القدر اللي يكفيني؟",
+   "prompts_eg": [
+    "في أنهي حتة في حياتي اليومية باخد أكتر من احتياجي من غير ما آخد بالي؟",
+    "إيه النعمة اللي بستعملها كل يوم، زي المية أو الأكل أو الكهربا، وممكن أستقبلها بشكر أكتر وهدر أقل؟",
+    [
+     "لما بفكّر في الناس اللي بيتأثروا أكتر من الجو القاسي، إيه العادة الصغيرة اللي أنا مستعد أغيّرها عشانهم؟",
+     "لما بفكّر في الناس اللي بيتأثروا أكتر من الجو القاسي، إيه العادة الصغيرة اللي أنا مستعدة أغيّرها عشانهم؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآية 31 من سورة الأعراف، وبعدين اختار حاجة واحدة تستعملها النهارده باعتدال أكتر، زي المية أو الأكل أو الكهربا، واحمد ربنا عليها.",
+    "اقري الآية 31 من سورة الأعراف، وبعدين اختاري حاجة واحدة تستعمليها النهارده باعتدال أكتر، زي المية أو الأكل أو الكهربا، واحمدي ربنا عليها."
+   ],
+   "sources": [
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168763"
+    }
+   ]
+  },
+  {
    "date": "2026-11-09",
    "ayah": "64:11",
    "title_en": "Egypt: train collision south of Cairo kills seven and injures at least 125",
