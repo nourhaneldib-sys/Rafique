@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-11",
+   "ayah": "17:70",
+   "title_en": "Senegal: 39 dead after a boat bound for Spain capsizes, one survivor found",
+   "title_fr": "Sénégal : 39 morts dans le naufrage d'une pirogue partie pour l'Espagne, un seul survivant",
+   "title_ar": "السنغال: 39 قتيلًا في غرق قارب متجه إلى إسبانيا، وناجٍ واحد",
+   "summary_en": "A wooden boat that left Saint-Louis in northern Senegal for the Spanish coast capsized off Kébémer, north of Dakar. Emergency services say 39 people died; only one passenger was rescued alive and several are still missing. Thousands have died in recent years on this Atlantic route, which young people take in search of a better living.",
+   "summary_fr": "Une pirogue partie de Saint-Louis, dans le nord du Sénégal, vers les côtes espagnoles a chaviré au large de Kébémer, au nord de Dakar. Selon les secours, 39 personnes sont mortes ; un seul passager a été sauvé et plusieurs sont toujours portés disparus. Des milliers de personnes ont perdu la vie ces dernières années sur cette route atlantique, empruntée par des jeunes en quête d'une vie meilleure.",
+   "summary_ar": "انقلب قارب خشبي انطلق من سان لويس شمالي السنغال متجهًا إلى السواحل الإسبانية، قبالة كيبيمير شمال داكار. وتقول فرق الطوارئ إن 39 شخصًا لقوا حتفهم، ولم يُنقذ حيًّا إلا راكب واحد، فيما لا يزال آخرون مفقودين. وقد مات الآلاف في السنوات الأخيرة على هذا الطريق الأطلسي الذي يسلكه شباب بحثًا عن حياة أفضل.",
+   "why_en": "Al-Mukhtasar explains that Allah honoured the children of Adam with intellect and by the angels' prostration to their father, gave them means to travel by land and sea, provided them with good things and favoured them above much of creation, so they should be grateful. The ayah is not about this event; it raises a question: how do I honour the dignity Allah gave every human being?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah a honoré les descendants d'Adam en les dotant de la raison et en faisant se prosterner les anges devant leur père, leur a donné des moyens de voyager sur terre et sur mer, les a pourvus de bonnes choses et les a favorisés sur nombre de créatures ; ils doivent donc être reconnaissants. Ce verset ne parle pas de cet événement ; il pose une question : comment honorer la dignité qu'Allah a donnée à chaque être humain ?",
+   "why_ar": "يبيّن المختصر أن الله كرّم ذرية آدم «بالعقل وإسجاد الملائكة لأبيهم»، وسخّر لهم ما يحملهم في البر والبحر، ورزقهم من الطيبات، وفضّلهم على كثير من خلقه، «فعليهم أن يشكروا نعم الله عليهم». والآية لا تتحدث عن هذا الحدث، لكنها تطرح سؤالًا: كيف أحفظ الكرامة التي منحها الله لكل إنسان في قوله ﴿وَلَقَدۡ كَرَّمۡنَا بَنِيٓ ءَادَمَ﴾؟",
+   "prompts_en": [
+    "When I hear about people I will never meet, do I still feel that each one has a dignity given by Allah?",
+    "Who around me is far from home or struggling to make a living, and how can I treat them with more honour this week?",
+    "Which of the blessings this ayah mentions do I take for granted, and how can I show gratitude for one of them today?"
+   ],
+   "prompts_fr": [
+    "Quand j'entends parler de personnes que je ne rencontrerai jamais, est-ce que je ressens encore que chacune a une dignité donnée par Allah ?",
+    "Qui, autour de moi, est loin de chez lui ou peine à gagner sa vie, et comment puis-je le traiter avec plus d'égards cette semaine ?",
+    "Quels bienfaits cités dans ce verset est-ce que je considère comme acquis, et comment puis-je en remercier Allah aujourd'hui ?"
+   ],
+   "prompts_ar": [
+    "حين أسمع عن أناس لن ألقاهم أبدًا، هل ما زلت أشعر بأن لكل واحد منهم كرامة منحها الله؟",
+    "مَن حولي بعيد عن بيته أو يكافح من أجل لقمة العيش، وكيف أعامله بتكريم أكبر هذا الأسبوع؟",
+    "أيّ النعم التي تذكرها الآية أعدّها أمرًا مسلّمًا به، وكيف أشكر الله على واحدة منها اليوم؟"
+   ],
+   "step_en": "Read Surah Al-Isra 17:70 slowly, make du'a for those who lost their lives at sea and for their families, then do one kind act for someone working far from home.",
+   "step_fr": "Lisez lentement le verset 17:70 de la sourate Al-Isra, invoquez Allah pour ceux qui ont péri en mer et pour leurs familles, puis faites un geste de bonté envers quelqu'un qui travaille loin de chez lui.",
+   "step_ar": "قراءة الآية 70 من سورة الإسراء بتأنٍّ، ثم الدعاء لمن فقدوا حياتهم في البحر ولأهلهم، ثم القيام بعمل لطيف لشخص يعمل بعيدًا عن بيته.",
+   "title_eg": "السنغال: 39 ماتوا في غرق مركب رايح إسبانيا، وواحد بس نجا",
+   "summary_eg": "مركب خشب طلع من سان لويس في شمال السنغال ورايح على شط إسبانيا، اتقلب قدام كيبيمير شمال داكار. فرق الطوارئ بتقول إن 39 واحد ماتوا، وراكب واحد بس اللي طلع عايش، ولسه في ناس مفقودين. الطريق ده في الأطلسي مات فيه آلاف في السنين اللي فاتت، وبيمشي فيه شباب بيدوروا على عيشة أحسن.",
+   "why_eg": "المختصر بيوضّح إن ربنا كرّم ذرية آدم «بالعقل وإسجاد الملائكة لأبيهم»، وسخّر لهم اللي يشيلهم في البر والبحر، ورزقهم من الطيبات، وفضّلهم على كتير من خلقه، «فعليهم أن يشكروا نعم الله عليهم». الآية مش بتتكلم عن الحادثة دي، لكنها بتسأل سؤال: إزاي أحافظ على الكرامة اللي ربنا إداها لكل إنسان لما قال ﴿وَلَقَدۡ كَرَّمۡنَا بَنِيٓ ءَادَمَ﴾؟",
+   "prompts_eg": [
+    "لما بسمع عن ناس عمري ما هقابلهم، هل لسه بحس إن كل واحد فيهم ليه كرامة ربنا إداهاله؟",
+    "مين حواليّا بعيد عن بيته أو بيتعب عشان لقمة عيشه، وإزاي أعامله باحترام أكتر الأسبوع ده؟",
+    [
+     "إيه النعم اللي الآية بتذكرها وأنا واخدها كأنها حاجة عادية، وإزاي أشكر ربنا على واحدة منها النهارده؟",
+     "إيه النعم اللي الآية بتذكرها وأنا واخداها كأنها حاجة عادية، وإزاي أشكر ربنا على واحدة منها النهارده؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآية 70 من سورة الإسراء على مهلك، وادعي للي ماتوا في البحر ولأهاليهم، وبعدين اعمل حاجة حلوة لحد شغّال بعيد عن بيته.",
+    "اقري الآية 70 من سورة الإسراء على مهلك، وادعي للي ماتوا في البحر ولأهاليهم، وبعدين اعملي حاجة حلوة لحد شغّال بعيد عن بيته."
+   ],
+   "sources": [
+    {
+     "name": "AP via ABC News",
+     "url": "https://abcnews.com/International/wireStory/death-toll-rises-39-after-migrant-boat-capsizes-137968623"
+    },
+    {
+     "name": "Al Jazeera (AFP/Reuters) via Yahoo News",
+     "url": "https://www.yahoo.com/news/world/articles/least-21-dead-small-boat-133217997.html"
+    }
+   ]
+  },
+  {
    "date": "2026-11-10",
    "ayah": "7:31",
    "title_en": "UN climate summit COP31 opens in Türkiye with nearly 200 countries",
