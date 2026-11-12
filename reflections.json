@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-12",
+   "ayah": "12:47",
+   "title_en": "UN report: disaster early warnings now reach 70% of countries, but many remain unprotected",
+   "title_fr": "Rapport de l'ONU : 70 % des pays ont des alertes précoces, mais beaucoup restent exposés",
+   "title_ar": "تقرير أممي: أنظمة الإنذار المبكر تغطي 70% من الدول، والملايين بلا حماية",
+   "summary_en": "A UN report presented at the COP31 climate talks in Antalya, Türkiye, says 136 countries, 70% of the total, now have early warning systems for hazards such as storms and floods. Where these systems are strong, disaster deaths are 6.1 times lower. The widest gaps remain in the poorest countries, small island states and conflict-affected areas.",
+   "summary_fr": "Un rapport de l'ONU présenté lors de la conférence climatique COP31 à Antalya, en Türkiye, indique que 136 pays, soit 70 % du total, disposent désormais de systèmes d'alerte précoce face aux tempêtes, inondations et autres aléas. Là où ces systèmes sont solides, la mortalité liée aux catastrophes est 6,1 fois plus faible. Les plus grandes lacunes persistent dans les pays les plus pauvres, les petits États insulaires et les zones de conflit.",
+   "summary_ar": "أفاد تقرير للأمم المتحدة عُرض في مؤتمر المناخ COP31 في أنطاليا بتركيا بأن 136 دولة، أي 70% من دول العالم، باتت تملك أنظمة للإنذار المبكر من مخاطر كالعواصف والفيضانات. وحيث تكون هذه الأنظمة قوية، تنخفض الوفيات الناجمة عن الكوارث بمقدار 6.1 مرات. وتبقى الفجوات الأكبر في أفقر الدول والدول الجزرية الصغيرة والمناطق المتأثرة بالنزاعات.",
+   "why_en": "Al-Mukhtasar explains that, interpreting the dream, Yusuf (peace be upon him) told the people to plant diligently for seven consecutive years and to leave each year's harvest in its ears so it would not rot, except for the little they needed to eat. The ayah is not about this event; it raises a question: in my times of ease, how do I prepare wisely for the hardship that may come?",
+   "why_fr": "Al-Mukhtasar explique qu'en interprétant le rêve, Yûsuf (que la paix soit sur lui) a dit aux gens de cultiver avec sérieux pendant sept années consécutives et de laisser la récolte de chaque année dans ses épis pour qu'elle ne se gâte pas, sauf le peu dont ils avaient besoin pour se nourrir. Ce verset ne parle pas de cet événement ; il pose une question : dans mes moments d'aisance, comment me préparer avec sagesse aux difficultés qui peuvent venir ?",
+   "why_ar": "يبيّن المختصر أن يوسف عليه السلام قال معبّرًا الرؤيا: «تزرعون سبع سنين متتابعة بجدّ»، وما حصدوه في كل سنة يتركونه في سنابله ﴿فَذَرُوهُ فِي سُنۢبُلِهِۦٓ﴾ «منعًا له من التسوّس، إلا قليلًا مما تحتاجون لأكله من الحبوب». والآية لا تتحدث عن هذا الحدث، لكنها تطرح سؤالًا: كيف أستعدّ بحكمة في أيام اليسر لما قد يأتي من شدة؟",
+   "prompts_en": [
+    "What am I doing in my easier days, in faith, health or relationships, that will help me stand firm in harder ones?",
+    "Is there a warning sign in my life, in a habit or a relationship, that I keep postponing instead of acting on?",
+    "Who around me is less prepared for hardship than I am, and how could I share some of what I have with them?"
+   ],
+   "prompts_fr": [
+    "Que fais-je dans mes jours plus faciles, pour ma foi, ma santé ou mes relations, qui m'aidera à tenir bon dans les jours difficiles ?",
+    "Y a-t-il dans ma vie un signal d'alerte, une habitude ou une relation, que je remets toujours à plus tard au lieu d'agir ?",
+    "Qui, autour de moi, est moins préparé que moi aux épreuves, et comment pourrais-je partager avec lui un peu de ce que j'ai ?"
+   ],
+   "prompts_ar": [
+    "ماذا أفعل في أيامي اليسيرة، في إيماني أو صحتي أو علاقاتي، مما يعينني على الثبات في الأيام الصعبة؟",
+    "هل في حياتي علامة تحذير، في عادة أو علاقة، أظل أؤجّل التعامل معها بدل أن أتصرف؟",
+    "مَن حولي أقل استعدادًا للشدائد مني، وكيف أشاركه بعض ما عندي؟"
+   ],
+   "step_en": "Read Surah Yusuf 12:43-49, then set aside one small thing today for a harder day: some savings, a good deed, or a du'a for people living without protection from disasters.",
+   "step_fr": "Lisez les versets 12:43-49 de la sourate Yûsuf, puis mettez de côté aujourd'hui une petite chose pour un jour difficile : un peu d'épargne, une bonne action ou une invocation pour ceux qui vivent sans protection face aux catastrophes.",
+   "step_ar": "قراءة الآيات 43 إلى 49 من سورة يوسف، رؤيا الملك وتعبيرها، ثم ادّخار شيء صغير اليوم ليوم أصعب، كقليل من المال أو عمل صالح أو دعاء لمن يعيشون بلا حماية من الكوارث.",
+   "title_eg": "تقرير للأمم المتحدة: الإنذار المبكر وصل لـ70% من الدول، وملايين لسه من غير حماية",
+   "summary_eg": "تقرير للأمم المتحدة اتعرض في مؤتمر المناخ COP31 في أنطاليا في تركيا بيقول إن 136 دولة، يعني 70% من دول العالم، بقى عندها أنظمة إنذار مبكر للعواصف والفيضانات وغيرها. والأماكن اللي الأنظمة دي فيها قوية، الوفيات من الكوارث فيها أقل بـ6.1 مرات. وأكبر فجوات لسه في أفقر الدول والجزر الصغيرة والأماكن اللي فيها نزاعات.",
+   "why_eg": "المختصر بيوضّح إن سيدنا يوسف عليه السلام وهو بيفسّر الرؤيا قال لهم: «تزرعون سبع سنين متتابعة بجدّ»، واللي يحصدوه كل سنة يسيبوه في سنابله ﴿فَذَرُوهُ فِي سُنۢبُلِهِۦٓ﴾ «منعًا له من التسوّس، إلا قليلًا مما تحتاجون لأكله من الحبوب». الآية مش بتتكلم عن الحدث ده، لكنها بتسأل سؤال: إزاي أستعد بحكمة في أيام الراحة للشدة اللي ممكن تيجي؟",
+   "prompts_eg": [
+    "إيه اللي بعمله في الأيام السهلة، في إيماني أو صحتي أو علاقاتي، يساعدني أثبت في الأيام الصعبة؟",
+    [
+     "هل في حياتي علامة تحذير، في عادة أو علاقة، وأنا مأجّلها بدل ما أتصرف؟",
+     "هل في حياتي علامة تحذير، في عادة أو علاقة، وأنا مأجّلاها بدل ما أتصرف؟"
+    ],
+    "مين حواليّا مش مستعد للشدة زيّي، وإزاي أشاركه في شوية من اللي عندي؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 43 لـ49 من سورة يوسف، رؤيا الملك وتفسيرها، وبعدين اختار حاجة صغيرة تشيلها النهارده ليوم أصعب، زي شوية فلوس أو عمل خير أو دعوة للناس اللي عايشين من غير حماية من الكوارث.",
+    "اقري الآيات من 43 لـ49 من سورة يوسف، رؤيا الملك وتفسيرها، وبعدين اختاري حاجة صغيرة تشيليها النهارده ليوم أصعب، زي شوية فلوس أو عمل خير أو دعوة للناس اللي عايشين من غير حماية من الكوارث."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168787"
+    },
+    {
+     "name": "World Meteorological Organization",
+     "url": "https://wmo.int/news/media-centre/early-warning-protection-expands-worldwide"
+    }
+   ]
+  },
+  {
    "date": "2026-11-11",
    "ayah": "17:70",
    "title_en": "Senegal: 39 dead after a boat bound for Spain capsizes, one survivor found",
