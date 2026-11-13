@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-11-13",
+   "ayah": "12:83",
+   "title_en": "Russia and Ukraine agree a large prisoner-of-war exchange after talks in Abu Dhabi",
+   "title_fr": "La Russie et l'Ukraine s'accordent sur un vaste échange de prisonniers de guerre à Abou Dhabi",
+   "title_ar": "روسيا وأوكرانيا تتفقان على تبادل واسع لأسرى الحرب بعد محادثات في أبوظبي",
+   "summary_en": "After two days of talks in Abu Dhabi, the first in nine months, Russia and Ukraine agreed on Wednesday to a large exchange of prisoners of war. The numbers have not yet been announced; a Russian military official said the swap could take place within two or three weeks. The talks also discussed civilians held in captivity and children taken from Ukraine, while no wider breakthrough was reached.",
+   "summary_fr": "Après deux jours de discussions à Abou Dhabi, les premières depuis neuf mois, la Russie et l'Ukraine se sont accordées mercredi sur un vaste échange de prisonniers de guerre. Les chiffres n'ont pas encore été annoncés ; un responsable militaire russe a indiqué que l'échange pourrait avoir lieu d'ici deux ou trois semaines. Les discussions ont aussi porté sur les civils détenus et les enfants emmenés d'Ukraine, sans percée plus large.",
+   "summary_ar": "بعد يومين من المحادثات في أبوظبي، هي الأولى منذ تسعة أشهر، اتفقت روسيا وأوكرانيا يوم الأربعاء على تبادل واسع لأسرى الحرب. لم تُعلن الأعداد بعد، وقال مسؤول عسكري روسي إن التبادل قد يتم في غضون أسبوعين أو ثلاثة. وتناولت المحادثات أيضًا المدنيين المحتجزين والأطفال الذين نُقلوا من أوكرانيا، دون تحقيق اختراق أوسع.",
+   "why_en": "Al-Mukhtasar explains that Jacob, with Joseph, his brother and the eldest son all absent, chose a beautiful patience with no complaint except to Allah, and still hoped that Allah would return them all to him, knowing that Allah knows his state and is wise in arranging his affair. The ayah is not about this exchange; it asks how a person waits for someone absent: with patience, hope and trust.",
+   "why_fr": "Al-Mukhtasar explique que Jacob, privé de Joseph, de son frère et de son fils aîné, choisit une belle patience, sans se plaindre à personne d'autre qu'Allah, tout en espérant qu'Allah les lui rende tous, sachant qu'Il connaît son état et qu'Il est sage dans la gestion de son affaire. Le verset ne parle pas de cet échange ; il pose la question de l'attente d'un être absent : avec patience, espoir et confiance.",
+   "why_ar": "يبيّن المختصر أن يعقوب عليه السلام قال وقد غاب عنه يوسف وشقيقه وأخوهما الكبير: «فصبري صبر جميل، لا شكوى فيه إلا إلى الله»، ورجا: «عسى الله أن يعيدهم إليّ جميعًا»، لأنه سبحانه «العليم بحالي، الحكيم في تدبيره لأمري». الآية ليست عن هذا التبادل؛ إنها تطرح سؤالًا: كيف ينتظر الإنسان غائبًا يحبه، بصبر ورجاء وثقة؟",
+   "prompts_en": [
+    "Who is absent from my life right now, near or far, and how am I carrying that wait?",
+    "What would 'beautiful patience', with no complaint except to Allah, look like for me this week?",
+    "Is there someone I could bring a little closer today: a call, a visit, a reconciliation?"
+   ],
+   "prompts_fr": [
+    "Qui est absent de ma vie en ce moment, proche ou lointain, et comment est-ce que je vis cette attente ?",
+    "À quoi ressemblerait pour moi cette semaine une « belle patience », sans me plaindre à personne d'autre qu'Allah ?",
+    "Y a-t-il quelqu'un que je pourrais rapprocher un peu aujourd'hui : un appel, une visite, une réconciliation ?"
+   ],
+   "prompts_ar": [
+    "مَن الغائب عن حياتي الآن، قريبًا كان أو بعيدًا، وكيف أحمل هذا الانتظار؟",
+    "كيف يبدو «الصبر الجميل» الذي لا شكوى فيه إلا إلى الله في أيامي هذا الأسبوع؟",
+    "هل يوجد شخص أستطيع أن أقترب منه اليوم قليلًا: باتصال، أو زيارة، أو صلح؟"
+   ],
+   "step_en": "Read Surah Yusuf, ayat 83 to 87, then make du'a for every family waiting for someone to come home, and call one person you have not spoken to in a while.",
+   "step_fr": "Lisez les versets 83 à 87 de la sourate Yusuf, puis invoquez Allah pour chaque famille qui attend le retour d'un proche, et appelez une personne à qui vous n'avez pas parlé depuis longtemps.",
+   "step_ar": "قراءة الآيات من 83 إلى 87 من سورة يوسف، ثم الدعاء لكل أسرة تنتظر عودة غائب، والاتصال بشخص انقطع الحديث معه منذ مدة.",
+   "title_eg": "روسيا وأوكرانيا اتفقوا على تبادل كبير لأسرى الحرب بعد محادثات في أبوظبي",
+   "summary_eg": "بعد يومين من المحادثات في أبوظبي، وهي أول محادثات من تسع شهور، روسيا وأوكرانيا اتفقوا يوم الأربع على تبادل كبير لأسرى الحرب. الأعداد لسه ما اتعلنتش، ومسؤول عسكري روسي قال إن التبادل ممكن يحصل خلال أسبوعين أو تلاتة. المحادثات اتكلمت كمان عن المدنيين المحتجزين والأطفال اللي اتنقلوا من أوكرانيا، من غير ما يحصل تقدم أكبر.",
+   "why_eg": "المختصر بيوضّح إن يعقوب عليه السلام لما يوسف وشقيقه وأخوهم الكبير غابوا عنه قال: «فصبري صبر جميل، لا شكوى فيه إلا إلى الله»، وفضل عنده أمل: «عسى الله أن يعيدهم إليّ جميعًا»، لأنه سبحانه «العليم بحالي، الحكيم في تدبيره لأمري». الآية مش عن التبادل ده؛ هي بتسأل: الواحد بيستنى حد غايب بيحبه إزاي، بصبر وأمل وثقة؟",
+   "prompts_eg": [
+    "مين الغايب عن حياتي دلوقتي، قريب أو بعيد، وأنا شايل الانتظار ده إزاي؟",
+    "«الصبر الجميل» اللي مفيهوش شكوى غير لربنا، شكله إيه في أيامي الأسبوع ده؟",
+    "فيه حد ممكن أقرّب منه شوية النهارده: بمكالمة، أو زيارة، أو صلح؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 83 لـ 87 من سورة يوسف، وبعدين ادعي لكل عيلة مستنية حد يرجع، وكلّم حد بقالك فترة ما كلمتوش.",
+    "اقري الآيات من 83 لـ 87 من سورة يوسف، وبعدين ادعي لكل عيلة مستنية حد يرجع، وكلّمي حد بقالك فترة ما كلمتيهوش."
+   ],
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+    },
+    {
+     "name": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+    }
+   ]
+  },
+  {
    "date": "2026-11-12",
    "ayah": "12:47",
    "title_en": "UN report: disaster early warnings now reach 70% of countries, but many remain unprotected",
