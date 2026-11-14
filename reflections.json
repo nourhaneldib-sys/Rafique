@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-14",
+   "ayah": "4:36",
+   "title_en": "Spain: first nationwide general strike in 14 years over the cost of housing",
+   "title_fr": "Espagne : première grève générale nationale en 14 ans contre le coût du logement",
+   "title_ar": "إسبانيا: أول إضراب عام على مستوى البلاد منذ 14 عامًا بسبب غلاء السكن",
+   "summary_en": "On 11 November, workers across Spain held the country's first general strike in 14 years over rents and wages. Spain's youth council says a young person would need 98.7% of their monthly salary to rent a place alone. Protests grew after an 87-year-old woman was evicted from her home of seventy years. A day later, parliament narrowly extended eviction protections for tenants in precarious situations.",
+   "summary_fr": "Le 11 novembre, des travailleurs de toute l'Espagne ont mené la première grève générale du pays depuis 14 ans, contre le niveau des loyers et des salaires. Selon le conseil de la jeunesse espagnol, un jeune devrait consacrer 98,7 % de son salaire mensuel pour louer seul un logement. La colère avait grandi après l'expulsion d'une femme de 87 ans du logement où elle vivait depuis soixante-dix ans. Le lendemain, le Parlement a prolongé de justesse la protection contre les expulsions des locataires en situation précaire.",
+   "summary_ar": "شهدت إسبانيا في 11 نوفمبر أول إضراب عام على مستوى البلاد منذ 14 عامًا، احتجاجًا على ارتفاع الإيجارات وتدني الأجور. ويقول مجلس الشباب الإسباني إن الشاب يحتاج إلى 98.7% من راتبه الشهري ليستأجر مسكنًا بمفرده. وقد اتسعت الاحتجاجات بعد إخلاء امرأة في السابعة والثمانين من البيت الذي عاشت فيه سبعين عامًا. وفي اليوم التالي، مدّد البرلمان بفارق ضئيل حماية المستأجرين الذين يعيشون أوضاعًا هشة من الإخلاء.",
+   "why_en": "Al-Mukhtasar explains that this ayah joins the worship of Allah alone with doing good to parents, relatives, orphans and the poor, to the neighbour who is a relative and the one who is not, to one's companion and to the stranded traveller, and says Allah does not love the arrogant who boast. The ayah is not about this event; it raises a question: what do I owe the people who live around me?",
+   "why_fr": "Al-Mukhtasar explique que ce verset associe l'adoration d'Allah Seul à la bienfaisance envers les parents, les proches, les orphelins et les pauvres, envers le voisin parent comme le voisin étranger, le compagnon et le voyageur coupé de tout, et qu'Allah n'aime pas l'orgueilleux qui se vante. Ce verset ne parle pas de cet événement ; il pose une question : que dois-je aux personnes qui vivent autour de moi ?",
+   "why_ar": "يبيّن المختصر أن الآية تقرن عبادة الله وحده بالإحسان إلى الوالدين والأقارب واليتامى و«ذوي الحاجة»، وإلى ﴿وَٱلۡجَارِ ذِي ٱلۡقُرۡبَىٰ وَٱلۡجَارِ ٱلۡجُنُبِ﴾، أي «الجار ذي القرابة، والجار الذي لا قرابة له»، وإلى الصاحب والمسافر الغريب، وأن الله لا يحب المتكبر الفخور. والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: ما الذي يجب عليّ تجاه من يعيشون حولي؟",
+   "prompts_en": [
+    "Who among my neighbours, near or far, might be struggling quietly without my noticing?",
+    "What does having a safe place to live mean to me, and how often do I thank Allah for it?",
+    "Is there someone older in my life whose sense of home and belonging I could help protect?"
+   ],
+   "prompts_fr": [
+    "Parmi mes voisins, proches ou lointains, qui pourrait traverser des difficultés en silence sans que je le remarque ?",
+    "Que représente pour moi le fait d'avoir un endroit sûr où vivre, et à quelle fréquence en remercie-je Allah ?",
+    "Y a-t-il dans ma vie une personne âgée dont je pourrais aider à préserver le sentiment d'avoir un foyer et une place ?"
+   ],
+   "prompts_ar": [
+    "مَن مِن جيراني، قريبًا كان أو بعيدًا، قد يعاني في صمت دون أن أنتبه؟",
+    "ماذا يعني لي أن يكون لي مكان آمن أسكن فيه، وكم مرة أشكر الله على ذلك؟",
+    "هل في حياتي شخص مسنّ أستطيع أن أساعده ليبقى شاعرًا بالأمان والانتماء في بيته؟"
+   ],
+   "step_en": "Read Surah An-Nisa 4:36 slowly, then do one small kindness for a neighbour today: a greeting, a visit, or a dish shared.",
+   "step_fr": "Lisez lentement le verset 36 de la sourate An-Nisa, puis faites aujourd'hui un petit geste de bonté envers un voisin : une salutation, une visite ou un plat partagé.",
+   "step_ar": "قراءة الآية 36 من سورة النساء بتأنٍّ، ثم الإحسان اليوم إلى أحد الجيران بشيء بسيط: سلام، أو زيارة، أو طبق طعام.",
+   "title_eg": "إسبانيا: أول إضراب عام في البلد كلها من 14 سنة بسبب غلا السكن",
+   "summary_eg": "يوم 11 نوفمبر، العمال في إسبانيا كلها عملوا أول إضراب عام من 14 سنة، اعتراضًا على الإيجارات العالية والمرتبات. مجلس الشباب الإسباني بيقول إن الشاب محتاج 98.7% من مرتبه في الشهر عشان يأجّر مكان لوحده. والغضب زاد بعد ما ست عندها 87 سنة اتطردت من البيت اللي عاشت فيه سبعين سنة. وتاني يوم، البرلمان مدّ بفرق صغير جدًا حماية المستأجرين اللي ظروفهم صعبة من الطرد.",
+   "why_eg": "المختصر بيشرح إن الآية دي بتربط عبادة ربنا وحده بالإحسان للوالدين والقرايب واليتامى و«ذوي الحاجة»، ولـ﴿وَٱلۡجَارِ ذِي ٱلۡقُرۡبَىٰ وَٱلۡجَارِ ٱلۡجُنُبِ﴾، يعني «الجار ذي القرابة، والجار الذي لا قرابة له»، وللصاحب والمسافر الغريب، وإن ربنا مابيحبش المتكبر اللي بيتفاخر. الآية مش عن الحدث ده، بس بتسأل سؤال: إيه اللي عليّا ناحية الناس اللي عايشين حواليّا؟",
+   "prompts_eg": [
+    [
+     "مين من جيراني، قريب أو بعيد، ممكن يكون تعبان في صمت وأنا مش واخد بالي؟",
+     "مين من جيراني، قريب أو بعيد، ممكن يكون تعبان في صمت وأنا مش واخدة بالي؟"
+    ],
+    "يعني إيه بالنسبالي إن يكون عندي مكان آمن أعيش فيه، وبشكر ربنا على ده قد إيه؟",
+    "فيه حد كبير في السن في حياتي أقدر أساعده يفضل حاسس بالأمان في بيته؟"
+   ],
+   "step_eg": [
+    "اقرا الآية 36 من سورة النساء على مهلك، وبعدين اعمل النهارده حاجة حلوة صغيرة لحد من جيرانك: سلام، أو زيارة، أو طبق أكل.",
+    "اقري الآية 36 من سورة النساء على مهلك، وبعدين اعملي النهارده حاجة حلوة صغيرة لحد من جيرانك: سلام، أو زيارة، أو طبق أكل."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English: ‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+     "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike"
+    },
+    {
+     "name": "Al Jazeera English: Spain approves housing reforms after nationwide strike over costs",
+     "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs"
+    }
+   ]
+  },
+  {
    "date": "2026-11-13",
    "ayah": "12:83",
    "title_en": "Russia and Ukraine agree a large prisoner-of-war exchange after talks in Abu Dhabi",
