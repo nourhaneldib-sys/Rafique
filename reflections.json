@@ -1,6 +1,55 @@
 {
  "items": [
   {
+   "date": "2026-11-15",
+   "ayah": "90:14",
+   "title_en": "DR Congo: UN agencies warn a record 30.3 million people face acute hunger",
+   "title_fr": "RD Congo : l'ONU alerte sur une faim aiguë record pour 30,3 millions de personnes",
+   "title_ar": "الكونغو الديمقراطية: وكالات أممية تحذّر من جوع حادّ قياسي يطال 30.3 مليون شخص",
+   "summary_en": "A new food security analysis shared by UN agencies on 13 November projects that a record 30.3 million people in DR Congo will face crisis-level hunger or worse from January to June 2027, up from 26.5 million in early 2026. Nearly 29 million, almost a quarter of the population, face it from September to December. The agencies cite conflict, displacement, rising food prices and outbreaks such as Ebola, mpox and cholera.",
+   "summary_fr": "Selon une analyse de la sécurité alimentaire publiée le 13 novembre par des agences de l'ONU, un record de 30,3 millions de personnes en RD Congo devraient subir une faim de niveau crise ou pire de janvier à juin 2027, contre 26,5 millions début 2026. Près de 29 millions, presque un quart de la population, la subissent de septembre à décembre. En cause : conflits, déplacements, hausse des prix alimentaires et épidémies comme Ebola, le mpox et le choléra.",
+   "summary_ar": "تتوقّع دراسة جديدة للأمن الغذائي نشرتها وكالات تابعة للأمم المتحدة في 13 نوفمبر أن يواجه عدد قياسي يبلغ 30.3 مليون شخص في جمهورية الكونغو الديمقراطية جوعًا بمستوى الأزمة أو أشدّ بين يناير ويونيو 2027، بعد أن كان العدد 26.5 مليونًا في النصف الأول من 2026. ويواجه ذلك نحو 29 مليونًا، أي قرابة ربع السكان، بين سبتمبر وديسمبر. وتعزو الوكالات ذلك إلى النزاعات والنزوح وارتفاع أسعار الغذاء وتفشّي أمراض مثل الإيبولا وجدري القردة والكوليرا.",
+   "why_en": "Al-Mukhtasar explains that a person is required to cross the obstacle that separates them from Paradise, and that one way across is to feed others on a day of famine, when food is scarce: a related orphan, or a poor person who owns nothing. The ayah is not about this event; it raises a question: what does it mean to share food when food is hard to find?",
+   "why_fr": "Al-Mukhtasar explique que l'être humain doit franchir l'obstacle qui le sépare du Paradis, et que l'un des moyens d'y parvenir est d'offrir de la nourriture en un jour de famine : à un orphelin de sa parenté ou à un pauvre qui ne possède rien. Ce verset ne parle pas de cet événement ; il pose une question : que signifie partager sa nourriture quand elle se fait rare ?",
+   "why_ar": "يبيّن المختصر أن الإنسان «مطالب بأن يتجاوز العقبة التي تفصله عن الجنة»، وأن من سبل اجتيازها ﴿إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ﴾، أي «أن يطعم في يوم مجاعة يندر فيه وجود الطعام»، ليتيم قريب أو فقير لا يملك شيئًا. والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: ما معنى أن أشارك طعامي حين يعزّ الطعام؟",
+   "prompts_en": [
+    "When I have more than enough to eat, how do I keep in mind those who do not?",
+    "Who around me, a relative or a neighbour, might be going without and not saying so?",
+    "What makes it hard for me to share what I have, and what would make it easier?"
+   ],
+   "prompts_fr": [
+    "Quand j'ai plus qu'assez à manger, comment est-ce que je garde à l'esprit ceux qui n'ont pas assez ?",
+    "Qui, autour de moi, un proche ou un voisin, pourrait manquer de quelque chose sans le dire ?",
+    "Qu'est-ce qui me rend difficile le partage de ce que j'ai, et qu'est-ce qui le rendrait plus facile ?"
+   ],
+   "prompts_ar": [
+    "حين يكون عندي من الطعام ما يزيد عن حاجتي، كيف أتذكّر من لا يجد ما يكفيه؟",
+    "مَن حولي، من الأقارب أو الجيران، قد يكون محتاجًا ولا يقول؟",
+    "ما الذي يصعّب عليّ مشاركة ما عندي، وما الذي يجعلها أيسر؟"
+   ],
+   "step_en": "Read Surah Al-Balad 90:11–16 slowly, then feed someone in need today, or give the price of a meal in charity.",
+   "step_fr": "Lisez lentement les versets 11 à 16 de la sourate Al-Balad, puis nourrissez aujourd'hui une personne dans le besoin, ou donnez en aumône le prix d'un repas.",
+   "step_ar": "قراءة الآيات من 11 إلى 16 من سورة البلد بتأنٍّ، ثم إطعام محتاج اليوم أو التصدّق بثمن وجبة.",
+   "title_eg": "الكونغو الديمقراطية: وكالات الأمم المتحدة بتحذّر إن 30.3 مليون شخص هيواجهوا جوع شديد",
+   "summary_eg": "دراسة جديدة عن الأمن الغذائي نشرتها وكالات تابعة للأمم المتحدة يوم 13 نوفمبر بتتوقّع إن عدد قياسي، 30.3 مليون شخص في الكونغو الديمقراطية، هيواجهوا جوع بمستوى الأزمة أو أصعب من يناير لحد يونيو 2027، بعد ما كانوا 26.5 مليون في أول 2026. وحوالي 29 مليون، يعني تقريبًا ربع السكان، بيواجهوا ده من سبتمبر لديسمبر. والوكالات بتقول إن الأسباب هي النزاعات والنزوح وغلا الأكل وأمراض زي الإيبولا وجدري القرود والكوليرا.",
+   "why_eg": "المختصر بيشرح إن الإنسان «مطالب بأن يتجاوز العقبة التي تفصله عن الجنة»، وإن من طرق إنه يعدّيها ﴿إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ﴾، يعني «أن يطعم في يوم مجاعة يندر فيه وجود الطعام»، ليتيم قريب أو فقير مش حيلته حاجة. الآية مش عن الحدث ده، بس بتسأل سؤال: يعني إيه إني أشارك أكلي لما الأكل يبقى قليل؟",
+   "prompts_eg": [
+    "لما يبقى عندي أكل أكتر من حاجتي، إزاي أفتكر الناس اللي مش لاقيين؟",
+    "مين حواليّا، من قرايبي أو جيراني، ممكن يكون محتاج ومش بيقول؟",
+    "إيه اللي بيصعّب عليّا إني أشارك اللي عندي، وإيه اللي ممكن يسهّله؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 11 لـ16 من سورة البلد على مهلك، وبعدين أكّل حد محتاج النهارده أو اتصدّق بتمن وجبة.",
+    "اقري الآيات من 11 لـ16 من سورة البلد على مهلك، وبعدين أكّلي حد محتاج النهارده أو اتصدّقي بتمن وجبة."
+   ],
+   "sources": [
+    {
+     "name": "UNICEF: Conflict and disease outbreaks deepen DR Congo's hunger crisis as record numbers are projected to face acute food insecurity",
+     "url": "https://www.unicef.org/press-releases/conflict-and-disease-outbreaks-deepen-dr-congos-hunger-crisis-record-numbers-are"
+    }
+   ]
+  },
+  {
    "date": "2026-11-14",
    "ayah": "4:36",
    "title_en": "Spain: first nationwide general strike in 14 years over the cost of housing",
