@@ -1,6 +1,65 @@
 {
  "items": [
   {
+   "date": "2026-11-16",
+   "ayah": "9:119",
+   "title_en": "South Korea: top scorer in a national tax exam admits cheating with AI",
+   "title_fr": "Corée du Sud : le major d'un examen national de fiscalité avoue avoir triché avec l'IA",
+   "title_ar": "كوريا الجنوبية: الأول في امتحان وطني للمحاسبة الضريبية يعترف بالغش بالذكاء الاصطناعي",
+   "summary_en": "The 34-year-old who came first in South Korea's tax accountant exam, scoring 397.5 out of 400 in the first round, has confessed to police that he cheated. He photographed the questions with a miniature camera, sent them to an AI tool and checked the answers on his smartphone. Authorities have promised new anti-cheating measures, days before the country's college entrance exam.",
+   "summary_fr": "Le candidat de 34 ans arrivé premier à l'examen national de conseiller fiscal en Corée du Sud, avec 397,5 points sur 400 au premier tour, a avoué à la police avoir triché. Il photographiait les questions avec une mini-caméra, les envoyait à un outil d'IA et vérifiait les réponses sur son téléphone. Les autorités promettent de nouvelles mesures contre la fraude, à quelques jours de l'examen d'entrée à l'université.",
+   "summary_ar": "اعترف للشرطة الشابُّ البالغ 34 عامًا الذي حلّ أولًا في امتحان المحاسبين الضريبيين في كوريا الجنوبية، بعد أن حصل على 397.5 من 400 في الجولة الأولى، بأنه غشّ. فقد صوّر الأسئلة بكاميرا صغيرة، وأرسلها إلى أداة ذكاء اصطناعي، وتحقّق من الإجابات على هاتفه. ووعدت السلطات بإجراءات جديدة لمكافحة الغش، قبل أيام من امتحان القبول الجامعي في البلاد.",
+   "why_en": "Al-Mukhtasar explains that believers are told to be mindful of Allah, following what He commands and avoiding what He forbids, and to be with those who are true in their faith, their words and their deeds, \"as there is no salvation except in truth.\" The ayah is not about this event; it raises a question: what does truthfulness ask of me when a shortcut is easy and no one is watching?",
+   "why_fr": "Al-Mukhtasar explique que les croyants sont appelés à craindre Allah, en suivant Ses ordres et en évitant Ses interdits, et à être avec ceux qui sont véridiques dans leur foi, leurs paroles et leurs actes, car il n'y a de salut que dans la vérité. Ce verset ne parle pas de cet événement ; il pose une question : qu'exige de moi la sincérité quand un raccourci est facile et que personne ne regarde ?",
+   "why_ar": "يبيّن المختصر أن المؤمنين مأمورون بتقوى الله «بامتثال أوامره، واجتناب نواهيه»، وبأن يكونوا ﴿مَعَ ٱلصَّـٰدِقِينَ﴾، أي «الصادقين في إيمانهم وأقوالهم وأعمالهم، فلا مَنْجاة لكم إلا في الصدق». والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: ماذا يطلب مني الصدق حين يكون الطريق المختصر سهلًا ولا يراني أحد؟",
+   "prompts_en": [
+    "Where in my work or studies am I tempted to look better than I really am?",
+    "Who are the truthful people around me, and what do I learn from staying close to them?",
+    "When I get something wrong, what helps me admit it rather than hide it?"
+   ],
+   "prompts_fr": [
+    "Dans mon travail ou mes études, où ai-je la tentation de donner de moi une image meilleure que la réalité ?",
+    "Qui sont les personnes véridiques autour de moi, et qu'est-ce que j'apprends en restant proche d'elles ?",
+    "Quand je me trompe, qu'est-ce qui m'aide à le reconnaître plutôt qu'à le cacher ?"
+   ],
+   "prompts_ar": [
+    "أين أُغرى في عملي أو دراستي بأن أبدو أفضل مما أنا عليه حقًّا؟",
+    "مَن الصادقون من حولي، وماذا أتعلّم من قربي منهم؟",
+    "حين أخطئ، ما الذي يعينني على الاعتراف بالخطأ بدلًا من إخفائه؟"
+   ],
+   "step_en": "Read Surah At-Tawbah 9:117–119 slowly, then make du'a to be among the truthful, and keep one promise today exactly as you made it.",
+   "step_fr": "Lisez lentement les versets 117 à 119 de la sourate At-Tawbah, puis demandez à Allah de vous compter parmi les véridiques, et tenez aujourd'hui une promesse exactement comme vous l'avez faite.",
+   "step_ar": "قراءة الآيات من 117 إلى 119 من سورة التوبة بتأنٍّ، ثم الدعاء بأن يجعلني الله من الصادقين، والوفاء اليوم بوعد واحد كما قطعته تمامًا.",
+   "title_eg": "كوريا الجنوبية: الأول في امتحان المحاسبة الضريبية اعترف إنه غش بالذكاء الاصطناعي",
+   "summary_eg": "الشاب اللي عنده 34 سنة واللي طلع الأول في امتحان المحاسبين الضريبيين في كوريا الجنوبية، وجاب 397.5 من 400 في الدور الأول، اعترف للشرطة إنه غش. كان بيصوّر الأسئلة بكاميرا صغيرة، ويبعتها لأداة ذكاء اصطناعي، ويشوف الإجابات على موبايله. والسلطات وعدت بإجراءات جديدة ضد الغش، قبل امتحان دخول الجامعة هناك بكام يوم.",
+   "why_eg": "المختصر بيشرح إن المؤمنين مأمورين بتقوى الله «بامتثال أوامره، واجتناب نواهيه»، وإنهم يكونوا ﴿مَعَ ٱلصَّـٰدِقِينَ﴾، يعني «الصادقين في إيمانهم وأقوالهم وأعمالهم، فلا مَنْجاة لكم إلا في الصدق». الآية مش عن الحدث ده، بس بتسأل سؤال: الصدق بيطلب مني إيه لما يكون الطريق المختصر سهل ومحدش شايفني؟",
+   "prompts_eg": [
+    [
+     "فين في شغلي أو دراستي بلاقي نفسي عايز أبان أحسن من حقيقتي؟",
+     "فين في شغلي أو دراستي بلاقي نفسي عايزة أبان أحسن من حقيقتي؟"
+    ],
+    [
+     "مين الناس الصادقين اللي حواليّا، وإيه اللي بتعلمه لما بكون قريب منهم؟",
+     "مين الناس الصادقين اللي حواليّا، وإيه اللي بتعلمه لما بكون قريبة منهم؟"
+    ],
+    "لما بغلط، إيه اللي بيساعدني أعترف بغلطي بدل ما أداريه؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 117 لـ119 من سورة التوبة على مهلك، وادعي ربنا يجعلك من الصادقين، وحاول توفّي النهارده بوعد واحد زي ما قلته بالظبط.",
+    "اقري الآيات من 117 لـ119 من سورة التوبة على مهلك، وادعي ربنا يجعلك من الصادقين، وحاولي توفّي النهارده بوعد واحد زي ما قلتيه بالظبط."
+   ],
+   "sources": [
+    {
+     "name": "BBC News (via Yahoo News): South Korea's top scorer in tax accountancy exam admits cheating",
+     "url": "https://www.yahoo.com/news/world/articles/south-koreas-top-scorer-tax-134018889.html"
+    },
+    {
+     "name": "The Korea Herald: Tax accountant exam's top scorer admits to AI-assisted cheating",
+     "url": "https://www.koreaherald.com/article/10937374"
+    }
+   ]
+  },
+  {
    "date": "2026-11-15",
    "ayah": "90:14",
    "title_en": "DR Congo: UN agencies warn a record 30.3 million people face acute hunger",
