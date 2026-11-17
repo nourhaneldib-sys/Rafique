@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "date": "2026-11-17",
+   "ayah": "80:21",
+   "title_en": "Gaza: families bury loved ones recovered from the rubble after years of waiting",
+   "title_fr": "Gaza : des familles enterrent leurs proches retrouvés sous les décombres après des années d'attente",
+   "title_ar": "غزة: عائلات تدفن ذويها المنتشلين من تحت الأنقاض بعد سنوات من الانتظار",
+   "summary_en": "Civil Defence teams recovered the remains of 69 people from Jabalia refugee camp and Beit Lahiya in northern Gaza in recent days, and families buried them, some after waiting two or three years. With limited resources, crews often dig by hand, identifying people from a watch, a phone or a prayer booklet. Gaza's Civil Defence estimates that more than 8,000 bodies remain to be recovered.",
+   "summary_fr": "Ces derniers jours, les équipes de la Défense civile ont retrouvé les restes de 69 personnes dans le camp de réfugiés de Jabalia et à Beit Lahiya, dans le nord de Gaza, et les familles les ont enterrés, certaines après deux ou trois ans d'attente. Faute de moyens, les équipes creusent souvent à la main et identifient les personnes grâce à une montre, un téléphone ou un livret de prières. La Défense civile estime que plus de 8 000 corps restent à retrouver.",
+   "summary_ar": "انتشلت فرق الدفاع المدني في الأيام الأخيرة رفات 69 شخصًا من مخيم جباليا للاجئين وبيت لاهيا شمال غزة، ودفنتهم عائلاتهم بعد انتظار دام لدى بعضها عامين أو ثلاثة. ولقلة الإمكانات تحفر الفرق يدويًا في الغالب، ويُتعرَّف على الضحايا من ساعة أو هاتف أو كتيّب أدعية. ويقدّر الدفاع المدني في غزة أن أكثر من 8000 جثمان ما زالت تحت الأنقاض.",
+   "why_en": "Al-Mukhtasar explains that after the span of life Allah decreed for a person, He causes them to die and gives them a grave, where they remain until they are resurrected. This ayah is not about Gaza or this event. It raises a question for each of us: what does it mean that every life has a decreed end and a resting place, and how do we honour the dead and those who grieve them?",
+   "why_fr": "Al-Mukhtasar explique qu'une fois écoulée la vie qu'Allah a déterminée pour l'être humain, Il le fait mourir et le met dans une tombe où il demeure jusqu'à sa résurrection. Ce verset ne parle pas de Gaza ni de cet événement. Il pose une question à chacun : que signifie le fait que toute vie ait un terme fixé et un lieu de repos, et comment honorer les défunts et ceux qui les pleurent ?",
+   "why_ar": "في قوله تعالى ﴿ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ﴾ يبيّن المختصر أن الله «بعد ما قَدَّر له من عمر في الحياة أماته، وجعل له قبرًا يبقى فيه إلى أن يبعث». والآية ليست عن غزة ولا عن هذا الحدث، لكنها تثير سؤالًا: ما معنى أن لكل حياة أجلًا مقدّرًا ومستقرًّا تنتظر فيه البعث، وكيف نُكرم الموتى ومن يحزنون عليهم؟",
+   "prompts_en": [
+    "How do I carry grief when the chance to say goodbye to someone I love is delayed or taken away?",
+    "Who in my life has lost someone and might need a visit, a call or a kind word from me today?",
+    "If I truly remember that my own life has a decreed span, what would I want to change in how I spend today?"
+   ],
+   "prompts_fr": [
+    "Comment est-ce que je vis le deuil lorsque l'adieu à un être cher est retardé ou impossible ?",
+    "Qui, dans mon entourage, a perdu un proche et aurait besoin aujourd'hui d'une visite, d'un appel ou d'un mot bienveillant de ma part ?",
+    "Si je me souviens vraiment que ma vie a un terme fixé, qu'est-ce que je voudrais changer dans ma façon de vivre cette journée ?"
+   ],
+   "prompts_ar": [
+    "كيف أحمل حزني حين يتأخر وداع شخص عزيز أو يتعذّر؟",
+    "مَن في حياتي فقد عزيزًا ويحتاج اليوم إلى زيارة أو اتصال أو كلمة طيبة مني؟",
+    "إذا تذكّرت حقًّا أن لحياتي أجلًا مقدّرًا، فما الذي أريد أن أغيّره في يومي هذا؟"
+   ],
+   "step_en": "Read Surah 'Abasa 80:19–22, from creation to resurrection, then make du'a for mercy on those buried this week and on everyone we have lost, and for patience for those who grieve them.",
+   "step_fr": "Lisez les versets 19 à 22 de la sourate 'Abasa, de la création à la résurrection, puis invoquez Allah pour qu'Il fasse miséricorde aux personnes enterrées cette semaine et à tous nos défunts, et qu'Il accorde la patience à ceux qui les pleurent.",
+   "step_ar": "قراءة الآيات 19–22 من سورة عبس، من الخلق إلى البعث، ثم الدعاء بالرحمة لمن دُفنوا هذا الأسبوع ولكل من فقدناهم، وبالصبر لمن يحزنون عليهم.",
+   "title_eg": "غزة: عيلات بتدفن حبايبها اللي اتطلعوا من تحت الأنقاض بعد سنين انتظار",
+   "summary_eg": "فرق الدفاع المدني طلّعت في الأيام اللي فاتت رفات 69 شخص من مخيم جباليا وبيت لاهيا في شمال غزة، وعيلاتهم دفنوهم، وفيه عيلات فضلت مستنية سنتين أو تلاتة. وعشان الإمكانيات قليلة، الفرق غالبًا بتحفر بإيديها، والناس بيتعرفوا على حبايبهم من ساعة أو موبايل أو كتيّب أدعية. والدفاع المدني بيقدّر إن لسه فيه أكتر من 8000 جثمان تحت الأنقاض.",
+   "why_eg": "في قوله تعالى ﴿ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ﴾ المختصر بيشرح إن ربنا «بعد ما قَدَّر له من عمر في الحياة أماته، وجعل له قبرًا يبقى فيه إلى أن يبعث». الآية مش عن غزة ولا عن الحدث ده، بس بتفتح سؤال: يعني إيه إن كل حياة ليها أجل مكتوب ومكان تستنى فيه البعث، وإزاي نكرّم اللي ماتوا واللي زعلانين عليهم؟",
+   "prompts_eg": [
+    "إزاي أشيل زعلي لما وداع حد غالي عليّا يتأخر أو مايبقاش ممكن؟",
+    "مين في حياتي فقد حد عزيز ومحتاج النهارده زيارة أو مكالمة أو كلمة حلوة مني؟",
+    [
+     "لو افتكرت بجد إن عمري ليه أجل مكتوب، إيه اللي عايز أغيّره في يومي ده؟",
+     "لو افتكرت بجد إن عمري ليه أجل مكتوب، إيه اللي عايزة أغيّره في يومي ده؟"
+    ]
+   ],
+   "step_eg": [
+    "اقرا الآيات 19–22 من سورة عبس، من الخلق للبعث، وبعدين ادعي بالرحمة للي اتدفنوا الأسبوع ده ولكل اللي فقدناهم، وبالصبر لأهاليهم.",
+    "اقري الآيات 19–22 من سورة عبس، من الخلق للبعث، وبعدين ادعي بالرحمة للي اتدفنوا الأسبوع ده ولكل اللي فقدناهم، وبالصبر لأهاليهم."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble"
+    }
+   ]
+  },
+  {
    "date": "2026-11-16",
    "ayah": "9:119",
    "title_en": "South Korea: top scorer in a national tax exam admits cheating with AI",
