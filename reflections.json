@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "date": "2026-11-18",
+   "ayah": "99:7",
+   "title_en": "Syria: explosive remnants of war kill 19 children in a month as families return home",
+   "title_fr": "Syrie : les restes explosifs de guerre tuent 19 enfants en un mois, alors que des familles rentrent",
+   "title_ar": "سوريا: مخلفات الحرب المتفجرة تقتل 19 طفلًا في شهر واحد مع عودة العائلات",
+   "summary_en": "UN officials told the Security Council on 16 November that Syria shows real signs of progress, with nearly four million people returning home since December 2024. Yet in the past month, explosive remnants of war killed at least 30 people, including 19 children, and injured more than 80. With winter coming, about 2.4 million people need extra help, and the winter plan is only 40% funded.",
+   "summary_fr": "Le 16 novembre, des responsables de l'ONU ont indiqué au Conseil de sécurité que la Syrie montrait de réels signes de progrès : près de quatre millions de personnes sont rentrées chez elles depuis décembre 2024. Mais en un mois, les restes explosifs de guerre ont tué au moins 30 personnes, dont 19 enfants, et en ont blessé plus de 80. À l'approche de l'hiver, environ 2,4 millions de personnes ont besoin d'une aide supplémentaire, et le plan hivernal n'est financé qu'à 40 %.",
+   "summary_ar": "أبلغ مسؤولون أمميون مجلس الأمن في 16 نوفمبر أن في سوريا علامات تقدّم حقيقية، إذ عاد نحو أربعة ملايين شخص إلى ديارهم منذ ديسمبر 2024. غير أن مخلفات الحرب المتفجرة قتلت خلال الشهر الماضي 30 شخصًا على الأقل، بينهم 19 طفلًا، وأصابت أكثر من 80. ومع اقتراب الشتاء يحتاج نحو 2.4 مليون شخص إلى مساعدة إضافية، في حين لم تُموَّل خطة الشتاء إلا بنسبة 40%.",
+   "why_en": "Al-Mukhtasar explains that whoever does good or righteous deeds even the weight of a small ant will see it in front of him. This ayah is not about Syria or this event. It raises a question for each of us: when a need is so vast, does a small good deed still count, and what small good is within my reach today?",
+   "why_fr": "Al-Mukhtasar explique que quiconque aura fait un bien, ne serait-ce que du poids d'une petite fourmi, le verra devant lui. Ce verset ne parle pas de la Syrie ni de cet événement. Il pose une question à chacun : face à un besoin si immense, une petite bonne action compte-t-elle encore, et quel petit bien est à ma portée aujourd'hui ?",
+   "why_ar": "في قوله تعالى ﴿فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ﴾ يبيّن المختصر: «فمن يعمل وزن نملةٍ صغيرة من أعمال الخير والبرّ يره أمامه». والآية ليست عن سوريا ولا عن هذا الحدث، لكنها تثير سؤالًا: حين تكون الحاجة هائلة، هل يبقى للخير الصغير وزن، وما الخير الصغير الذي في وسعي اليوم؟",
+   "prompts_en": [
+    "When a problem feels far too big for me, what stops me from doing the small good I can?",
+    "What small kindness did someone once do for me that I still remember, even if they have forgotten it?",
+    "What danger, worry or burden could I quietly remove from someone's path this week?"
+   ],
+   "prompts_fr": [
+    "Quand un problème me semble bien trop grand, qu'est-ce qui m'empêche de faire le petit bien dont je suis capable ?",
+    "Quelle petite gentillesse m'a-t-on faite un jour, dont je me souviens encore, même si la personne l'a oubliée ?",
+    "Quel danger, quel souci ou quel fardeau pourrais-je discrètement ôter du chemin de quelqu'un cette semaine ?"
+   ],
+   "prompts_ar": [
+    "حين تبدو لي مشكلة أكبر من طاقتي، ما الذي يمنعني من فعل الخير الصغير الذي أقدر عليه؟",
+    "ما المعروف الصغير الذي صنعه لي أحدٌ يومًا وما زلت أذكره، وإن كان هو قد نسيه؟",
+    "أيّ خطر أو همّ أو عبء أستطيع أن أزيحه بهدوء من طريق أحدٍ هذا الأسبوع؟"
+   ],
+   "step_en": "Read Surah Az-Zalzalah (99:1–8), make du'a for the children of Syria and for all who work to make their land safe, then do one small good deed today without telling anyone.",
+   "step_fr": "Lisez la sourate Az-Zalzalah (99:1–8), invoquez Allah pour les enfants de Syrie et pour tous ceux qui œuvrent à sécuriser leur terre, puis accomplissez aujourd'hui une petite bonne action sans en parler à personne.",
+   "step_ar": "قراءة سورة الزلزلة (99: 1–8)، ثم الدعاء لأطفال سوريا ولكل من يعمل على تأمين أرضهم، ثم فعل خير صغير اليوم دون إخبار أحد.",
+   "title_eg": "سوريا: مخلفات الحرب المتفجرة موّتت 19 طفل في شهر والعيلات بترجع بيوتها",
+   "summary_eg": "مسؤولين في الأمم المتحدة قالوا لمجلس الأمن يوم 16 نوفمبر إن فيه علامات تقدّم حقيقية في سوريا، وإن حوالي أربعة مليون شخص رجعوا بيوتهم من ديسمبر 2024. بس في الشهر اللي فات، مخلفات الحرب المتفجرة موّتت 30 شخص على الأقل، منهم 19 طفل، وعوّرت أكتر من 80. والشتا جاي، وحوالي 2.4 مليون شخص محتاجين مساعدة زيادة، وخطة الشتا متموّلة 40% بس.",
+   "why_eg": "في قوله تعالى ﴿فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ﴾ المختصر بيشرح: «فمن يعمل وزن نملةٍ صغيرة من أعمال الخير والبرّ يره أمامه». الآية مش عن سوريا ولا عن الحدث ده، بس بتفتح سؤال: لما الحاجة تبقى كبيرة أوي كده، هل الخير الصغير لسه ليه وزن، وإيه الخير الصغير اللي في إيدي أعمله النهارده؟",
+   "prompts_eg": [
+    "لما مشكلة تبان أكبر مني بكتير، إيه اللي بيمنعني أعمل الخير الصغير اللي أقدر عليه؟",
+    [
+     "إيه الجميل الصغير اللي حد عمله معايا زمان ولسه فاكره، حتى لو هو نسيه؟",
+     "إيه الجميل الصغير اللي حد عمله معايا زمان ولسه فاكراه، حتى لو هو نسيه؟"
+    ],
+    "إيه الخطر أو الهم أو الحمل اللي ممكن أشيله بهدوء من طريق حد الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "اقرا سورة الزلزلة (99: 1–8)، وادعي لأطفال سوريا ولكل اللي بيشتغلوا عشان أرضهم تبقى آمنة، وبعدين اعمل حاجة خير صغيرة النهارده من غير ما تقول لحد.",
+    "اقري سورة الزلزلة (99: 1–8)، وادعي لأطفال سوريا ولكل اللي بيشتغلوا عشان أرضهم تبقى آمنة، وبعدين اعملي حاجة خير صغيرة النهارده من غير ما تقولي لحد."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168814"
+    }
+   ]
+  },
+  {
    "date": "2026-11-17",
    "ayah": "80:21",
    "title_en": "Gaza: families bury loved ones recovered from the rubble after years of waiting",
