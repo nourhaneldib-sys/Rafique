@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "date": "2026-11-19",
+   "ayah": "93:6",
+   "title_en": "Kenya: families open their homes to some 30,000 people fleeing clashes in Ethiopia",
+   "title_fr": "Kenya : des familles accueillent quelque 30 000 personnes fuyant des affrontements en Éthiopie",
+   "title_ar": "كينيا: عائلات تفتح بيوتها لنحو 30 ألف شخص فرّوا من اشتباكات في إثيوبيا",
+   "summary_en": "About 30,000 people have crossed into the Moyale area of northern Kenya after inter-communal clashes broke out on 22 October in Ethiopia's Oromia and Somali regions. Many arrived with little more than what they could carry and are staying with relatives, host families, or in schools and communal centres. Since 11 November, the World Food Programme has given dry rations to host families and hot meals in the centres.",
+   "summary_fr": "Environ 30 000 personnes ont traversé la frontière vers la région de Moyale, dans le nord du Kenya, après des affrontements intercommunautaires qui ont éclaté le 22 octobre dans les régions Oromia et Somali, en Éthiopie. Beaucoup sont arrivées avec à peine ce qu'elles pouvaient porter et logent chez des proches, dans des familles d'accueil, des écoles ou des centres communautaires. Depuis le 11 novembre, le Programme alimentaire mondial distribue des rations sèches aux familles d'accueil et des repas chauds dans les centres.",
+   "summary_ar": "عبر نحو 30 ألف شخص الحدود إلى منطقة مويالي في شمال كينيا، بعد اشتباكات بين المجتمعات المحلية اندلعت في 22 أكتوبر في إقليمي أوروميا والصومال بإثيوبيا. ووصل كثيرون منهم لا يحملون إلا القليل، ويقيمون لدى أقارب أو أسر مضيفة أو في مدارس ومراكز مجتمعية. ومنذ 11 نوفمبر يقدّم برنامج الأغذية العالمي حصصًا غذائية جافة للأسر المضيفة ووجبات ساخنة في المراكز.",
+   "why_en": "Al-Mukhtasar explains that Allah found the Prophet ﷺ as a young child whose father had died, and gave him a place of refuge: his grandfather Abdul Muttalib, then his uncle, were moved with fondness for him. This ayah is not about Kenya or this event. It raises a question: who once gave me refuge when I needed it, and whom can I shelter in turn?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah a trouvé le Prophète ﷺ jeune enfant ayant perdu son père, et lui a donné une demeure : son grand-père ‘Abd al-Muṭṭalib, puis son oncle, l'ont recueilli, pris de compassion pour lui. Ce verset ne parle pas du Kenya ni de cet événement. Il pose une question : qui m'a un jour offert un refuge quand j'en avais besoin, et à qui puis-je en offrir un à mon tour ?",
+   "why_ar": "في قوله تعالى ﴿أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ﴾ يبيّن المختصر: «لقد وجدك صغيرًا قد مات عنك أبوك، فجعل لك مأوى، حيث عطف عليك جدُّك عبد المطلب، ثم عمّك أبو طالب». والآية ليست عن كينيا ولا عن هذا الحدث، لكنها تثير سؤالًا: مَن آواني يومًا حين احتجت، ومَن أستطيع أن أُؤويه بدوري؟",
+   "prompts_en": [
+    "Who opened a door for me, literally or not, at a moment when I had nowhere to turn?",
+    "What makes it hard for me to make room in my home, my time or my heart for someone in need?",
+    "Who around me today may feel like a stranger, and what would make them feel welcome?"
+   ],
+   "prompts_fr": [
+    "Qui m'a ouvert une porte, au sens propre ou non, à un moment où je ne savais plus vers qui me tourner ?",
+    "Qu'est-ce qui me rend difficile de faire de la place, chez moi, dans mon temps ou dans mon cœur, à quelqu'un dans le besoin ?",
+    "Qui, autour de moi aujourd'hui, se sent peut-être étranger, et qu'est-ce qui l'aiderait à se sentir le bienvenu ?"
+   ],
+   "prompts_ar": [
+    "مَن فتح لي بابًا، حقيقةً أو مجازًا، في لحظةٍ لم أجد فيها مَن ألجأ إليه؟",
+    "ما الذي يصعّب عليّ أن أفسح مكانًا في بيتي أو وقتي أو قلبي لمحتاج؟",
+    "مَن حولي اليوم قد يشعر بالغربة، وما الذي يجعله يشعر بأنه مُرحَّب به؟"
+   ],
+   "step_en": "Read Surah Ad-Duha (93:6–11), make du'a for the families who fled and for those who took them in, then reach out today to someone who is new, alone or far from home.",
+   "step_fr": "Lisez la sourate Ad-Duha (93:6–11), invoquez Allah pour les familles qui ont fui et pour celles qui les ont accueillies, puis prenez aujourd'hui des nouvelles d'une personne nouvelle, seule ou loin de chez elle.",
+   "step_ar": "قراءة سورة الضحى (93: 6–11)، ثم الدعاء للعائلات التي فرّت ولمن آوتها، ثم التواصل اليوم مع شخص جديد أو وحيد أو بعيد عن أهله.",
+   "title_eg": "كينيا: عيلات بتفتح بيوتها لحوالي 30 ألف شخص هربوا من اشتباكات في إثيوبيا",
+   "summary_eg": "حوالي 30 ألف شخص عدّوا الحدود لمنطقة مويالي في شمال كينيا، بعد اشتباكات بين مجتمعات محلية بدأت يوم 22 أكتوبر في إقليمي أوروميا والصومال في إثيوبيا. ناس كتير وصلوا ومعاهمش غير الحاجة اللي قدروا يشيلوها، وقاعدين عند قرايبهم أو عند عيلات استضافتهم أو في مدارس ومراكز مجتمعية. ومن يوم 11 نوفمبر، برنامج الأغذية العالمي بيدّي العيلات المضيفة أكل ناشف وبيقدّم وجبات سخنة في المراكز.",
+   "why_eg": [
+    "في قوله تعالى ﴿أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ﴾ المختصر بيشرح: «لقد وجدك صغيرًا قد مات عنك أبوك، فجعل لك مأوى، حيث عطف عليك جدُّك عبد المطلب، ثم عمّك أبو طالب». الآية مش عن كينيا ولا عن الحدث ده، بس بتفتح سؤال: مين اللي آواني في يوم كنت محتاج فيه، ومين أقدر أكون أنا المأوى بتاعه؟",
+    "في قوله تعالى ﴿أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ﴾ المختصر بيشرح: «لقد وجدك صغيرًا قد مات عنك أبوك، فجعل لك مأوى، حيث عطف عليك جدُّك عبد المطلب، ثم عمّك أبو طالب». الآية مش عن كينيا ولا عن الحدث ده، بس بتفتح سؤال: مين اللي آواني في يوم كنت محتاجة فيه، ومين أقدر أكون أنا المأوى بتاعه؟"
+   ],
+   "prompts_eg": [
+    [
+     "مين اللي فتحلي باب، بجد أو بالمعنى، في وقت مكنتش لاقي حد ألجأ له؟",
+     "مين اللي فتحلي باب، بجد أو بالمعنى، في وقت مكنتش لاقية حد ألجأ له؟"
+    ],
+    "إيه اللي بيصعّب عليّا أفضّي مكان في بيتي أو وقتي أو قلبي لحد محتاج؟",
+    "مين حواليّا النهارده ممكن يكون حاسس إنه غريب، وإيه اللي ممكن يخليه يحس إنه مرحّب بيه؟"
+   ],
+   "step_eg": [
+    "اقرا سورة الضحى (93: 6–11)، وادعي للعيلات اللي هربت وللي استضافوهم، وبعدين كلّم النهارده حد جديد أو لوحده أو بعيد عن أهله.",
+    "اقري سورة الضحى (93: 6–11)، وادعي للعيلات اللي هربت وللي استضافوهم، وبعدين كلّمي النهارده حد جديد أو لوحده أو بعيد عن أهله."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168822"
+    }
+   ]
+  },
+  {
    "date": "2026-11-18",
    "ayah": "99:7",
    "title_en": "Syria: explosive remnants of war kill 19 children in a month as families return home",
