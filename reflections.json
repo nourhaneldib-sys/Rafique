@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "date": "2026-11-20",
+   "ayah": "2:214",
+   "title_en": "DR Congo: Ebola outbreak more than doubles in three months, passing 11,000 cases",
+   "title_fr": "RD Congo : l'épidémie d'Ebola a plus que doublé en trois mois, dépassant 11 000 cas",
+   "title_ar": "الكونغو الديمقراطية: تفشي إيبولا يتضاعف في ثلاثة أشهر ويتجاوز 11 ألف حالة",
+   "summary_en": "The World Health Organization says the Ebola outbreak in DR Congo has more than doubled in three months, to over 11,000 cases and 5,400 deaths in eight provinces. Children make up more than a quarter of confirmed cases and a third of deaths, and 400 to 500 new cases are still reported every week. Testing laboratories have grown from two to more than two dozen, and two candidate vaccines are to join a trial.",
+   "summary_fr": "Selon l'Organisation mondiale de la santé, l'épidémie d'Ebola en RD Congo a plus que doublé en trois mois, avec plus de 11 000 cas et 5 400 décès dans huit provinces. Les enfants représentent plus d'un quart des cas confirmés et un tiers des décès, et 400 à 500 nouveaux cas sont encore signalés chaque semaine. Les laboratoires de dépistage sont passés de deux à plus d'une vingtaine.",
+   "summary_ar": "تقول منظمة الصحة العالمية إن تفشي إيبولا في جمهورية الكونغو الديمقراطية تضاعف أكثر من مرة خلال ثلاثة أشهر، ليتجاوز 11 ألف حالة و5400 وفاة في ثماني مقاطعات. ويمثل الأطفال أكثر من ربع الحالات المؤكدة وثلث الوفيات، ولا تزال تُسجَّل ما بين 400 و500 حالة جديدة كل أسبوع. وارتفع عدد المختبرات القادرة على الفحص من اثنين إلى أكثر من عشرين، ويُنتظر ضم لقاحين مرشحين إلى تجربة جارية.",
+   "why_en": "Al-Mukhtasar explains that the believers should not think they will enter Paradise without a trial like that of those before them, who were struck by severe poverty and sickness and shaken by fear, until they asked: 'When is the help of Allah coming?' His help is close to those who believe and trust in Him. This ayah is not about this outbreak. It raises a question: how do I keep hope when hardship lasts?",
+   "why_fr": "Al-Mukhtasar explique que les croyants ne doivent pas penser entrer au Paradis sans être éprouvés comme ceux qui les ont précédés, frappés par la pauvreté et la maladie et secoués par la crainte, au point de demander : « Quand viendra le secours d'Allah ? » Ce secours est proche de ceux qui croient. Ce verset ne parle pas de cette épidémie. Il pose une question : comment garder espoir quand l'épreuve dure ?",
+   "why_ar": "يبيّن المختصر أن مَن قبلنا ابتُلوا، «حيث أصابهم شدة الفقر والمرض، وزلزلتهم المخاوف»، حتى قالوا: متى يأتي نصر الله؟ ثم قال تعالى: ﴿أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ﴾، أي «قريب من المؤمنين به، المتوكلين عليه». والآية ليست عن هذا الوباء، لكنها تثير سؤالًا: كيف أحفظ رجائي حين يطول البلاء؟",
+   "prompts_en": [
+    "When a difficulty in my life went on longer than I expected, what helped me keep going?",
+    "What does trusting Allah look like for me when I cannot see the end of a hardship?",
+    "Who around me is carrying a long illness or worry, and how could I make their wait a little lighter?"
+   ],
+   "prompts_fr": [
+    "Quand une difficulté dans ma vie a duré plus longtemps que prévu, qu'est-ce qui m'a aidé à tenir ?",
+    "À quoi ressemble pour moi la confiance en Allah quand je ne vois pas la fin d'une épreuve ?",
+    "Qui, autour de moi, porte une longue maladie ou une inquiétude, et comment pourrais-je alléger un peu son attente ?"
+   ],
+   "prompts_ar": [
+    "حين طالت عليّ شدة أكثر مما توقعت، ما الذي أعانني على الصبر؟",
+    "كيف يبدو توكلي على الله حين لا أرى نهاية للبلاء؟",
+    "مَن حولي يحمل مرضًا طويلًا أو همًّا ثقيلًا، وكيف أخفف عنه انتظاره قليلًا؟"
+   ],
+   "step_en": "Read Al-Baqarah 2:214 slowly, then make du'a for the sick and for those caring for them, and check on someone you know who is ill.",
+   "step_fr": "Lisez lentement le verset 2:214 de la sourate Al-Baqara, puis faites une invocation pour les malades et ceux qui les soignent, et prenez des nouvelles d'un proche malade.",
+   "step_ar": "قراءة الآية 214 من سورة البقرة بتأنٍّ، ثم الدعاء للمرضى ولمن يقومون على رعايتهم، والسؤال عن مريض من المعارف.",
+   "title_eg": "الكونغو الديمقراطية: الإيبولا اتضاعفت في تلات شهور وعدّت 11 ألف حالة",
+   "summary_eg": "منظمة الصحة العالمية بتقول إن الإيبولا في الكونغو الديمقراطية اتضاعفت أكتر من مرة في تلات شهور، ووصلت لأكتر من 11 ألف حالة و5400 وفاة في تماني مقاطعات. الأطفال أكتر من ربع الحالات المؤكدة وتلت الوفيات، ولسه فيه ما بين 400 و500 حالة جديدة كل أسبوع. المعامل اللي بتعمل التحليل زادت من اتنين لأكتر من عشرين، وفيه لقاحين هيدخلوا تجربة قريب.",
+   "why_eg": [
+    "المختصر بيوضّح إن اللي قبلنا اتبلوا، «حيث أصابهم شدة الفقر والمرض، وزلزلتهم المخاوف»، لحد ما قالوا: إمتى نصر ربنا ييجي؟ وربنا قال: ﴿أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ﴾، يعني «قريب من المؤمنين به، المتوكلين عليه». والآية مش عن الوباء ده، بس بتسأل: إزاي أفضل متمسك بالأمل لما الشدة تطول؟",
+    "المختصر بيوضّح إن اللي قبلنا اتبلوا، «حيث أصابهم شدة الفقر والمرض، وزلزلتهم المخاوف»، لحد ما قالوا: إمتى نصر ربنا ييجي؟ وربنا قال: ﴿أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ﴾، يعني «قريب من المؤمنين به، المتوكلين عليه». والآية مش عن الوباء ده، بس بتسأل: إزاي أفضل متمسكة بالأمل لما الشدة تطول؟"
+   ],
+   "prompts_eg": [
+    [
+     "لما حاجة صعبة في حياتي طوّلت أكتر ما كنت متوقع، إيه اللي ساعدني أكمّل؟",
+     "لما حاجة صعبة في حياتي طوّلت أكتر ما كنت متوقعة، إيه اللي ساعدني أكمّل؟"
+    ],
+    [
+     "التوكل على ربنا شكله إيه عندي لما مش شايف آخر للشدة؟",
+     "التوكل على ربنا شكله إيه عندي لما مش شايفة آخر للشدة؟"
+    ],
+    "مين حواليّا شايل مرض طويل أو هم تقيل، وإزاي أقدر أخفف عليه الانتظار شوية؟"
+   ],
+   "step_eg": [
+    "اقرا الآية 214 من سورة البقرة على مهلك، وادعي للعيانين واللي بيراعوهم، واسأل على حد تعرفه عيان.",
+    "اقري الآية 214 من سورة البقرة على مهلك، وادعي للعيانين واللي بيراعوهم، واسألي على حد تعرفيه عيان."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168827"
+    }
+   ]
+  },
+  {
    "date": "2026-11-19",
    "ayah": "93:6",
    "title_en": "Kenya: families open their homes to some 30,000 people fleeing clashes in Ethiopia",
