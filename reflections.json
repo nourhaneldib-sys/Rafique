@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-21",
+   "ayah": "2:261",
+   "title_en": "UN food agency plans to help fewer people in 2027 as funding falls short",
+   "title_fr": "L'agence alimentaire de l'ONU prévoit d'aider moins de personnes en 2027, faute de fonds",
+   "title_ar": "وكالة الغذاء الأممية تعتزم مساعدة عدد أقل من الناس في 2027 بسبب نقص التمويل",
+   "summary_en": "The World Food Programme says it will appeal for $12 billion to help 91 million people in 2027, down from the 110 million it aimed to reach this year, while 266 million people face acute hunger. Its 2026 appeal of $13 billion is only half funded. The agency warns of a possible new global food crisis, with rising food and shipping costs, a strong El Niño and famine risks in places such as Sudan.",
+   "summary_fr": "Le Programme alimentaire mondial lance un appel de 12 milliards de dollars pour aider 91 millions de personnes en 2027, contre 110 millions visées cette année, alors que 266 millions de personnes souffrent de faim aiguë. Son appel de 13 milliards pour 2026 n'est financé qu'à moitié. L'agence redoute une nouvelle crise alimentaire mondiale, entre hausse des coûts, fort El Niño et risques de famine, notamment au Soudan.",
+   "summary_ar": "أعلن برنامج الأغذية العالمي أنه سيطلب 12 مليار دولار لمساعدة 91 مليون شخص في عام 2027، بعد أن كان يستهدف 110 ملايين هذا العام، في حين يواجه 266 مليون شخص جوعًا حادًّا. ولم يُموَّل نداؤه لعام 2026 البالغ 13 مليار دولار إلا بنسبة النصف. ويحذّر البرنامج من أزمة غذاء عالمية محتملة مع ارتفاع تكاليف الغذاء والشحن، وظاهرة نينيو قوية، وخطر المجاعة في أماكن مثل السودان.",
+   "why_en": "Al-Mukhtasar explains that the reward of believers who spend their wealth in Allah's path is like a grain a farmer plants in good soil: it grows seven ears, each with a hundred grains. Allah multiplies the reward for whom He wills; He is vast in bounty and knows who deserves it. This ayah is not about this appeal. It raises a question: does what I give matter when the need feels far bigger than my means?",
+   "why_fr": "Al-Mukhtasar explique que la rétribution des croyants qui dépensent leurs biens pour Allah ressemble à un grain planté par un paysan dans une terre fertile : il donne sept épis de cent grains chacun. Allah multiplie la rétribution de qui Il veut ; Sa grâce est immense et Il sait qui la mérite. Ce verset ne parle pas de cet appel. Il pose une question : ce que je donne compte-t-il quand le besoin dépasse de loin mes moyens ?",
+   "why_ar": "يبيّن المختصر أن ثواب المؤمنين الذين ينفقون أموالهم في سبيل الله كمثل «حبة يضعها الزارع في أرض طيبة فتنبت سبع سنابل، في كل سنبلة منها مئة حبة»، ثم قال تعالى: ﴿وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ﴾، و«الله واسع الفضل والعطاء، عليم بمن يستحق المضاعفة». والآية ليست عن هذا النداء، لكنها تثير سؤالًا: هل لعطائي قيمة حين تبدو الحاجة أكبر بكثير من طاقتي؟",
+   "prompts_en": [
+    "When a need around me feels too big to fix, what stops me from giving the little I can?",
+    "What small act of giving in my life grew into something larger than I expected?",
+    "Who near me may be quietly struggling to put food on the table, and how could I help without embarrassing them?"
+   ],
+   "prompts_fr": [
+    "Quand un besoin autour de moi me semble trop grand, qu'est-ce qui m'empêche de donner le peu que je peux ?",
+    "Quel petit geste de don dans ma vie a porté plus de fruits que je ne l'imaginais ?",
+    "Qui, près de moi, peine peut-être en silence à se nourrir, et comment l'aider sans le mettre mal à l'aise ?"
+   ],
+   "prompts_ar": [
+    "حين تبدو لي حاجة الناس أكبر من أن أسدّها، ما الذي يمنعني من بذل القليل الذي أقدر عليه؟",
+    "ما العطاء الصغير في حياتي الذي أثمر أكثر مما توقعت؟",
+    "مَن قريب مني قد يعاني في صمت ليجد طعامه، وكيف أعينه دون أن أحرجه؟"
+   ],
+   "step_en": "Read Al-Baqarah 2:261 to 2:262, then give something today, even a small amount or a meal, to someone in need, without reminding them of it.",
+   "step_fr": "Lisez les versets 261 et 262 de la sourate Al-Baqara, puis donnez aujourd'hui quelque chose, même modeste ou un repas, à une personne dans le besoin, sans le lui rappeler ensuite.",
+   "step_ar": "قراءة الآيتين 261 و262 من سورة البقرة، ثم التصدّق اليوم بشيء ولو قليلًا أو بوجبة لمحتاج، دون مَنٍّ ولا أذى.",
+   "title_eg": "وكالة الغذاء التابعة للأمم المتحدة هتساعد ناس أقل في 2027 عشان التمويل مش كفاية",
+   "summary_eg": "برنامج الأغذية العالمي قال إنه هيطلب 12 مليار دولار عشان يساعد 91 مليون شخص في 2027، بعد ما كان عايز يوصل لـ110 مليون السنة دي، وفي نفس الوقت فيه 266 مليون شخص بيعانوا من جوع حاد. ونداء 2026 اللي كان 13 مليار دولار متموّلش غير نصه بس. والبرنامج بيحذّر من أزمة غذا عالمية ممكن تحصل، مع غلو أسعار الأكل والشحن، وظاهرة نينيو قوية، وخطر مجاعة في أماكن زي السودان.",
+   "why_eg": "المختصر بيوضّح إن ثواب المؤمنين اللي بيصرفوا فلوسهم في سبيل الله زي «حبة يضعها الزارع في أرض طيبة فتنبت سبع سنابل، في كل سنبلة منها مئة حبة»، وربنا قال: ﴿وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ﴾، و«الله واسع الفضل والعطاء، عليم بمن يستحق المضاعفة». والآية مش عن النداء ده، بس بتسأل: هل اللي بديه له قيمة لما الحاجة باينة أكبر بكتير من قدرتي؟",
+   "prompts_eg": [
+    "لما أحس إن حاجة الناس أكبر من إني أسدّها، إيه اللي بيمنعني أدي القليل اللي أقدر عليه؟",
+    [
+     "إيه الحاجة الصغيرة اللي اديتها في حياتي وطلع لها ثمر أكتر ما كنت متوقع؟",
+     "إيه الحاجة الصغيرة اللي اديتها في حياتي وطلع لها ثمر أكتر ما كنت متوقعة؟"
+    ],
+    "مين قريب مني ممكن يكون بيعاني في سكات عشان يلاقي أكله، وإزاي أساعده من غير ما أحرجه؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 261 و262 من سورة البقرة، وادّي النهارده حاجة لحد محتاج، ولو حاجة بسيطة أو وجبة، من غير ما تفكّره بيها بعد كده.",
+    "اقري الآيتين 261 و262 من سورة البقرة، وادّي النهارده حاجة لحد محتاج، ولو حاجة بسيطة أو وجبة، من غير ما تفكّريه بيها بعد كده."
+   ],
+   "sources": [
+    {
+     "name": "Reuters via Arab News: UN cuts food aid target despite looming hunger crisis",
+     "url": "https://www.arabnews.com/world/un-cuts-food-aid-target-despite-looming-hunger-crisis-3013187"
+    },
+    {
+     "name": "Reuters via Yahoo News",
+     "url": "https://www.yahoo.com/news/world/articles/un-cuts-food-aid-target-112616092.html"
+    }
+   ]
+  },
+  {
    "date": "2026-11-20",
    "ayah": "2:214",
    "title_en": "DR Congo: Ebola outbreak more than doubles in three months, passing 11,000 cases",
