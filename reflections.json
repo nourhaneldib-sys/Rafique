@@ -1,6 +1,64 @@
 {
  "items": [
   {
+   "date": "2026-11-22",
+   "ayah": "33:72",
+   "title_en": "Geneva: 128 countries agree to work on rules for AI-driven 'killer robots'",
+   "title_fr": "Genève : 128 pays s'accordent pour préparer des règles sur les « robots tueurs »",
+   "title_ar": "جنيف: 128 دولة تتفق على العمل على قواعد للأسلحة الذاتية التشغيل",
+   "summary_en": "At a UN arms conference in Geneva, 128 countries agreed on Saturday to work over the next two years on a possible instrument regulating lethal autonomous weapons, known as 'killer robots'. Nearly 100 countries had pushed for legally binding rules quickly, but decisions need the agreement of all members. Campaign groups called the outcome too weak, warning that weapons using AI to choose targets are already used in combat.",
+   "summary_fr": "Lors d'une conférence de l'ONU sur les armements à Genève, 128 pays se sont accordés samedi pour travailler, au cours des deux prochaines années, sur un éventuel instrument encadrant les armes létales autonomes, dites « robots tueurs ». Près de 100 pays réclamaient des règles contraignantes rapidement, mais les décisions exigent l'accord de tous. Des ONG jugent le résultat trop faible : des armes qui choisissent leurs cibles par IA sont déjà utilisées au combat.",
+   "summary_ar": "اتفقت 128 دولة يوم السبت، في مؤتمر للأمم المتحدة بشأن الأسلحة في جنيف، على العمل خلال العامين المقبلين على صياغة صكّ محتمل ينظّم الأسلحة الفتاكة الذاتية التشغيل، المعروفة بـ«الروبوتات القاتلة». وكانت نحو 100 دولة تدفع نحو قواعد ملزمة قانونًا على وجه السرعة، غير أن القرارات تتطلب موافقة جميع الأعضاء. ووصفت منظمات حملات مدنية النتيجة بأنها ضعيفة، محذّرة من أن أسلحة تختار أهدافها بالذكاء الاصطناعي تُستخدم بالفعل في القتال.",
+   "why_en": "Al-Mukhtasar explains that Allah offered the trust, religious obligations and the guarding of wealth and secrets, to the heavens, the earth and the mountains. They refused it, fearing its outcome, but the human carried it, unjust to himself and unaware of where such a burden leads. This ayah is not about these talks or weapons. It raises a question: what trusts have I taken on, and do I carry them seriously?",
+   "why_fr": "Al-Mukhtasar explique qu'Allah a proposé le dépôt, les obligations religieuses et la garde des biens et des secrets, aux cieux, à la terre et aux montagnes. Ils ont refusé de le porter, craignant ses conséquences, mais l'être humain l'a pris, injuste envers lui-même et ignorant de l'issue d'un tel fardeau. Ce verset ne parle ni de ces négociations ni de ces armes. Il pose une question : quels dépôts ai-je acceptés, et est-ce que je les porte avec sérieux ?",
+   "why_ar": "يبيّن المختصر أن الله عرض «التكاليف الشرعية، وما يحفظ من أموال وأسرار، على السماوات وعلى الأرض وعلى الجبال، فامتنعن من حملها، وخفن من عاقبته»، ثم قال تعالى: ﴿وَحَمَلَهَا ٱلۡإِنسَٰنُ﴾، «إنه كان ظلومًا لنفسه، جهولًا بعاقبة حملها». والآية ليست عن هذه المفاوضات ولا عن هذه الأسلحة، لكنها تثير سؤالًا: ما الأمانات التي حملتُها، وهل أحملها بالجدّية التي تستحقها؟",
+   "prompts_en": [
+    "Which responsibilities in my life am I tempted to hand off to someone or something else, even though they are really mine?",
+    "When did I take on a trust lightly, and only later understand how heavy it was?",
+    "Whose secrets, belongings or wellbeing are in my care right now, and how am I guarding them?"
+   ],
+   "prompts_fr": [
+    "Quelles responsabilités de ma vie ai-je envie de confier à quelqu'un ou à quelque chose d'autre, alors qu'elles m'appartiennent ?",
+    "Quand ai-je accepté un dépôt à la légère, pour ne comprendre que plus tard son poids ?",
+    "De qui ai-je aujourd'hui la charge des secrets, des biens ou du bien-être, et comment est-ce que je les protège ?"
+   ],
+   "prompts_ar": [
+    "ما المسؤوليات في حياتي التي أميل إلى إلقائها على غيري أو على شيء آخر، مع أنها في الحقيقة مسؤوليتي؟",
+    "متى قبلتُ أمانة باستخفاف، ثم أدركت ثقلها فيما بعد؟",
+    "أسرارُ مَن وأموالُ مَن ومصلحةُ مَن في عهدتي الآن، وكيف أحفظها؟"
+   ],
+   "step_en": "Read Al-Ahzab 33:72 to 33:73, then choose one trust you hold, such as a promise, something lent to you or a secret, and honour it fully today.",
+   "step_fr": "Lisez les versets 72 et 73 de la sourate Al-Ahzab, puis choisissez un dépôt qui vous a été confié, une promesse, un objet prêté ou un secret, et honorez-le pleinement aujourd'hui.",
+   "step_ar": "قراءة الآيتين 72 و73 من سورة الأحزاب، ثم اختيار أمانة واحدة في العهدة، كوعدٍ أو شيءٍ مُعار أو سرٍّ، وأداؤها كاملةً اليوم.",
+   "title_eg": "جنيف: 128 دولة اتفقوا يشتغلوا على قواعد للأسلحة اللي بتشتغل لوحدها",
+   "summary_eg": "في مؤتمر للأمم المتحدة عن الأسلحة في جنيف، 128 دولة اتفقوا يوم السبت إنهم يشتغلوا في السنتين الجايين على اتفاق ممكن ينظّم الأسلحة الفتاكة اللي بتشتغل لوحدها، اللي بيسمّوها «الروبوتات القاتلة». وكان فيه حوالي 100 دولة عايزين قواعد ملزمة قانونًا بسرعة، بس القرارات محتاجة موافقة كل الأعضاء. ومنظمات مدنية قالت إن النتيجة ضعيفة، وحذّرت إن فيه أسلحة بتختار أهدافها بالذكاء الاصطناعي بتتستخدم فعلًا في الحرب.",
+   "why_eg": [
+    "المختصر بيوضّح إن ربنا عرض «التكاليف الشرعية، وما يحفظ من أموال وأسرار، على السماوات وعلى الأرض وعلى الجبال، فامتنعن من حملها، وخفن من عاقبته»، وبعدين قال: ﴿وَحَمَلَهَا ٱلۡإِنسَٰنُ﴾، «إنه كان ظلومًا لنفسه، جهولًا بعاقبة حملها». والآية مش عن المفاوضات دي ولا عن الأسلحة دي، بس بتسأل: إيه الأمانات اللي شايلها، وهل شايلها بالجدية اللي تستاهلها؟",
+    "المختصر بيوضّح إن ربنا عرض «التكاليف الشرعية، وما يحفظ من أموال وأسرار، على السماوات وعلى الأرض وعلى الجبال، فامتنعن من حملها، وخفن من عاقبته»، وبعدين قال: ﴿وَحَمَلَهَا ٱلۡإِنسَٰنُ﴾، «إنه كان ظلومًا لنفسه، جهولًا بعاقبة حملها». والآية مش عن المفاوضات دي ولا عن الأسلحة دي، بس بتسأل: إيه الأمانات اللي شايلاها، وهل شايلاها بالجدية اللي تستاهلها؟"
+   ],
+   "prompts_eg": [
+    [
+     "إيه المسؤوليات في حياتي اللي ببقى عايز أرميها على حد تاني أو حاجة تانية، مع إنها في الحقيقة مسؤوليتي أنا؟",
+     "إيه المسؤوليات في حياتي اللي ببقى عايزة أرميها على حد تاني أو حاجة تانية، مع إنها في الحقيقة مسؤوليتي أنا؟"
+    ],
+    [
+     "إمتى قبلت أمانة وأنا مستخف بيها، وبعدين فهمت قد إيه هي تقيلة؟",
+     "إمتى قبلت أمانة وأنا مستخفة بيها، وبعدين فهمت قد إيه هي تقيلة؟"
+    ],
+    "أسرار مين وحاجات مين ومصلحة مين معايا دلوقتي، وإزاي بحافظ عليها؟"
+   ],
+   "step_eg": [
+    "اقرا الآيتين 72 و73 من سورة الأحزاب، واختار أمانة واحدة معاك، زي وعد أو حاجة حد سلّفهالك أو سر، وأدّيها على أكمل وجه النهارده.",
+    "اقري الآيتين 72 و73 من سورة الأحزاب، واختاري أمانة واحدة معاكي، زي وعد أو حاجة حد سلّفهالك أو سر، وأدّيها على أكمل وجه النهارده."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera / AFP: Nations agree to 'elaborate' on rules for AI-run 'killer robots'",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    }
+   ]
+  },
+  {
    "date": "2026-11-21",
    "ayah": "2:261",
    "title_en": "UN food agency plans to help fewer people in 2027 as funding falls short",
