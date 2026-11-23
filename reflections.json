@@ -1,6 +1,63 @@
 {
  "items": [
   {
+   "date": "2026-11-23",
+   "ayah": "12:18",
+   "title_en": "Indonesia: dozens of workers missing after a fire at a candy factory in Java",
+   "title_fr": "Indonésie : des dizaines d'ouvriers disparus après l'incendie d'une usine de bonbons à Java",
+   "title_ar": "إندونيسيا: عشرات العمال في عداد المفقودين بعد حريق في مصنع حلوى بجاوة",
+   "summary_en": "A fire broke out on Saturday evening at a candy factory in Cikande, in Indonesia's Serang regency in western Java. The owner said around 300 people were on shift; on Sunday dozens of workers were still unaccounted for and police had recovered seven body bags. Officials said the victims could not be identified by sight, and DNA identification could take two to three weeks while relatives wait.",
+   "summary_fr": "Un incendie s'est déclaré samedi soir dans une usine de bonbons à Cikande, dans le district de Serang, à l'ouest de Java, en Indonésie. Selon le propriétaire, environ 300 personnes étaient au travail ; dimanche, des dizaines d'ouvriers manquaient encore à l'appel et la police avait retiré sept housses mortuaires. Les victimes ne pouvant être identifiées à l'œil nu, l'identification par ADN pourrait prendre deux à trois semaines, pendant que les familles attendent.",
+   "summary_ar": "اندلع حريق مساء السبت في مصنع للحلوى في منطقة جيكاندي بمقاطعة سيرانغ غربي جزيرة جاوة الإندونيسية. وقال مالك المصنع إن نحو 300 شخص كانوا في نوبة العمل، وحتى يوم الأحد ظلّ عشرات العمال مجهولي المصير، فيما انتشلت الشرطة سبعة أكياس للجثث. وذكر المسؤولون أن التعرف على الضحايا بالنظر غير ممكن، وأن التعرف عليهم بالحمض النووي قد يستغرق من أسبوعين إلى ثلاثة، بينما تنتظر الأسر الخبر.",
+   "why_en": "Al-Mukhtasar explains that when Jacob was brought news that his son Joseph was gone, he saw the story was untrue and chose \"beautiful patience without any complaint\", turning to Allah as the One from whom aid is requested. The ayah is not about this fire. It raises a question for each of us: how do we hold on, and where do we turn, when someone we love is missing and the answer is slow to come?",
+   "why_fr": "Selon Al-Mukhtasar, lorsqu'on apporta à Jacob la nouvelle de la perte de son fils Joseph, il comprit que le récit était faux et choisit une « belle patience, sans aucune plainte », en se tournant vers Allah, Celui dont on implore le secours. Ce verset ne parle pas de cet incendie. Il pose une question à chacun : comment tenir, et vers qui se tourner, quand un être cher manque et que la réponse tarde ?",
+   "why_ar": "يبيّن المختصر أن يعقوب لمّا جاءه أبناؤه بقميص يوسف وعليه دم غير دمه فطن لكذبهم، فقال: «فأمري صبر جميل لا جزع فيه، والله المطلوب منه العون على ما تذكرونه من أمر يوسف». والآية ليست عن هذا الحريق، لكنّ قوله ﴿فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ﴾ يطرح سؤالًا: كيف أتمسك بالصبر، وإلى مَن ألجأ، حين يغيب مَن أحبّ ويتأخر الخبر؟",
+   "prompts_en": [
+    "When I am waiting for news I cannot control, what helps me stay patient without losing hope?",
+    "What would \"beautiful patience\", patience without complaint, look like in something I am carrying right now?",
+    "Who in my life works hard, often unseen, so that others are provided for, and how can I show them I value them?"
+   ],
+   "prompts_fr": [
+    "Quand j'attends une nouvelle qui ne dépend pas de moi, qu'est-ce qui m'aide à rester patient sans perdre espoir ?",
+    "À quoi ressemblerait une « belle patience », sans plainte, dans ce que je porte en ce moment ?",
+    "Qui, dans ma vie, travaille dur, souvent sans être vu, pour subvenir aux besoins des autres, et comment lui montrer que je l'apprécie ?"
+   ],
+   "prompts_ar": [
+    "حين أنتظر خبرًا لا أملك من أمره شيئًا، ما الذي يعينني على الصبر دون أن أفقد الأمل؟",
+    "كيف يبدو «الصبر الجميل» الذي لا جزع فيه في أمرٍ أحمله الآن؟",
+    "مَن في حياتي يعمل بجدّ، وغالبًا دون أن يراه أحد، ليوفّر لغيره ما يحتاج إليه، وكيف أُظهر له تقديري؟"
+   ],
+   "step_en": "Make a du'a for the families still waiting for news, then read Surah Yusuf 12:16–18. When something weighs on you today, say: \"Allah is the One whose help is sought.\"",
+   "step_fr": "Faites une invocation pour les familles qui attendent encore des nouvelles, puis lisez la sourate Yusuf, versets 16 à 18. Quand quelque chose vous pèse aujourd'hui, dites : « C'est Allah dont on implore le secours. »",
+   "step_ar": "الدعاء للأسر التي ما زالت تنتظر الخبر، ثم قراءة الآيات 16–18 من سورة يوسف، وترديد ﴿وَٱللَّهُ ٱلۡمُسۡتَعَانُ﴾ عند كل همّ اليوم.",
+   "title_eg": "إندونيسيا: عشرات العمال لسه مفقودين بعد حريق في مصنع حلويات في جاوة",
+   "summary_eg": "يوم السبت بالليل ولعت نار في مصنع حلويات في منطقة جيكاندي في سيرانغ، غرب جزيرة جاوة في إندونيسيا. صاحب المصنع قال إن حوالي 300 واحد كانوا في الوردية، ولحد يوم الحد كان فيه عشرات العمال لسه محدش يعرف عنهم حاجة، والشرطة طلّعت سبع أكياس جثث. المسؤولين قالوا إن مفيش طريقة يتعرفوا على الضحايا بالشكل، والتعرف بالـDNA ممكن ياخد من أسبوعين لتلات أسابيع، والأهالي مستنيين.",
+   "why_eg": "المختصر بيقول إن يعقوب لما ولاده جابوله قميص يوسف وعليه دم مش دمه، فهم إنهم بيكدبوا، وقال: «فأمري صبر جميل لا جزع فيه، والله المطلوب منه العون على ما تذكرونه من أمر يوسف». الآية مش عن الحريق ده، بس ﴿فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ﴾ بتسألنا: إزاي أفضل صابر، وألجأ لمين، لما حد بحبه يغيب والخبر يتأخر؟",
+   "prompts_eg": [
+    "لما أكون مستني خبر مش في إيدي، إيه اللي بيساعدني أصبر من غير ما أفقد الأمل؟",
+    "يعني إيه «صبر جميل» من غير جزع في حاجة شايلها دلوقتي؟",
+    "مين في حياتي بيتعب ويشتغل، وساعات محدش واخد باله، عشان يصرف على غيره، وإزاي أوريه إني مقدّره؟"
+   ],
+   "step_eg": [
+    "ادعي للأهالي اللي لسه مستنيين خبر، وبعدين اقرا الآيات من 16 لـ18 من سورة يوسف، ولما حاجة تتقل عليك النهارده قول: ﴿وَٱللَّهُ ٱلۡمُسۡتَعَانُ﴾.",
+    "ادعي للأهالي اللي لسه مستنيين خبر، وبعدين اقري الآيات من 16 لـ18 من سورة يوسف، ولما حاجة تتقل عليكي النهارده قولي: ﴿وَٱللَّهُ ٱلۡمُسۡتَعَانُ﴾."
+   ],
+   "sources": [
+    {
+     "name": "Reuters (via GMA News)",
+     "url": "https://www.gmanetwork.com/news/topstories/world/1010424/7-body-bags-recovered-50-missing-after-indonesian-factory-fire/story/"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo"
+    },
+    {
+     "name": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720"
+    }
+   ]
+  },
+  {
    "date": "2026-11-22",
    "ayah": "33:72",
    "title_en": "Geneva: 128 countries agree to work on rules for AI-driven 'killer robots'",
