@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "date": "2026-11-24",
+   "ayah": "2:30",
+   "title_en": "UN climate talks in Türkiye end without an agreement",
+   "title_fr": "En Turquie, les négociations de l'ONU sur le climat s'achèvent sans accord",
+   "title_ar": "مفاوضات الأمم المتحدة للمناخ في تركيا تنتهي دون اتفاق",
+   "summary_en": "The UN climate summit in Antalya, Türkiye, which brought together delegates from more than 190 countries, ended on Sunday without a climate pact, as countries stayed divided over fossil fuels. It was the longest UN climate summit on record. The UN Secretary-General said climate impacts are intensifying and called for stronger support for vulnerable countries.",
+   "summary_fr": "Le sommet de l'ONU sur le climat à Antalya, en Turquie, qui réunissait des délégués de plus de 190 pays, s'est achevé dimanche sans accord, les pays restant divisés sur les énergies fossiles. C'était le plus long sommet climatique de l'ONU jamais tenu. Le secrétaire général de l'ONU a souligné que les effets du changement climatique s'intensifient et appelé à mieux soutenir les pays vulnérables.",
+   "summary_ar": "انتهت قمة الأمم المتحدة للمناخ في أنطاليا بتركيا، التي جمعت مندوبين من أكثر من 190 دولة، يوم الأحد دون اتفاق مناخي، إذ ظلت الدول منقسمة بشأن الوقود الأحفوري. وكانت أطول قمة مناخية للأمم المتحدة على الإطلاق. وقال الأمين العام للأمم المتحدة إن آثار تغير المناخ تشتد، ودعا إلى دعم أقوى للدول الأكثر عرضة لها.",
+   "why_en": "Al-Mukhtasar explains that Allah told the angels He would place humans on earth, generation after generation, to inhabit it in obedience to Him; when they asked the wisdom of this, since humans would cause ruin and bloodshed, He said He knows what they do not. The ayah is not about the climate talks; it asks what we were placed on earth for, and what each generation leaves to the next.",
+   "why_fr": "Al-Mukhtasar explique qu'Allah annonça aux anges qu'Il placerait sur terre des humains, génération après génération, pour la peupler dans l'obéissance à Lui ; quand ils s'interrogèrent, puisque les humains y sèmeraient la corruption et le sang, Il répondit qu'Il sait ce qu'ils ne savent pas. Le verset ne parle pas du climat ; il demande pourquoi nous sommes sur terre et ce que chaque génération laisse à la suivante.",
+   "why_ar": "يبيّن المختصر أن الله أخبر الملائكة أنه «سيجعل في الأرض بشرًا يخلُف بعضهم بعضًا، للقيام بعمارتها على طاعة الله»، ولما سألوا عن الحكمة من ذلك وهم سيفسدون فيها ويريقون الدماء، أجابهم: «إني أعلم ما لا تعلمون». الآية ليست عن مفاوضات المناخ؛ لكن قوله ﴿إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗ﴾ يطرح سؤالًا: لماذا جُعل الإنسان في الأرض، وماذا يتسلّم كل جيل ممن قبله وماذا يترك لمن بعده؟",
+   "prompts_en": [
+    "What have I received from the generations before me, in my family or my community, that I am grateful for?",
+    "What would I like to leave behind for the people who come after me, and what small part of that can I start this week?",
+    "The angels asked, and Allah answered that He knows what they do not. When something in the world troubles me, how do I hold my questions and my trust in Allah together?"
+   ],
+   "prompts_fr": [
+    "Qu'avez-vous reçu des générations qui vous ont précédé, dans votre famille ou votre entourage, et dont vous êtes reconnaissant ?",
+    "Que voudriez-vous laisser à ceux qui viendront après vous, et quelle petite part pourriez-vous commencer dès cette semaine ?",
+    "Les anges ont posé une question, et Allah a répondu qu'Il sait ce qu'ils ne savent pas. Quand quelque chose dans le monde vous trouble, comment gardez-vous ensemble vos questions et votre confiance en Allah ?"
+   ],
+   "prompts_ar": [
+    "ماذا تسلّمتُ من الأجيال التي سبقتني، في أسرتي أو مجتمعي، وأشعر بالامتنان له؟",
+    "ماذا أحب أن أترك لمن يأتي بعدي، وما الجزء الصغير الذي أستطيع أن أبدأه هذا الأسبوع؟",
+    "سأل الملائكة، فأجابهم الله بأنه يعلم ما لا يعلمون. حين يقلقني شيء في العالم، كيف أجمع بين أسئلتي وثقتي بالله؟"
+   ],
+   "step_en": "Read the ayat around it (Al-Baqarah 30 to 33), then do one small thing today that leaves a place a little better than you found it, and make du'a for the people most affected by a changing climate.",
+   "step_fr": "Lisez les versets qui l'entourent (Al-Baqara 30 à 33), puis faites aujourd'hui un petit geste qui laisse un lieu un peu meilleur que vous ne l'avez trouvé, et faites une invocation pour les personnes les plus touchées par le changement climatique.",
+   "step_ar": "قراءة الآيات المحيطة بها (البقرة 30 إلى 33)، ثم القيام اليوم بعمل صغير يترك مكانًا أفضل قليلًا مما كان، والدعاء للناس الأكثر تضررًا من تغير المناخ.",
+   "title_eg": "مفاوضات الأمم المتحدة عن المناخ في تركيا خلصت من غير اتفاق",
+   "summary_eg": "قمة الأمم المتحدة للمناخ في أنطاليا في تركيا، اللي جمعت مندوبين من أكتر من 190 دولة، خلصت يوم الحد من غير اتفاق، عشان الدول فضلت مختلفة على موضوع الوقود الأحفوري. وكانت أطول قمة مناخ للأمم المتحدة لحد دلوقتي. والأمين العام للأمم المتحدة قال إن آثار تغيّر المناخ بتزيد، وطالب بدعم أكبر للدول اللي بتتأثر أكتر.",
+   "why_eg": "المختصر بيوضّح إن ربنا أخبر الملائكة إنه «سيجعل في الأرض بشرًا يخلُف بعضهم بعضًا، للقيام بعمارتها على طاعة الله»، ولما سألوا عن الحكمة في كده وهمّ هيفسدوا فيها ويسيلوا الدم، ردّ عليهم: «إني أعلم ما لا تعلمون». الآية مش عن مفاوضات المناخ؛ بس قوله ﴿إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗ﴾ بيفتح سؤال: إحنا اتحطّينا في الأرض ليه، وكل جيل بياخد إيه من اللي قبله وبيسيب إيه للي بعده؟",
+   "prompts_eg": [
+    [
+     "إيه اللي أخدته من الأجيال اللي قبلي، في عيلتي أو حواليّ، وأنا ممتن عليه؟",
+     "إيه اللي أخدته من الأجيال اللي قبلي، في عيلتي أو حواليّ، وأنا ممتنة عليه؟"
+    ],
+    "نفسي أسيب إيه للناس اللي جايين بعدي، وإيه الحتة الصغيرة اللي ممكن أبدأها الأسبوع ده؟",
+    "الملائكة سألوا، وربنا ردّ إنه يعلم اللي هما مايعلموهوش. لما حاجة في الدنيا تقلقني، إزاي أجمع بين أسئلتي وثقتي في ربنا؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات اللي حواليها (البقرة من 30 لـ 33)، وبعدين اعمل النهارده حاجة صغيرة تسيب بيها مكان أحسن شوية من ما كان، وادعي للناس اللي تغيّر المناخ أذاهم أكتر.",
+    "اقري الآيات اللي حواليها (البقرة من 30 لـ 33)، وبعدين اعملي النهارده حاجة صغيرة تسيب بيها مكان أحسن شوية من ما كان، وادعي للناس اللي تغيّر المناخ أذاهم أكتر."
+   ],
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168855"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse"
+    }
+   ]
+  },
+  {
    "date": "2026-11-23",
    "ayah": "12:18",
    "title_en": "Indonesia: dozens of workers missing after a fire at a candy factory in Java",
