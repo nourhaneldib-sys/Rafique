@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-11-25",
+   "ayah": "13:28",
+   "title_en": "Hong Kong: a year after a fire that killed 168, survivors live with their loss",
+   "title_fr": "Hong Kong : un an après un incendie qui a fait 168 morts, les survivants vivent avec le deuil",
+   "title_ar": "هونغ كونغ: بعد عام على حريق أودى بحياة 168 شخصًا، الناجون يعيشون مع الفقد",
+   "summary_en": "On 26 November 2025, a fire swept through seven apartment blocks at Wang Fuk Court in Hong Kong's Tai Po district, killing 168 people and displacing thousands. As the first anniversary nears, survivors describe how the loss still shapes their days: a 68-year-old widower still sends voice messages to his late wife. Some residents plan to lay flowers on Thursday, and prosecutions linked to the buildings' maintenance work are still under way.",
+   "summary_fr": "Le 26 novembre 2025, un incendie a ravagé sept immeubles d'habitation de Wang Fuk Court, dans le district de Tai Po à Hong Kong, faisant 168 morts et des milliers de déplacés. À l'approche du premier anniversaire, les survivants racontent combien la perte pèse encore sur leur quotidien : un veuf de 68 ans envoie toujours des messages vocaux à sa défunte épouse. Des habitants comptent déposer des fleurs jeudi, et les poursuites liées aux travaux d'entretien des immeubles sont toujours en cours.",
+   "summary_ar": "في 26 نوفمبر 2025، اجتاح حريق سبعة مبانٍ سكنية في مجمّع وانغ فوك كورت بمنطقة تاي بو في هونغ كونغ، فأودى بحياة 168 شخصًا وشرّد الآلاف. ومع اقتراب الذكرى الأولى، يروي الناجون كيف ما زال الفقد يطبع أيامهم؛ فأرملٌ في الثامنة والستين لا يزال يرسل رسائل صوتية إلى زوجته الراحلة. ويعتزم بعض السكان وضع الزهور يوم الخميس، فيما لا تزال الملاحقات القضائية المرتبطة بأعمال صيانة المباني جارية.",
+   "why_en": "Al-Mukhtasar explains that the hearts of those who believe find comfort in the remembrance of Allah: glorifying and praising Him, reciting His Book and listening to it. It is only natural, it says, that hearts find comfort in His remembrance. The ayah is not about Hong Kong; it raises a question every grieving person meets: where can a heart find rest after a loss?",
+   "why_fr": "Al-Mukhtasar explique que le cœur des croyants trouve réconfort et apaisement dans le rappel d'Allah : Le glorifier et Le louer, réciter Son Livre et l'écouter. Il est naturel, dit-il, que les cœurs trouvent la paix dans Son rappel. Le verset ne parle pas de Hong Kong ; il pose une question que rencontre toute personne en deuil : où un cœur peut-il trouver le repos après une perte ?",
+   "why_ar": "يبيّن المختصر أن المؤمنين «تستأنس قلوبهم بذكر الله بتسبيحه وتحميده، وبتلاوة كتابه وسماعه»، ثم يقول: «ألا بذكر الله وحده تستأنس القلوب، وخَلِيق بها ذلك». الآية ليست عن هونغ كونغ، لكنها تطرح سؤالًا يواجهه كل من فقد عزيزًا: أين يجد القلب سكينته بعد الفقد؟",
+   "prompts_en": [
+    "When grief or worry weighs on me, where do I actually turn first, and does it bring my heart rest?",
+    "Who in my life is still carrying a loss long after others have moved on, and how could I remember it with them?",
+    "Which form of remembrance (a few words of praise, a page of the Quran, quiet listening) could become a small daily refuge for me?"
+   ],
+   "prompts_fr": [
+    "Quand le chagrin ou l'inquiétude pèse sur vous, vers quoi vous tournez-vous d'abord, et cela apaise-t-il vraiment votre cœur ?",
+    "Qui, autour de vous, porte encore une perte bien après que les autres sont passés à autre chose, et comment pourriez-vous vous en souvenir avec lui ?",
+    "Quelle forme de rappel (quelques mots de louange, une page du Coran, une écoute paisible) pourrait devenir pour vous un petit refuge quotidien ?"
+   ],
+   "prompts_ar": [
+    "حين يثقل عليّ الحزن أو القلق، إلى أين ألجأ أولًا؟ وهل يمنح ذلك قلبي سكينة حقًّا؟",
+    "مَن في حياتي ما زال يحمل فقدًا بعد أن مضى الآخرون في حياتهم، وكيف أشاركه تذكّره؟",
+    "أيّ صورة من صور الذكر (تسبيح قليل، أو صفحة من القرآن، أو استماع في هدوء) يمكن أن تصبح لي ملجأً صغيرًا كل يوم؟"
+   ],
+   "step_en": "Read ayat 27 to 29 of Surat Ar-Ra'd, spend two quiet minutes saying SubhanAllah and Alhamdulillah, then make du'a for those who lost loved ones in the fire and for everyone grieving today.",
+   "step_fr": "Lisez les versets 27 à 29 de la sourate Ar-Ra'd, prenez deux minutes de calme pour dire SubhanAllah et Alhamdulillah, puis invoquez Allah pour ceux qui ont perdu des proches dans l'incendie et pour toutes les personnes en deuil aujourd'hui.",
+   "step_ar": "قراءة الآيات من 27 إلى 29 من سورة الرعد، ثم دقيقتان من التسبيح والتحميد في هدوء، ثم الدعاء لمن فقدوا أحبّتهم في الحريق ولكل محزون اليوم.",
+   "title_eg": "هونج كونج: بعد سنة من حريق مات فيه 168، الناجيين لسه عايشين مع الفقد",
+   "summary_eg": "يوم 26 نوفمبر 2025، حريق مسك في سبع عماير سكنية في مجمّع وانغ فوك كورت في منطقة تاي بو في هونج كونج، ومات فيه 168 شخص وآلاف اضطروا يسيبوا بيوتهم. ومع قرب أول ذكرى، الناجيين بيحكوا إزاي الفقد لسه مأثّر على أيامهم: راجل عنده 68 سنة لسه بيبعت رسايل صوتية لمراته اللي ماتت. في سكان ناويين يحطوا ورد يوم الخميس، والقضايا المرتبطة بأعمال صيانة العماير لسه شغالة.",
+   "why_eg": "المختصر بيوضّح إن المؤمنين «تستأنس قلوبهم بذكر الله بتسبيحه وتحميده، وبتلاوة كتابه وسماعه»، وبيقول: «ألا بذكر الله وحده تستأنس القلوب، وخَلِيق بها ذلك». الآية مش عن هونج كونج، بس بتطرح سؤال بيقابله كل حد فقد حد غالي: القلب يلاقي راحته فين بعد الفقد؟",
+   "prompts_eg": [
+    "لما الحزن أو القلق يتقل عليّ، بروح لإيه الأول؟ وهل ده بيريّح قلبي بجد؟",
+    "مين في حياتي لسه شايل فقد بعد ما الناس كلها كمّلت حياتها، وإزاي ممكن أفتكره معاه؟",
+    "إيه نوع الذكر (تسبيح بسيط، صفحة قرآن، أو إني أسمع في هدوء) اللي ممكن يبقى ملجأ صغير ليّا كل يوم؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 27 لـ 29 في سورة الرعد، وخد دقيقتين في هدوء تقول فيهم سبحان الله والحمد لله، وبعدين ادعي للي فقدوا حبايبهم في الحريق ولكل حد حزين النهارده.",
+    "اقري الآيات من 27 لـ 29 في سورة الرعد، وخدي دقيقتين في هدوء تقولي فيهم سبحان الله والحمد لله، وبعدين ادعي للي فقدوا حبايبهم في الحريق ولكل حد حزين النهارده."
+   ],
+   "sources": [
+    {
+     "name": "AP (via Yahoo News)",
+     "url": "https://ca.news.yahoo.com/hong-kongs-deadly-fire-survivors-010043514.html"
+    },
+    {
+     "name": "AP (via Daily Sitka Sentinel)",
+     "url": "https://sitkasentinel.com/stories/a-year-on-what-to-know-about-hong-kongs-deadly-fire-that-killed-168,188497"
+    }
+   ]
+  },
+  {
    "date": "2026-11-24",
    "ayah": "2:30",
    "title_en": "UN climate talks in Türkiye end without an agreement",
