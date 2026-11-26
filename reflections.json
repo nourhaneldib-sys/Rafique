@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "date": "2026-11-26",
+   "ayah": "16:90",
+   "title_en": "Bangladesh: garment workers offered a 36% pay rise after weeks of protest",
+   "title_fr": "Bangladesh : 36 % de hausse de salaire proposée aux ouvriers du textile après des manifestations",
+   "title_ar": "بنغلاديش: عرض زيادة بنسبة 36% في أجور عمال الملابس بعد أسابيع من الاحتجاج",
+   "summary_en": "Bangladesh's garment wage board has agreed to raise the monthly minimum wage from 12,500 taka ($100) to 17,500 taka ($136), below the 30,000 taka protesters had asked for. It is not yet clear whether workers will accept. The sector employs four million people, many of them women from rural areas, and the new wage takes effect in December.",
+   "summary_fr": "Au Bangladesh, le comité des salaires du textile a accepté de relever le salaire minimum mensuel de 12 500 takas (100 dollars) à 17 500 takas (136 dollars), en deçà des 30 000 takas réclamés par les manifestants. On ne sait pas encore si les ouvriers accepteront. Le secteur emploie quatre millions de personnes, dont beaucoup de femmes venues des campagnes, et le nouveau salaire s'appliquera dès décembre.",
+   "summary_ar": "وافق مجلس الأجور لقطاع الملابس في بنغلاديش على رفع الحد الأدنى للأجر الشهري من 12,500 تاكا (100 دولار) إلى 17,500 تاكا (136 دولارًا)، وهو أقل من 30,000 تاكا التي طالب بها المحتجون، ولم يتضح بعدُ هل سيقبل العمال العرض. ويعمل في هذا القطاع أربعة ملايين شخص، كثير منهم نساء من المناطق الريفية، ويبدأ تطبيق الأجر الجديد في ديسمبر.",
+   "why_en": "Al-Mukhtasar explains that Allah commands justice, giving both Allah's rights and people's rights, and excellence (ihsan), doing more than what is required, such as spending voluntarily and forgiving; He forbids oppression and arrogance over people. This ayah is not about this event. It raises a question for each of us: do I give others their full due, and do I go beyond it?",
+   "why_fr": "Selon Al-Mukhtasar, Allah ordonne la justice, qui consiste à s'acquitter des droits d'Allah et de ceux des gens, et la bienfaisance, qui consiste à faire plus que l'obligatoire, comme donner de bon cœur et pardonner ; Il interdit l'injustice et l'arrogance envers les gens. Ce verset ne parle pas de cet événement. Il pose une question à chacun : est-ce que je rends aux autres tout leur dû, et est-ce que je vais au-delà ?",
+   "why_ar": "يبيّن المختصر أن الله ﴿يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ﴾: العدل «بأن يؤدي العبد حقوق الله وحقوق العباد»، والإحسان «بأن يتفضل العبد بما لا يلزمه كالإنفاق تطوعًا والعفو عن الظالم»، و«ينهى عن الظلم والتكبر على الناس». والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: هل أؤدي للناس حقوقهم كاملة، وهل أزيد عليها؟",
+   "prompts_en": [
+    "Whose work makes my daily life easier, and do I really see it?",
+    "Is there someone whose right I owe, small or large, that I have delayed giving?",
+    "Where could I go beyond what is required of me today, in money, time or kindness?"
+   ],
+   "prompts_fr": [
+    "Le travail de qui rend ma vie quotidienne plus facile, et est-ce que je le vois vraiment ?",
+    "Y a-t-il quelqu'un à qui je dois un droit, petit ou grand, que je tarde à rendre ?",
+    "Où pourrais-je aller au-delà de ce qu'on attend de moi aujourd'hui, en argent, en temps ou en bonté ?"
+   ],
+   "prompts_ar": [
+    "مَن الذين يُيسِّر عملُهم حياتي اليومية، وهل أرى جهدهم حقًّا؟",
+    "هل لأحدٍ عندي حقٌّ، صغيرًا كان أو كبيرًا، أؤخّر أداءه؟",
+    "أين يمكنني اليوم أن أزيد على ما يلزمني، بمالٍ أو وقتٍ أو لطف؟"
+   ],
+   "step_en": "Give someone who serves you today their due promptly and add a little more: a sincere thank-you, a tip, or a du'a for them by name.",
+   "step_fr": "Aujourd'hui, donnez sans tarder son dû à quelqu'un qui vous rend service, et ajoutez-y un peu plus : un merci sincère, un pourboire ou une invocation pour lui.",
+   "step_ar": "أداء حقّ مَن يقدّم لي خدمة اليوم دون تأخير، مع زيادة يسيرة: شكرٌ صادق، أو إكرامية، أو دعاءٌ له.",
+   "title_eg": "بنجلاديش: عرض زيادة 36% في مرتبات عمال الملابس بعد أسابيع من الاحتجاجات",
+   "summary_eg": "مجلس الأجور لقطاع الملابس في بنجلاديش وافق إنه يرفع الحد الأدنى للمرتب الشهري من 12,500 تاكا (100 دولار) لـ 17,500 تاكا (136 دولار)، وده أقل من الـ 30,000 تاكا اللي المحتجين كانوا طالبينها، ولسه مش واضح العمال هيقبلوا ولا لأ. القطاع ده بيشتغل فيه أربعة مليون شخص، كتير منهم ستات من الأرياف، والمرتب الجديد هيبدأ في ديسمبر.",
+   "why_eg": "المختصر بيوضّح إن ربنا ﴿يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ﴾: العدل «بأن يؤدي العبد حقوق الله وحقوق العباد»، والإحسان «بأن يتفضل العبد بما لا يلزمه كالإنفاق تطوعًا والعفو عن الظالم»، و«ينهى عن الظلم والتكبر على الناس». الآية مش عن الحدث ده، بس بتسأل كل واحد فينا: هل بدّي الناس حقهم كامل، وهل بزوّد عليه؟",
+   "prompts_eg": [
+    [
+     "مين اللي شغلهم بيسهّل حياتي كل يوم، وهل أنا فعلًا شايف تعبهم؟",
+     "مين اللي شغلهم بيسهّل حياتي كل يوم، وهل أنا فعلًا شايفة تعبهم؟"
+    ],
+    [
+     "هل فيه حد ليه عندي حق، صغير أو كبير، وأنا مأجّله؟",
+     "هل فيه حد ليه عندي حق، صغير أو كبير، وأنا مأجّلاه؟"
+    ],
+    "فين ممكن النهارده أعمل أكتر من اللي مطلوب مني، بفلوس أو وقت أو كلمة حلوة؟"
+   ],
+   "step_eg": [
+    "النهارده إدّي حد بيخدمك حقه من غير تأخير، وزوّد حاجة بسيطة: شكر من القلب، أو بقشيش، أو دعوة حلوة ليه.",
+    "النهارده إدّي حد بيخدمك حقه من غير تأخير، وزوّدي حاجة بسيطة: شكر من القلب، أو بقشيش، أو دعوة حلوة ليه."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera (with AFP)",
+     "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
+    }
+   ]
+  },
+  {
    "date": "2026-11-25",
    "ayah": "13:28",
    "title_en": "Hong Kong: a year after a fire that killed 168, survivors live with their loss",
