@@ -1,6 +1,58 @@
 {
  "items": [
   {
+   "date": "2026-11-27",
+   "ayah": "30:21",
+   "title_en": "UN: about 47,000 women and girls were killed by a partner or relative in 2025",
+   "title_fr": "ONU : environ 47 000 femmes et filles tuées par un partenaire ou un proche en 2025",
+   "title_ar": "الأمم المتحدة: نحو 47 ألف امرأة وفتاة قُتلن على يد شريك أو قريب في عام 2025",
+   "summary_en": "A report by UNODC and UN Women, released for the International Day for the Elimination of Violence against Women, found that about 47,000 women and girls were killed by an intimate partner or family member in 2025: around 60% of the 78,000 killed intentionally, or 129 a day. It says the home remains the most dangerous place for a woman or girl, and that most never seek help or are left without protection.",
+   "summary_fr": "Un rapport de l'ONUDC et d'ONU Femmes, publié pour la Journée internationale pour l'élimination de la violence à l'égard des femmes, indique qu'environ 47 000 femmes et filles ont été tuées par un partenaire intime ou un membre de leur famille en 2025 : près de 60 % des 78 000 tuées intentionnellement, soit 129 par jour. Selon le rapport, le foyer reste l'endroit le plus dangereux pour une femme ou une fille, et la plupart ne demandent jamais d'aide ou restent sans protection.",
+   "summary_ar": "أفاد تقرير لمكتب الأمم المتحدة المعني بالمخدرات والجريمة وهيئة الأمم المتحدة للمرأة، صدر بمناسبة اليوم الدولي للقضاء على العنف ضد المرأة، بأن نحو 47 ألف امرأة وفتاة قُتلن على يد شريك حميم أو أحد أفراد الأسرة في عام 2025، أي نحو 60% من 78 ألفًا قُتلن عمدًا، بمعدل 129 كل يوم. ويذكر التقرير أن البيت لا يزال أخطر مكان على المرأة والفتاة، وأن أكثرهن لا يطلبن المساعدة أبدًا أو يُتركن بلا حماية.",
+   "why_en": "Al-Mukhtasar explains that among Allah's great signs is that He created for men wives from their own kind, so they find contentment in them through the compatibility between them, and placed love and affection between them: clear proofs for people who reflect. This ayah is not about this event. It raises a question for each of us: is my home, and am I, a place of rest, love and mercy for those closest to me?",
+   "why_fr": "Selon Al-Mukhtasar, l'un des grands signes d'Allah est qu'Il a créé pour les hommes des conjointes de leur propre race, afin qu'ils trouvent l'apaisement dans l'harmonie qui les unit, et qu'Il a suscité dans leurs cœurs amour et compassion : des preuves pour ceux qui réfléchissent. Ce verset ne parle pas de cet événement. Il pose une question à chacun : mon foyer, et moi-même, sommes-nous un lieu de repos, d'amour et de miséricorde pour nos proches ?",
+   "why_ar": "يبيّن المختصر أن من آيات الله العظيمة أنه خلق للرجال «من جنسكم أزواجًا لتطمئن أنفسكم إليهن»، ﴿وَجَعَلَ بَيۡنَكُم مَّوَدَّةٗ وَرَحۡمَةً﴾ أي «محبة وشفقة»، وفي ذلك دلالات «لقوم يتفكرون». والآية ليست عن هذا الحدث، لكنها تطرح سؤالًا: هل بيتي، وهل أنا، موضعُ سكينةٍ ومودةٍ ورحمة لأقرب الناس إليّ؟",
+   "prompts_en": [
+    "When I am angry or tired, how do the people in my home experience me?",
+    "Who around me might be carrying something heavy at home, and would they feel safe telling me?",
+    "What is one way I can bring more calm and mercy into my home this week?"
+   ],
+   "prompts_fr": [
+    "Dans mes moments de colère ou de fatigue, comment les personnes de mon foyer me perçoivent-elles ?",
+    "Qui, autour de moi, porte peut-être un poids lourd à la maison, et cette personne se sentirait-elle en sécurité pour m'en parler ?",
+    "De quelle manière puis-je apporter plus de calme et de miséricorde dans mon foyer cette semaine ?"
+   ],
+   "prompts_ar": [
+    "كيف يراني أهل بيتي في لحظات غضبي أو تعبي؟",
+    "مَن حولي قد يحمل همًّا ثقيلًا في بيته، وهل يشعر بالأمان إن حدّثني به؟",
+    "ما الطريقة التي أُدخل بها مزيدًا من السكينة والرحمة إلى بيتي هذا الأسبوع؟"
+   ],
+   "step_en": "Read Surah Ar-Rum 30:20–25, then say one sincerely kind word to someone at home, and make du'a for every woman and girl who does not feel safe in hers.",
+   "step_fr": "Lisez les versets 20 à 25 de la sourate Ar-Rum, puis adressez une parole sincèrement bienveillante à un proche, et invoquez Allah pour chaque femme et chaque fille qui ne se sent pas en sécurité chez elle.",
+   "step_ar": "قراءة الآيات من 20 إلى 25 من سورة الروم، ثم قول كلمة طيبة صادقة لأحد أهل البيت، والدعاء لكل امرأة وفتاة لا تشعر بالأمان في بيتها.",
+   "title_eg": "الأمم المتحدة: حوالي 47 ألف ست وبنت اتقتلوا على إيد شريك أو قريب سنة 2025",
+   "summary_eg": "تقرير من مكتب الأمم المتحدة المعني بالمخدرات والجريمة وهيئة الأمم المتحدة للمرأة، طلع بمناسبة اليوم الدولي للقضاء على العنف ضد المرأة، بيقول إن حوالي 47 ألف ست وبنت اتقتلوا على إيد شريك أو حد من العيلة سنة 2025، يعني حوالي 60% من الـ 78 ألف اللي اتقتلوا عمدًا، بمعدل 129 كل يوم. والتقرير بيقول إن البيت لسه أخطر مكان على الست والبنت، وإن أغلبهم عمرهم ما بيطلبوا مساعدة أو بيفضلوا من غير حماية.",
+   "why_eg": "المختصر بيوضّح إن من آيات ربنا العظيمة إنه خلق للرجالة «من جنسكم أزواجًا لتطمئن أنفسكم إليهن»، ﴿وَجَعَلَ بَيۡنَكُم مَّوَدَّةٗ وَرَحۡمَةً﴾ يعني «محبة وشفقة»، وده فيه دلالات «لقوم يتفكرون». الآية مش عن الحدث ده، بس بتسأل كل واحد فينا: هل بيتي، وهل أنا، مكان راحة ومودة ورحمة لأقرب الناس ليّا؟",
+   "prompts_eg": [
+    [
+     "لما بكون متعصّب أو تعبان، أهل بيتي بيشوفوني إزاي؟",
+     "لما بكون متعصّبة أو تعبانة، أهل بيتي بيشوفوني إزاي؟"
+    ],
+    "مين حواليّا ممكن يكون شايل هم تقيل في بيته، وهل هيحس بالأمان لو حكالي؟",
+    "إيه حاجة واحدة ممكن أعملها عشان أدخّل هدوء ورحمة أكتر في بيتي الأسبوع ده؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 20 لـ 25 من سورة الروم، وقول كلمة حلوة من قلبك لحد من أهل بيتك، وادعي لكل ست وبنت مش حاسة بالأمان في بيتها.",
+    "اقري الآيات من 20 لـ 25 من سورة الروم، وقولي كلمة حلوة من قلبك لحد من أهل بيتك، وادعي لكل ست وبنت مش حاسة بالأمان في بيتها."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un"
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "ayah": "16:90",
    "title_en": "Bangladesh: garment workers offered a 36% pay rise after weeks of protest",
