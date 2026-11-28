@@ -1,6 +1,59 @@
 {
  "items": [
   {
+   "date": "2026-11-28",
+   "ayah": "59:18",
+   "title_en": "Egypt: fuel tanker fire on Cairo's Ring Road kills 31 at rush hour",
+   "title_fr": "Égypte : l'incendie d'un camion-citerne sur le périphérique du Caire fait 31 morts",
+   "title_ar": "مصر: حريق شاحنة وقود على الطريق الدائري بالقاهرة يودي بحياة 31 شخصًا",
+   "summary_en": "On Wednesday evening, at the height of rush hour, a fuel tanker overturned and caught fire on an elevated stretch of the Ring Road in al-Waraq, Giza. The Health Ministry gave a final toll of 31 dead and 26 injured, and 27 vehicles were destroyed. Many of those killed were likely people heading home from work or school. A driver has been detained while prosecutors investigate, and DNA tests are being used to identify victims.",
+   "summary_fr": "Mercredi soir, en pleine heure de pointe, un camion-citerne s'est renversé et a pris feu sur une portion surélevée du périphérique, à al-Warraq (Gizeh). Le ministère de la Santé fait état d'un bilan définitif de 31 morts et 26 blessés ; 27 véhicules ont été détruits. Beaucoup de victimes rentraient sans doute du travail ou des cours. Un conducteur a été placé en détention pendant l'enquête du parquet, et des tests ADN servent à identifier les victimes.",
+   "summary_ar": "مساء الأربعاء، في ذروة ساعة الازدحام، انقلبت شاحنة وقود واشتعلت فيها النيران على جزء مرتفع من الطريق الدائري في منطقة الوراق بالجيزة. وأعلنت وزارة الصحة حصيلة نهائية بلغت 31 قتيلًا و26 مصابًا، فيما احترقت 27 مركبة. وكان كثير من الضحايا على الأرجح عائدين من أعمالهم أو دراستهم. وقد احتُجز سائق على ذمة تحقيقات النيابة، وتُجرى تحاليل الحمض النووي للتعرف على الضحايا.",
+   "why_en": "Al-Mukhtasar explains this ayah as a call to be mindful of Allah and for each soul to ponder the good deeds it has sent ahead for the Day of Judgement, knowing that none of our actions is hidden from Him. The ayah is not about this fire. It raises a question that sudden loss makes urgent: what am I sending ahead today, while I still have time?",
+   "why_fr": "Selon Al-Mukhtasar, ce verset appelle à craindre Allah et invite chaque âme à méditer sur les bonnes œuvres qu'elle a envoyées en avance pour le Jour du Jugement, sachant qu'aucune de nos actions ne Lui échappe. Ce verset ne parle pas de cet incendie. Il pose une question que la perte soudaine rend pressante : qu'est-ce que j'envoie en avance aujourd'hui, tant qu'il en est encore temps ?",
+   "why_ar": "يبيّن المختصر أن الآية أمرٌ بتقوى الله، ودعوةٌ إلى أن ﴿وَلۡتَنظُرۡ نَفۡسٞ مَّا قَدَّمَتۡ لِغَدٖ﴾، أي: «ولتتأمل نفس ما قدمت من عمل صالح ليوم القيامة»، فالله «لا يخفى عليه من أعمالكم شيء». والآية لا تتحدث عن هذا الحريق، لكنها تثير سؤالًا يجعله الفقد المفاجئ ملحًّا: ماذا أقدّم اليوم ما دام في العمر متّسع؟",
+   "prompts_en": [
+    "If today were my last ordinary commute home, what would I want to have done or said before it?",
+    "Which good deed have I kept postponing because I assumed I would always have tomorrow?",
+    "How can I take more care of other people's safety in the small choices I make every day?"
+   ],
+   "prompts_fr": [
+    "Si aujourd'hui était mon dernier trajet ordinaire vers la maison, qu'aurais-je voulu faire ou dire avant ?",
+    "Quelle bonne action est-ce que je repousse sans cesse, comme si demain m'était toujours acquis ?",
+    "Comment puis-je mieux veiller à la sécurité des autres dans les petits choix de chaque jour ?"
+   ],
+   "prompts_ar": [
+    "لو كان طريق عودتي اليوم هو الأخير، فماذا كنت أودّ أن أفعل أو أقول قبله؟",
+    "ما العمل الصالح الذي أؤجّله دائمًا كأن الغد مضمون لي؟",
+    "كيف أحرص أكثر على سلامة الآخرين في اختياراتي الصغيرة كل يوم؟"
+   ],
+   "step_en": "Read Surah Al-Hashr 59:18-20, make du'a for those who died and for their families, and do one good deed today that you have been putting off.",
+   "step_fr": "Lisez les versets 59:18-20 de la sourate Al-Hashr, faites une invocation pour les défunts et leurs familles, et accomplissez aujourd'hui une bonne action que vous repoussiez.",
+   "step_ar": "قراءة الآيات 18-20 من سورة الحشر، والدعاء للمتوفَّين بالرحمة ولأهلهم بالصبر، ثم إنجاز عمل صالح مؤجَّل اليوم.",
+   "title_eg": "مصر: حريقة عربية بنزين على الدائري في ساعة الذروة وموت 31 شخص",
+   "summary_eg": "يوم الأربع بالليل، في عز الزحمة، عربية بنزين اتقلبت وولعت على حتة عالية من الدائري في الوراق بالجيزة. وزارة الصحة قالت إن الحصيلة النهائية 31 متوفي و26 مصاب، و27 عربية اتحرقت. وأغلب اللي ماتوا غالبًا كانوا راجعين من الشغل أو من الدراسة. النيابة حبست سواق على ذمة التحقيق، وبيعملوا تحاليل DNA عشان يتعرفوا على الضحايا.",
+   "why_eg": "المختصر بيوضح إن الآية أمر بتقوى الله، ودعوة إن ﴿وَلۡتَنظُرۡ نَفۡسٞ مَّا قَدَّمَتۡ لِغَدٖ﴾، يعني: «ولتتأمل نفس ما قدمت من عمل صالح ليوم القيامة»، وإن ربنا «لا يخفى عليه من أعمالكم شيء». الآية مش بتتكلم عن الحريقة دي، لكنها بتفتح سؤال الفقد المفاجئ بيخليه ملحّ: أنا بقدّم إيه النهارده وأنا لسه عندي وقت؟",
+   "prompts_eg": [
+    "لو مشوار رجوعي البيت النهارده كان آخر مشوار، كان نفسي أعمل أو أقول إيه قبله؟",
+    "إيه الخير اللي بأجّله على طول كأن بكره مضمون؟",
+    "إزاي أخلي بالي أكتر من أمان الناس اللي حواليا في اختياراتي الصغيرة كل يوم؟"
+   ],
+   "step_eg": [
+    "اقرا الآيات من 18 لـ20 من سورة الحشر، وادعي للي ماتوا بالرحمة ولأهاليهم بالصبر، واعمل النهارده حاجة حلوة كنت مأجلها.",
+    "اقري الآيات من 18 لـ20 من سورة الحشر، وادعي للي ماتوا بالرحمة ولأهاليهم بالصبر، واعملي النهارده حاجة حلوة كنت مأجلاها."
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31"
+    },
+    {
+     "name": "AP via ABC News",
+     "url": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415"
+    }
+   ]
+  },
+  {
    "date": "2026-11-27",
    "ayah": "30:21",
    "title_en": "UN: about 47,000 women and girls were killed by a partner or relative in 2025",
